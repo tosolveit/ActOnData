@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.31.62.119,Hunterfurt
+WARNING,192.168.229.130,North David,michael63,2024-01-25 09:36:30
+SUCCESS,192.168.49.253,Aprilview
+NOTICE,10.68.115.127,North Jamesstad,deniseroberts
+WARNING,10.12.177.10,South Meganburgh

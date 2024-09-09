@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.22.25.125,Mitchellview,williamstristan,2024-07-25 01:44:27,POST,iOS
+WARNING,172.18.17.37,Jensenmouth,carolinehodges,2024-05-26 10:25:01,PUT,Windows
+WARNING,192.168.222.65,West Stanley,jonathanwillis
+WARNING,172.21.192.110,Smithton,dorothy49

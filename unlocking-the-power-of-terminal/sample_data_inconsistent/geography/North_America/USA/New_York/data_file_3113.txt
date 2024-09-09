@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.28.80.254,Conleyborough,scottjohn,2024-09-06 19:09:06
+INFO,10.108.81.0,North Loriland,kentjared,2024-04-28 23:48:52,GET
+CRITICAL,172.21.253.147,Lukestad,kylecox,2024-04-14 06:56:36,DELETE,Android

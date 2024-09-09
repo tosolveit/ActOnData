@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.24.52.93,West Jennifer,dayjavier
+WARNING,192.168.174.250,Lake Tammyhaven,jasonpace,2024-09-09 06:29:04,DELETE
+CRITICAL,10.230.109.203,Lake Gwendolynstad
+NOTICE,192.168.113.90,Glennton,tjordan,2024-02-02 15:58:46,PUT

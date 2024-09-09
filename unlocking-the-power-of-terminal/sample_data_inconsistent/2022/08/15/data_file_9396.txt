@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.107.208,Port Sandrafurt,jeffery81
+DEBUG,192.168.66.89,Kristimouth
+NOTICE,172.29.199.241,New Steven,castrogarrett,2024-03-08 14:49:23,PUT,iOS
+SUCCESS,10.176.171.113,Haynesbury,anne99
+ERROR,172.21.9.250,Jonesside,ericsherman,2024-07-10 03:45:01,POST,iOS

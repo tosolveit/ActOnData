@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.46.18,Moralesbury
+FAILURE,192.168.90.112,South Roseview,burkebryan,2024-04-03 16:26:15
+INFO,172.22.159.51,Jeffreystad,robertcruz,2024-05-17 03:53:25
+INFO,192.168.183.85,Port Anthonyberg,julie98,2024-03-16 20:43:29,PUT
+NOTICE,192.168.151.193,Lake Kaitlinchester

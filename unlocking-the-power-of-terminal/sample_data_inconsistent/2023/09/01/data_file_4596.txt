@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.107.202.35,Stephanieland,woodjohn
+NOTICE,10.240.30.244,New Jamieberg,jessicalin,2024-02-01 18:19:32,POST
+FAILURE,10.93.0.92,Jillfort,diazcarlos
+INFO,10.123.147.208,Hoffmanchester,richard56,2024-04-17 21:43:18,DELETE
+CRITICAL,192.168.195.156,Thomasbury,rachelmarks,2024-06-16 15:43:36,POST,Linux

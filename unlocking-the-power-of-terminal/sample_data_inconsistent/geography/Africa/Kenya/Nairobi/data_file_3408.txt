@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.127.225.13,Lake Amanda,kristensantos,2024-08-10 17:05:39
+DEBUG,172.28.241.114,Meyersborough
+DEBUG,10.53.171.8,New Jonathan,hannah54
+CRITICAL,192.168.73.211,New Daniel
+ERROR,172.25.167.208,North Jimmyhaven,frank79,2024-03-11 12:16:16,DELETE,Windows

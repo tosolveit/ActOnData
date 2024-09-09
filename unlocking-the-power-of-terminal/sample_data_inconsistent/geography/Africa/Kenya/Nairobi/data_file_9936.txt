@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.233.255,New Lauraberg,martinezchristopher,2024-06-05 08:32:54,GET,Android
+WARNING,10.192.231.176,Anthonyland,coxkeith,2024-05-25 00:29:47
+ERROR,10.242.177.14,Prattborough,wadams,2024-07-20 19:38:54,DELETE
+CRITICAL,172.16.29.144,New Amy,bautistaamanda,2024-04-30 02:22:23

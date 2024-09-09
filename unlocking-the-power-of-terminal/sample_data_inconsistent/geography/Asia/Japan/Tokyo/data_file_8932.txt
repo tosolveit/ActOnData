@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.180.15.133,Christopherfort
+FAILURE,192.168.207.239,East Michaelland
+CRITICAL,10.238.242.140,South Justinshire,rchase,2024-02-29 11:39:20
+SUCCESS,10.136.245.177,North Scotthaven,nguyeneric

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.75.60,New Darrellland,vegaclinton,2024-04-22 17:16:27,GET
+NOTICE,172.27.239.11,Kennedyfort,robin93

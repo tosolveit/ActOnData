@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.235.68,Melissaton,vcarr,2024-07-30 01:41:31,PUT
+SUCCESS,10.60.48.39,New Michaelstad
+CRITICAL,10.21.65.209,Kimberlyfurt,rebeccafranklin,2024-07-14 05:44:27,GET
+SUCCESS,172.17.131.1,Burtontown,davisbrenda,2024-06-15 13:50:25,GET,macOS

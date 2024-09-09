@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.17.208.89,West Robertchester,christopher05,2024-02-25 02:17:46,DELETE,macOS
+DEBUG,10.104.53.204,West James,brooksanthony,2024-04-25 07:59:55,PUT
+DEBUG,10.166.93.161,Sheashire,ksteele,2024-02-28 11:23:42,DELETE,macOS
+CRITICAL,172.21.243.10,West Deanna,amanda30
+CRITICAL,172.24.142.38,Port Patriciahaven

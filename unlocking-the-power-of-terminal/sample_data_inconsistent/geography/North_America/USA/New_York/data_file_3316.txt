@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.254.162.111,New Ethan,donnakhan
+SUCCESS,172.31.222.13,Markstad
+ERROR,192.168.232.94,Petersonberg,heaton,2024-04-09 02:20:05
+FAILURE,172.27.170.141,New Gregoryview,mjones
+WARNING,192.168.18.63,Brianville,mcraig,2024-05-19 17:37:23,DELETE

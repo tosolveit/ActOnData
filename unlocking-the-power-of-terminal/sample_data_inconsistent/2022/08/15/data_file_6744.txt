@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.28.231.30,Fordton,guzmanteresa,2024-05-12 21:04:26,DELETE,iOS
+WARNING,192.168.181.57,Williamsland,james35,2024-05-01 23:02:04,GET,Linux
+SUCCESS,192.168.54.225,South Brian

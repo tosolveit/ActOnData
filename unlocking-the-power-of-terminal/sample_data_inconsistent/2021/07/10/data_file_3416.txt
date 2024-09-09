@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.169.137,South Deborah,krush
+SUCCESS,10.135.106.14,West Sophiaport,emiller,2024-08-09 09:39:14,POST,macOS
+ERROR,172.23.163.252,Mccallton,sjordan,2024-06-23 12:51:05,DELETE,Linux
+SUCCESS,192.168.85.138,Devonton
+FAILURE,10.184.73.110,South Dana,robert72,2024-01-12 02:15:51,DELETE,macOS

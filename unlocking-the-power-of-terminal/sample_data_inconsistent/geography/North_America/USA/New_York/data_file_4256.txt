@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.94.64.237,New Robin,tyler43,2024-03-01 05:07:32
+DEBUG,192.168.202.191,Mossburgh,johnsonjack
+INFO,192.168.103.60,East Michaelfort
+CRITICAL,172.25.189.169,New Angela,rachelwilson,2024-02-03 23:33:51

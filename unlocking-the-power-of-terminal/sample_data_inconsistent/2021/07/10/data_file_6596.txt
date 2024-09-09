@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.53.145,Moorechester
+ERROR,192.168.20.9,Lake Tiffanyside,nchen
+WARNING,10.151.31.5,Wilsontown
+WARNING,172.23.174.129,Smithton,samanthameza,2024-05-07 06:42:09,GET,Android

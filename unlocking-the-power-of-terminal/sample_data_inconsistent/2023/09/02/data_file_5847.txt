@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.137.76.52,South Sethtown,fordamanda
+DEBUG,172.27.41.62,Normanshire,andersonjennifer,2024-02-22 17:34:04,DELETE
+CRITICAL,172.20.171.24,New Michael,tina58
+CRITICAL,192.168.46.102,Port Jasmineport,lsuarez,2024-03-10 21:00:05,DELETE

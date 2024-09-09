@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.19.24.8,South Jennyville,munozkathryn,2024-06-18 03:20:57,GET
+SUCCESS,192.168.48.137,North David

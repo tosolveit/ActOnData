@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.178.119.43,South Judyton,emartin
+NOTICE,192.168.21.127,East Jimburgh,austintucker
+NOTICE,192.168.66.221,West Franciscomouth,ykramer,2024-04-15 07:46:52

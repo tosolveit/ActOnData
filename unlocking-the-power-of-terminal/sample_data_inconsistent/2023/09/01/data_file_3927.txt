@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.73.195.250,Boltonside
+NOTICE,10.64.123.12,Sharonberg,daniel47,2024-01-10 21:06:11,DELETE
+WARNING,10.120.209.43,Dianechester,michael28,2024-05-15 03:21:46,GET,Linux
+ERROR,192.168.242.64,Robinsonside,christopherwilliams,2024-04-15 19:37:22,POST,macOS
+NOTICE,192.168.58.13,Jeremyborough,jonathan93,2024-05-06 23:24:24,PUT

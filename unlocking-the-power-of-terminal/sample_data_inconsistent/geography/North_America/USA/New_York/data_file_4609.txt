@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.63.220,Hernandeztown,ecrane,2024-05-29 03:06:59,DELETE,Android
+INFO,172.29.140.145,Susanchester
+ERROR,192.168.21.158,Stephenstad,erichenderson
+FAILURE,192.168.231.185,Harrishaven,eugenecooper
+FAILURE,10.65.233.228,Tammyfort,mariahhayes,2024-07-23 20:41:01

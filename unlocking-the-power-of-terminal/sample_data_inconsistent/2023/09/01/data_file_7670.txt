@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.16.131.120,West Joe,aviladonald,2024-08-24 11:37:17,POST
+SUCCESS,10.193.82.143,Lisastad
+INFO,10.0.159.172,North Robert,kingzachary,2024-06-30 14:45:08,GET
+DEBUG,172.19.124.122,Shanehaven,lhodge,2024-07-21 05:07:37,POST

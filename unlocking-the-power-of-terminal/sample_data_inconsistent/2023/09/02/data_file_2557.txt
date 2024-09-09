@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.22.155.46,Port Karaville,vbond,2024-06-17 03:42:15,POST,Windows
+ERROR,192.168.238.180,North Cynthia,gcarlson,2024-05-12 12:04:49,GET

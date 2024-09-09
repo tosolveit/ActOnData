@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.153.93,Sarahberg,njohnson
+FAILURE,10.239.141.33,North Paul,solomonsteven,2024-08-14 18:03:19,DELETE
+WARNING,192.168.100.132,East Jaredland,garciatammy,2024-07-17 04:18:13,PUT
+ERROR,10.151.249.61,Williamberg,bishopalison,2024-05-07 23:05:43,POST
+NOTICE,10.4.233.6,West Thomasfort,stevenvargas,2024-06-17 05:04:55,GET,Android

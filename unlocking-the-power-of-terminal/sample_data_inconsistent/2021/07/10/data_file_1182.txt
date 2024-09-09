@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.31.51.98,North Codyland
+CRITICAL,172.26.173.69,East Danachester
+NOTICE,192.168.38.152,East Franciscoshire

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.240.77,Lake Howardborough,stephaniecooper,2024-04-17 16:08:55,DELETE,Android
+WARNING,192.168.214.127,Juliafort,lweaver,2024-06-03 06:49:49,GET,Android
+ERROR,172.21.217.143,Chavezland
+INFO,192.168.58.180,Karenmouth,catherinefreeman,2024-05-05 16:22:18

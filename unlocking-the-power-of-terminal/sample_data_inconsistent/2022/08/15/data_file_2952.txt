@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.79.201.189,North Michael,jonesbarbara,2024-07-29 12:50:39,PUT,Android
+WARNING,10.23.138.47,Lake Jessicachester
+DEBUG,10.26.23.151,Dominguezstad,medinacasey
+INFO,172.25.60.208,Lake Paulshire,vanessahenry,2024-03-17 02:21:01
+NOTICE,172.21.231.118,Timothyshire,jameslam

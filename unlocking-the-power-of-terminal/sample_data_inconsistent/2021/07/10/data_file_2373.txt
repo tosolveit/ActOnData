@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.12.191.160,North Jeremychester,yking,2024-02-12 10:28:30
+DEBUG,192.168.234.124,Mcdonaldberg
+SUCCESS,172.23.87.23,South Reginafort,moyersarah
+CRITICAL,172.19.184.3,East Michellebury,jacobcalhoun,2024-07-12 09:44:11,POST,Windows
+ERROR,172.23.140.191,New Kelly,macdonaldroger

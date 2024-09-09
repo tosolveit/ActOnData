@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.27.117.93,Randallside,denniskelly
+SUCCESS,172.20.120.237,Jenniferfort,ylopez,2024-08-26 08:05:45,DELETE
+CRITICAL,192.168.47.107,Marshallview,kwilliams,2024-01-16 14:02:59
+CRITICAL,172.23.148.105,Floresberg
+SUCCESS,192.168.255.240,Lake Toddfort,zavalaamy,2024-01-05 03:51:24,GET,iOS

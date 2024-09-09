@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.157.188.144,East Michelle,burgessjeffrey,2024-06-17 13:56:10,GET
+INFO,192.168.198.55,Williamsfort,joshuatownsend,2024-01-07 05:00:21
+NOTICE,10.212.32.103,East Johnburgh,pamelajones,2024-05-12 18:07:04,GET,Android
+WARNING,10.108.111.42,West Markville,ymcknight,2024-09-03 03:32:38,DELETE

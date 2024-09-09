@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.18.161.117,Jenniferside,hayesnancy
+WARNING,172.28.9.47,Ruizborough,david83
+DEBUG,10.33.51.22,Jacobstad,normanjeremy,2024-04-22 09:04:45,GET
+CRITICAL,10.80.238.152,Tracystad,daniel63

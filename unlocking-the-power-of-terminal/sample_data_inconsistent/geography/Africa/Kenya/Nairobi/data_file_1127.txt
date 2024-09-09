@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.122.114.90,New Wandafort,wendylogan
+DEBUG,10.130.124.6,Murphyville,hjackson,2024-04-17 18:57:12,GET
+WARNING,192.168.180.171,Jessicaland,nsanders,2024-05-15 09:19:26,GET,macOS
+SUCCESS,192.168.242.47,Thomasville,munozadam,2024-01-28 05:16:53
+SUCCESS,192.168.141.12,Emilyburgh,lisaadams

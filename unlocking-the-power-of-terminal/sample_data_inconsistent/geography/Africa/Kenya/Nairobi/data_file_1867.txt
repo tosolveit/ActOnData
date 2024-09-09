@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.181.145,Christopherland,dramirez,2024-08-02 12:09:58,POST,Android
+CRITICAL,10.244.184.9,East Maryview,tammyallen,2024-03-18 08:11:42,PUT
+INFO,10.159.134.155,Port Adam,nicholsmaria,2024-02-02 19:42:47

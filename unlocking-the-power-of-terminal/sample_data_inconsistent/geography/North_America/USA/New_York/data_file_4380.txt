@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.19.30.115,Andersonborough,tony98
+ERROR,172.23.28.4,Huntfort,maria70,2024-03-19 00:58:08
+FAILURE,192.168.39.37,Howardfurt,florespatricia
+CRITICAL,172.20.165.227,Ramirezfort,fbrown,2024-07-27 04:08:19
+NOTICE,172.31.143.55,Sharpchester,jennifer39,2024-01-31 22:44:10,GET

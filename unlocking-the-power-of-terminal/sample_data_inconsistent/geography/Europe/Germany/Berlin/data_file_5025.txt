@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.28.36.78,Port Michael,silvastephanie
+INFO,192.168.33.94,Kellychester,whitejamie,2024-08-21 04:54:12
+WARNING,192.168.130.52,New Dylan,stevensontiffany,2024-04-12 10:48:54
+CRITICAL,172.25.10.46,New Susanhaven,brittanywilliams,2024-08-16 09:40:56,GET

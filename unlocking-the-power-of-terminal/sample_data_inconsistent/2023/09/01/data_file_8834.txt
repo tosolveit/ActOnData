@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.234.102,East Rebeccatown,willismarc,2024-04-29 06:52:49,DELETE
+ERROR,10.103.70.30,Port Dustin,tyler70,2024-03-26 21:28:46,GET,Linux
+NOTICE,192.168.169.115,South Emily,blairsophia

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.28.133.247,Wallacemouth,dbailey,2024-03-15 12:54:03,GET
+CRITICAL,10.204.124.124,Chelseachester,uhill,2024-04-04 22:52:55
+DEBUG,10.8.36.71,Loribury
+NOTICE,10.79.198.44,New Erikburgh

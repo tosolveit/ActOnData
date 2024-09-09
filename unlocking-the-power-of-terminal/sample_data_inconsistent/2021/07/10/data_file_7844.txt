@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.21.112.184,Port Kathleenview,carrie52,2024-08-31 20:14:41,PUT,Android
+NOTICE,172.22.122.204,Emilymouth,hallwalter
+NOTICE,172.18.230.46,North Katelyn
+FAILURE,172.23.160.200,Brownside,deandavid,2024-06-29 03:27:29,GET,Linux

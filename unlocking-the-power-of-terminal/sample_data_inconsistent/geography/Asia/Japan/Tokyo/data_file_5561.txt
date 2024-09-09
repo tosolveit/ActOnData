@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.129.200,Elizabethberg,thomasgrant,2024-06-18 00:17:58,DELETE
+ERROR,192.168.113.32,Langberg,joseph57,2024-06-29 09:15:13,POST,iOS
+WARNING,172.18.16.81,Thomasland,zwatson,2024-05-10 21:50:25

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.202.244.95,Alexishaven
+FAILURE,10.125.178.7,Castroburgh,scastro,2024-04-18 01:24:56
+NOTICE,10.158.199.212,North Sharonville,eblevins,2024-04-08 07:58:01,PUT,iOS

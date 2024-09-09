@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.23.195.193,Michaelville,zmorris,2024-01-04 21:28:00,GET,macOS
+DEBUG,172.29.144.222,East Sandraton,aliciamercado

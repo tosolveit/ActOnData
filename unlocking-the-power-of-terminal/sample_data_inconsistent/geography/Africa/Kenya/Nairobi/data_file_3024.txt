@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.12.199,Fernandezview,peggy63,2024-04-18 22:50:35,DELETE
+SUCCESS,172.17.75.209,North Jenniferland
+NOTICE,10.24.209.63,Dennismouth,nestrada
+WARNING,10.92.38.85,New Ashleychester

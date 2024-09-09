@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.161.30,Weissmouth,johnathan13,2024-05-17 10:57:21,PUT,Android
+ERROR,172.20.85.156,North Nicholasfort,mwilliams
+NOTICE,10.222.180.161,Port Larrymouth,holly46,2024-02-14 15:49:43,GET
+DEBUG,192.168.17.41,Justinhaven,john79,2024-08-01 23:17:17

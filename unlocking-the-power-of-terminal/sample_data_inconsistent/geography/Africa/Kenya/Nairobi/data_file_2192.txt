@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.142.175.1,South Lawrence,yangjessica
+DEBUG,172.28.100.226,New Jake,janejackson,2024-03-01 18:45:55,PUT
+FAILURE,192.168.69.191,Mendozahaven,waltondenise,2024-07-25 07:13:55,PUT
+NOTICE,10.147.129.223,Richardsonport,roberthernandez,2024-03-26 10:55:08,POST
+CRITICAL,192.168.30.42,Edwardfurt,jallen

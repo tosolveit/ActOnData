@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.148.7.2,Sandersstad,tschroeder
+CRITICAL,192.168.230.134,Martinezside,wtaylor,2024-04-05 17:38:32,PUT,Windows

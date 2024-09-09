@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.18.87.201,West Jessicaton,jakewilliams
+CRITICAL,10.155.55.76,New Jimmyport
+CRITICAL,10.245.130.90,Joneschester,travislisa,2024-03-05 18:53:22,POST,iOS

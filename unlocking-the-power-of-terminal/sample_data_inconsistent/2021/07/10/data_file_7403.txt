@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.53.79,Fishershire,bstanton
+FAILURE,10.184.204.2,East Theresa,jesse73,2024-03-25 15:44:23,PUT
+INFO,10.61.28.96,West Keith,daniel98
+DEBUG,172.24.240.210,Lake Stacy,nicholsandrew,2024-06-12 09:43:32

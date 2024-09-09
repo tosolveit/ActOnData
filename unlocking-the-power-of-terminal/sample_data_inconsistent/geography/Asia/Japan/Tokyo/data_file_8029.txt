@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.79.240.228,Petersonton,jfrye
+SUCCESS,10.8.55.179,South Emily,mileskristin,2024-01-14 11:53:38
+NOTICE,172.19.34.194,Lake Charleshaven,anthonymcdowell,2024-03-05 04:41:09
+NOTICE,10.246.81.177,New Dennisberg,amygreene

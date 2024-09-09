@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.236.108.22,Ayalaside
+CRITICAL,10.199.154.40,Griffinstad

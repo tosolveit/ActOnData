@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.19.175.41,North Kristinstad,jasmineanderson,2024-04-30 05:34:35,GET,Windows
+DEBUG,10.249.52.174,Bennettshire,robert45
+DEBUG,172.18.198.54,Johnmouth,ljones,2024-01-03 21:12:30,GET

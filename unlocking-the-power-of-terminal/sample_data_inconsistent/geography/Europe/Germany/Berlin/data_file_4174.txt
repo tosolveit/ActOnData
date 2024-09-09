@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.128.157,Lake Steven,qreyes,2024-02-28 00:24:43,GET,Linux
+CRITICAL,10.13.192.114,Alyssaborough,lucas61
+CRITICAL,172.25.85.199,Amychester,michaelbell,2024-04-02 00:57:55,PUT,macOS

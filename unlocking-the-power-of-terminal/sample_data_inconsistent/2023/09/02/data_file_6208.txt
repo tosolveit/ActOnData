@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.240.209.22,West Kristamouth,daviswayne,2024-01-07 23:30:52
+FAILURE,10.133.75.114,East Selena,wuangelica,2024-01-16 06:15:37,PUT,Android

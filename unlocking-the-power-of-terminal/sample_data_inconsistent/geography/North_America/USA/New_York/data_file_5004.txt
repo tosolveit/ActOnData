@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.24.222.128,Lake Alan,ayork,2024-07-31 13:43:09
+CRITICAL,10.214.202.146,Cynthialand,emcmillan,2024-08-24 17:11:08,POST,iOS
+WARNING,10.50.145.143,Fieldsmouth,zavalarichard,2024-02-23 22:46:02,POST,Windows
+CRITICAL,172.29.25.107,Port Lisa,amandajackson
+ERROR,172.23.151.250,Port Zacharyview,vgonzales,2024-01-10 22:37:10

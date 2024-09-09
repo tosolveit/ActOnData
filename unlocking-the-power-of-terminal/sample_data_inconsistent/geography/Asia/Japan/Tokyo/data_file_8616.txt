@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.25.140.179,Lake Bruce,justin92,2024-06-17 12:47:48
+CRITICAL,172.20.48.215,Jenniferton,banksautumn,2024-07-05 12:05:23,DELETE
+DEBUG,10.175.139.59,Carneybury,fhoover,2024-08-11 08:12:00
+SUCCESS,172.17.149.117,Kristaview,parkerjacob,2024-04-01 19:17:24

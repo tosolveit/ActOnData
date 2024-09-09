@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.18.200.101,West Joseph,christydavidson
+NOTICE,172.17.36.120,Lake Derek,matthew29,2024-07-08 03:14:30,PUT
+NOTICE,10.144.235.137,Shermanberg,carol09
+INFO,172.26.52.164,Port James,jason82
+ERROR,172.28.206.226,East Ashleehaven

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.26.34.227,Riddleport
+INFO,192.168.205.53,New Jeffrey,crodriguez,2024-06-30 22:09:01

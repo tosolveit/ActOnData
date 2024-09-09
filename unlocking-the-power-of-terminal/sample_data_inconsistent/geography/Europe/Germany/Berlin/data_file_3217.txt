@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.139.239.196,North Elizabeth,kimberly93,2024-06-28 11:01:56
+NOTICE,10.223.29.240,East Ronaldberg,krystalwilliams
+CRITICAL,192.168.134.163,Lake Barryberg,bakerlonnie,2024-03-05 17:20:49
+WARNING,192.168.101.253,East Annetteshire

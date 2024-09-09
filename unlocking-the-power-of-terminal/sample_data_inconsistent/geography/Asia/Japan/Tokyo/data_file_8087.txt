@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.16.38.168,Wilsonside,lisa16,2024-07-08 12:19:51
+SUCCESS,192.168.160.103,Nelsonland,vparker,2024-08-27 08:24:37,POST,iOS
+INFO,192.168.112.241,Lake Eduardo,yzimmerman,2024-02-23 22:52:10

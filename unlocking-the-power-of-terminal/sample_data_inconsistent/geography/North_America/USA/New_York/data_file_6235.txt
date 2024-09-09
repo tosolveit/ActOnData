@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.22.218.61,East Kevinbury
+NOTICE,192.168.121.131,Johnland,xbyrd,2024-02-14 18:23:48,POST,macOS
+WARNING,192.168.164.65,Lake Benjaminland,kerri68,2024-07-29 15:52:11
+SUCCESS,192.168.16.102,Christopherfurt,gonzalezpatrick,2024-03-26 14:04:00

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.198.238.0,Lopezton,hayesalexander,2024-02-12 23:52:29
+SUCCESS,172.20.102.254,North Alyssa,kenneth09,2024-05-28 19:02:57,POST
+INFO,172.24.161.190,Kathrynborough,robertgardner,2024-02-23 04:33:21,POST

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.217.90.31,New Lisa,sanchezsteve,2024-02-17 15:13:52,DELETE,Android
+SUCCESS,10.87.157.210,North David,waynesimmons,2024-07-08 03:33:01,GET,Linux
+SUCCESS,192.168.172.111,New Brian,kimberlyclark,2024-08-29 15:45:49
+SUCCESS,192.168.197.249,Thomasside,frostjanet,2024-02-25 05:46:34,PUT

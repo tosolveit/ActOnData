@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.157.221,Brendafort,marysmith,2024-02-01 03:25:54,DELETE
+FAILURE,192.168.161.225,Port Abigail,tina11,2024-06-26 06:20:19
+SUCCESS,172.28.159.54,Gonzalezberg
+WARNING,172.28.216.33,New Lisa
+INFO,192.168.164.105,Williamsfurt,richard46

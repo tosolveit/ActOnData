@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.60.17.200,Bishopland,adammack,2024-07-07 20:52:43
+ERROR,192.168.66.191,Karenmouth,curtis18
+NOTICE,192.168.140.178,Murrayville,kelly79
+FAILURE,192.168.86.137,Raymondchester,ydominguez,2024-06-30 03:46:35,GET

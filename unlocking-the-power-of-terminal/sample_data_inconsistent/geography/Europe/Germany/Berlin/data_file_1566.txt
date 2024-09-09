@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.206.146,Janiceport,kennethmoreno
+WARNING,172.20.80.84,Lake Stephanie,hmathis,2024-08-27 15:51:12,DELETE,Windows
+WARNING,192.168.111.48,Chadton
+SUCCESS,172.26.237.226,Lake Brad,lriley,2024-06-26 09:38:02,POST,macOS
+INFO,10.1.108.107,Seanberg

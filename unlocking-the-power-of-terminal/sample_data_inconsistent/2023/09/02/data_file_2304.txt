@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.140.216,Lake Andrew,sullivanangela,2024-03-12 04:06:50,POST,iOS
+DEBUG,10.200.223.170,South Anthonyhaven,jeffreydoyle,2024-03-02 19:00:28
+NOTICE,172.17.67.108,Ralphburgh,jessicalewis,2024-03-20 03:50:39
+INFO,192.168.168.222,Tylerhaven,hcole,2024-05-18 14:06:55,GET,macOS
+WARNING,172.30.19.89,Banksberg,patrickcastaneda,2024-07-23 16:33:49,GET

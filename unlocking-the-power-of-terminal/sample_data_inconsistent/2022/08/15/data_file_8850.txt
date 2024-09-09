@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.14.229.185,Richardsonshire,tuckerrichard,2024-06-22 19:14:25
+SUCCESS,192.168.113.159,Melissahaven,spencernicholas,2024-02-14 00:48:37,PUT
+NOTICE,10.186.248.141,Lake Kaitlynberg,dsanchez,2024-06-30 01:47:42

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.109.72.99,Johnsonbury
+ERROR,172.18.103.145,East Melissa,williamdavis
+CRITICAL,172.17.67.113,New Davidmouth,patrick02
+ERROR,192.168.34.9,Morastad,kellyparker,2024-01-27 05:47:42
+DEBUG,10.136.167.93,East Christopher,jblair,2024-06-19 19:26:36

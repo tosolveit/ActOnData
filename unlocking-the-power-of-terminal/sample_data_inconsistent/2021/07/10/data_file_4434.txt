@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.63.19,Robertmouth,phyllislandry,2024-03-01 08:56:28
+CRITICAL,172.19.244.45,West Ricardomouth,ialvarez,2024-01-10 16:32:30
+NOTICE,192.168.152.18,Nicholasside,deleonmark,2024-02-22 15:21:51,PUT

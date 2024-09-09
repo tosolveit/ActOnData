@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.23.235.208,Port Laura,angelaroberts
+ERROR,10.48.130.99,Beverlyhaven,thomasjorge,2024-03-12 06:23:34,POST,Windows

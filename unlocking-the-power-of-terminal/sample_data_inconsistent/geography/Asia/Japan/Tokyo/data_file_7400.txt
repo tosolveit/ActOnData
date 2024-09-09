@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.26.81.175,Petersmouth
+ERROR,192.168.235.70,Port Joshua,michaellong,2024-05-21 17:52:38,DELETE,Windows
+SUCCESS,172.27.7.38,East Ashleeland
+WARNING,10.100.168.154,North Ryan,benjamin26,2024-05-30 23:05:07,DELETE
+SUCCESS,192.168.87.35,South Catherineburgh,eric07,2024-01-17 07:15:03

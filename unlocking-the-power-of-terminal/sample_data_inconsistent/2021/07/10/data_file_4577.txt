@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.61.22.108,Berrychester,xcox
+SUCCESS,10.255.166.141,Lydiaton,harveycindy
+WARNING,192.168.36.164,East Sandra,aclay,2024-05-18 08:15:08,GET
+SUCCESS,172.28.35.79,North Danielstad
+CRITICAL,10.228.113.32,Port Madison,asantos,2024-01-01 16:05:57

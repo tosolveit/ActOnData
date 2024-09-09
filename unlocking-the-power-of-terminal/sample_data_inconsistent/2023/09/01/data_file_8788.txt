@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.98.222.215,New Brian,rwilson,2024-01-27 07:33:05,POST,Linux
+WARNING,172.16.1.223,Port Jimville
+WARNING,10.242.144.247,Port Johnny
+INFO,192.168.135.49,Aprilfurt,riveragloria,2024-05-27 02:08:40,DELETE
+NOTICE,172.18.167.182,Mackport,michelepowers

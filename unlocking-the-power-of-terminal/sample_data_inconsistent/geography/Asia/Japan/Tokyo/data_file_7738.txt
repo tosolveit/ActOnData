@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.76.248,North Johnland,george23,2024-06-14 02:24:29,GET
+SUCCESS,192.168.44.224,South Jeremy
+WARNING,172.26.245.25,Emilyhaven

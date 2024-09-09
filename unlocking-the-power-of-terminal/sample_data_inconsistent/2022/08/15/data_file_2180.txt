@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.20.216.159,Hansenmouth,wwalker,2024-07-13 11:08:31,POST,iOS
+FAILURE,172.26.13.17,Masonburgh,thomas50,2024-08-10 16:59:44
+DEBUG,172.27.53.75,East Lori,rbarber

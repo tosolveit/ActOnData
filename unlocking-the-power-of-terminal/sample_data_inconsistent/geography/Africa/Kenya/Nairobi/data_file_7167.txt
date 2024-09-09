@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.94.177,East Christina,hernandezstephanie,2024-04-03 07:01:06
+FAILURE,172.18.216.153,Daughertyberg,dbryant
+ERROR,192.168.123.102,Smithmouth,kevin06
+SUCCESS,10.214.83.88,Clarkbury
+WARNING,192.168.93.7,East Marciamouth,whitecourtney,2024-01-06 10:42:30,POST,iOS

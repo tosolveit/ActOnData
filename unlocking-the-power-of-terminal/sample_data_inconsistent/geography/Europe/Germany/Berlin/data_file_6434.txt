@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.22.56.122,Port Amy,bridgetzuniga,2024-01-04 22:40:50
+NOTICE,172.30.200.51,South Michaelshire,pcobb,2024-03-03 22:04:15,PUT,Linux
+ERROR,172.21.231.108,Craigside
+INFO,10.152.7.251,Lake Paultown,priceandrea,2024-03-05 15:21:35,DELETE
+WARNING,10.19.63.90,Markside,andrew41

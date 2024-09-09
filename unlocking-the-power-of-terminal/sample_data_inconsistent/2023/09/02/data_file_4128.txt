@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.124.173,Vincentside,gailmaldonado
+CRITICAL,172.30.57.37,North Thomas
+SUCCESS,10.183.165.238,Lake William,psmith,2024-08-23 17:34:42,DELETE
+INFO,192.168.10.82,Port James,tinarobinson,2024-05-29 09:31:58,DELETE,macOS
+NOTICE,172.31.177.81,Lake Johnnymouth,dustin98,2024-07-07 20:52:24

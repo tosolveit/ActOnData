@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.234.23,Lake Rickytown,jenkinsstephanie
+INFO,192.168.69.210,Ronaldfort,timothycummings,2024-03-17 04:38:26,GET

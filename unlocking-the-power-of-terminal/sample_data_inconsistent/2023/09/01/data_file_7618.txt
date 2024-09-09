@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.92.93,East Danatown,amandabenson,2024-08-06 05:41:02,DELETE
+ERROR,10.7.57.40,Evansborough
+SUCCESS,10.150.83.227,East Shari,john06
+SUCCESS,192.168.226.113,New Jenniferhaven

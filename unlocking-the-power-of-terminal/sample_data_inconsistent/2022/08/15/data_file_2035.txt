@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.31.229.13,Port Feliciaport,xwilliams,2024-04-06 19:23:56
+INFO,10.134.64.117,Littleberg,gmercer,2024-05-22 15:39:20
+SUCCESS,172.23.2.180,Michelleburgh,xmunoz,2024-01-24 17:17:34,DELETE
+FAILURE,172.26.59.231,Lake Michael,acostanathan,2024-05-30 08:39:39,PUT,Linux
+SUCCESS,10.156.148.37,Smithfurt

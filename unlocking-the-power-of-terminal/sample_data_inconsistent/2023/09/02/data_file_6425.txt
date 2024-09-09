@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.18.144.116,Hallborough,patrick41,2024-08-07 10:21:42
+FAILURE,172.18.4.152,Maryburgh,katelyn85,2024-08-30 19:17:13,PUT,macOS

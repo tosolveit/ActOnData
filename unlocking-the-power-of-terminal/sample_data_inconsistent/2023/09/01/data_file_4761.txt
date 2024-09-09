@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.81.52.154,New Sara,jeffreygardner,2024-05-24 19:15:53,POST,Windows
+SUCCESS,172.21.240.72,Georgemouth
+NOTICE,172.28.9.90,North Jenniferville,gregory37,2024-06-10 05:54:48,POST

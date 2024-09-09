@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.65.87.185,Perezhaven,jenniferhill
+CRITICAL,10.27.237.252,Reynoldsshire,cdavis
+NOTICE,10.181.140.240,East Rebeccatown,zachary57,2024-08-06 05:04:50
+SUCCESS,172.29.114.30,Sabrinafurt,andersonsteven,2024-06-17 16:18:42
+DEBUG,10.223.212.46,Williamsshire,rbright,2024-03-01 23:07:59,POST,macOS

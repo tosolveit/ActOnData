@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.111.187.163,South Jameston,william88,2024-01-11 23:48:38,GET
+WARNING,192.168.89.221,New Mark,cking,2024-01-14 09:35:40,DELETE
+DEBUG,172.28.39.152,North Sean
+ERROR,10.215.197.220,West Ronaldburgh,spencetodd

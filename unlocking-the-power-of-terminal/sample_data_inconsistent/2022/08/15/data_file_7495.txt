@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.45.60,East Laurafort,robert36
+INFO,10.6.27.158,Lake Norman
+INFO,10.190.189.241,South Jamiechester,shellywebb,2024-01-20 04:06:44,GET,macOS
+DEBUG,192.168.143.109,West Michaelmouth
+DEBUG,172.18.114.181,North Ashleystad,mendezmichael

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.42.162,Port Janet,xgregory,2024-04-27 02:12:43,GET,iOS
+SUCCESS,10.18.189.156,Kramerland,mcphersondillon,2024-01-08 05:46:17
+ERROR,172.29.215.38,Vegastad,bking,2024-07-16 11:43:46,GET
+NOTICE,172.29.3.84,South Wesley,erin87
+WARNING,192.168.82.93,North Lauratown,daniel21,2024-02-03 14:31:43

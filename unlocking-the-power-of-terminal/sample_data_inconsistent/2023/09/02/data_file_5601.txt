@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.67.93.38,Brentshire,ronaldcampbell,2024-06-29 22:00:14
+DEBUG,10.8.84.193,Freemanview,thomassarah,2024-05-06 07:45:45,DELETE,Android
+FAILURE,192.168.103.100,Lake Walterborough,dustinwilcox,2024-04-24 02:42:44

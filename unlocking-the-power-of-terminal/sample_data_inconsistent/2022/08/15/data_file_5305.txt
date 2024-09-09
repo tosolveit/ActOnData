@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.153.194.127,West Brian,robbinserica,2024-07-11 00:59:43,GET,Linux
+CRITICAL,10.128.160.227,Donaldfort,hunter75,2024-06-01 14:54:17,DELETE,iOS
+ERROR,172.26.170.83,Drewshire,danny09,2024-05-03 07:48:21
+INFO,10.181.142.21,North Brenda,omar06,2024-07-03 02:06:29,DELETE
+FAILURE,10.60.174.34,Brownview,nmiller

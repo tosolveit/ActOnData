@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.20.147.227,Owenstown,james44,2024-09-05 12:13:36,DELETE
+CRITICAL,10.13.1.172,New Scott,donaldsonashley,2024-04-12 07:43:45,DELETE
+DEBUG,10.253.56.246,Johnsonfort

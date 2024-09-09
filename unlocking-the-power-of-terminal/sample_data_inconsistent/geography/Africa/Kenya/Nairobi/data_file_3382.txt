@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.40.101,Lake Tracy,madisonarmstrong,2024-06-12 03:26:45,POST,Windows
+FAILURE,10.232.89.78,Crystalshire,jenniferhunter,2024-09-04 09:00:24
+WARNING,10.212.92.116,Port Lorifort
+CRITICAL,10.23.137.191,Campbellbury,umartin,2024-03-28 07:41:57,GET,Android
+DEBUG,172.16.30.169,Micheleville

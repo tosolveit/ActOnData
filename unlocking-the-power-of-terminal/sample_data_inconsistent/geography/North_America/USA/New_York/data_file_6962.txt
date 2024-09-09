@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.17.255.22,Hernandezborough,roblesandrew,2024-02-09 01:37:14,POST
+FAILURE,192.168.160.182,Lake Sheilamouth,baileysmith,2024-05-24 08:25:25,DELETE
+DEBUG,172.30.239.190,Spencerburgh

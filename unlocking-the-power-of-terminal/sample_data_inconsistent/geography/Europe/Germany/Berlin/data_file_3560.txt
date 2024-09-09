@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.13.157.249,North Robert
+SUCCESS,172.28.53.120,Priceport
+CRITICAL,10.4.146.156,Lake Susantown
+CRITICAL,172.29.162.156,Ryanton

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.197.197.48,Port Heather,greggarner
+DEBUG,10.116.186.95,Vanessachester

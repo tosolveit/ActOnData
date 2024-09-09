@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.15.207.17,Coryside,danielhodges,2024-08-01 14:14:57,DELETE
+NOTICE,192.168.116.24,Whiteton,ssmith,2024-01-03 05:29:28
+SUCCESS,10.71.10.49,Fergusonton
+WARNING,172.31.63.240,South Benjamin,suttonkenneth,2024-08-23 10:24:21,POST,macOS

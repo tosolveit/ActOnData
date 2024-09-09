@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.22.243.80,North Aliciafurt,pruittjohn,2024-05-08 11:05:18
+FAILURE,172.25.141.188,North Margaretshire,thomas47,2024-05-28 11:04:52
+NOTICE,192.168.229.204,Tammyland,whatfield,2024-02-25 06:59:32,GET,Windows

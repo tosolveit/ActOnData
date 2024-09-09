@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.123.158,Kingville,oedwards,2024-06-25 21:06:13
+CRITICAL,172.19.107.222,Erinshire,sanderschristine,2024-05-27 09:14:38
+WARNING,192.168.21.109,East Michelle,haley63
+SUCCESS,172.22.121.95,Nicolehaven,samantha38
+DEBUG,10.121.135.13,Josephview,melanie16,2024-01-05 19:32:10,POST,Linux

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.30.190.190,Baileyshire,camachobradley
+ERROR,172.24.241.32,South Jerryside,john24
+FAILURE,192.168.58.244,Hayestown
+SUCCESS,192.168.146.48,West Alexisport,cschwartz,2024-07-15 13:24:25

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.30.53.82,Aguilarshire,scotttroy,2024-07-18 20:58:47
+DEBUG,10.35.133.55,North Suzanne,janetpowell,2024-02-21 11:45:32
+DEBUG,10.86.11.198,Lake Michellebury,owhitaker,2024-06-27 08:21:21,DELETE,Linux
+NOTICE,10.74.57.149,Delgadoland,kristin95,2024-08-05 12:26:45,POST
+DEBUG,192.168.248.6,New Cameron,zchandler,2024-01-13 13:07:00,DELETE,Linux

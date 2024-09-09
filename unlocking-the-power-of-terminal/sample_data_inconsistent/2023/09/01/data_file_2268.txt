@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.23.245.28,New Christopher,hansonangela
+WARNING,172.16.69.179,Lake Jasminshire,amber02
+SUCCESS,192.168.199.27,South Amymouth

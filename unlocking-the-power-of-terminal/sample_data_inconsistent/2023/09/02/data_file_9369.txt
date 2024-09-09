@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.217.105.139,Lake Ronaldshire,moorewilliam
+ERROR,192.168.158.198,Marshallville,mgrant,2024-06-28 09:19:40,POST
+SUCCESS,192.168.154.107,New Thomasville,laura59,2024-09-04 16:35:38,POST,iOS

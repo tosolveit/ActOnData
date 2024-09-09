@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.190.152,Maddoxtown,boylekim,2024-02-16 19:54:32,POST,macOS
+ERROR,10.190.219.133,South Seanview,ecruz,2024-06-14 23:23:44,GET,iOS
+WARNING,172.31.81.51,Tanyaport,zaguilar,2024-08-23 07:24:08,PUT,Linux

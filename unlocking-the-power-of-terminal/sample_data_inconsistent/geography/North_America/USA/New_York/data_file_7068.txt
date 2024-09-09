@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.26.163.149,Hunterchester,james80,2024-07-02 14:39:47
+DEBUG,10.105.232.169,Harrisland
+NOTICE,192.168.57.20,Mercadohaven,joy96,2024-08-28 12:34:27,PUT,iOS

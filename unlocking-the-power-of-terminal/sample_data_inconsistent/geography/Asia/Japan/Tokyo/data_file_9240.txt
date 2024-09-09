@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.70.61.226,New Michaelburgh,elizabethbranch
+DEBUG,192.168.173.122,North Ashleyberg,belinda66,2024-04-11 05:36:31,PUT
+WARNING,192.168.199.241,Duanemouth,mercerlori

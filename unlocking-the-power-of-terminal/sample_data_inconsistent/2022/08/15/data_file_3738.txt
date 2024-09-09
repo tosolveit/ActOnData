@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.247.158.247,Port Stephanieland,jason20,2024-07-06 11:46:42,DELETE
+DEBUG,172.16.85.210,West Darrylberg,tracigarcia
+NOTICE,172.30.157.41,Jonestown,sean02,2024-07-09 21:33:08,DELETE,Android

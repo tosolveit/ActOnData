@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.18.76.251,New Randyland
+WARNING,10.62.231.123,Lake Theresa,darren15

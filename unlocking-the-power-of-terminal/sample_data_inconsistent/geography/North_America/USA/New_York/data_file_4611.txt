@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.69.154.151,New Rhonda,trevinocaleb,2024-01-30 01:06:52
+ERROR,172.19.132.75,Carrton,hbrown,2024-04-01 06:57:25,DELETE

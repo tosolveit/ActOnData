@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.78.73.81,Carlmouth,jessicamartin
+FAILURE,192.168.170.104,Joshuaton,kjensen,2024-08-03 03:04:41,DELETE,Android
+DEBUG,172.24.185.21,East Charlesmouth,seth02,2024-01-01 20:18:00,POST

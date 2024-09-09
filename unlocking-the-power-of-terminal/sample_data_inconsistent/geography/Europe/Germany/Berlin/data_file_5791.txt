@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.254.167,West Ellenmouth,carolinecox,2024-03-08 05:25:23
+CRITICAL,10.24.141.153,Alexisland
+NOTICE,192.168.87.72,Chadmouth,welchjeremy
+NOTICE,10.199.122.249,Lake David,brooke66
+CRITICAL,10.204.183.134,Grayside,estradamichael

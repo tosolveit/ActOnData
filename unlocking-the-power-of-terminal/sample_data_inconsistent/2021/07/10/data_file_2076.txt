@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.89.199.29,Tammymouth,donald46,2024-04-05 10:26:05,GET
+FAILURE,192.168.21.233,South Beth,emalone
+WARNING,10.201.241.201,Carpenterfurt,donaldsanders,2024-07-15 22:35:02
+WARNING,192.168.98.214,Calvintown,derek47,2024-03-30 04:02:04,PUT

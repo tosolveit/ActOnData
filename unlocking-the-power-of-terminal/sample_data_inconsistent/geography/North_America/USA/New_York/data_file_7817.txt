@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.26.250.164,New Michellemouth,austin24,2024-07-01 01:13:00
+SUCCESS,10.15.204.35,Francisville
+INFO,192.168.218.60,South Victoriamouth,jasonadams,2024-04-09 04:06:38,DELETE

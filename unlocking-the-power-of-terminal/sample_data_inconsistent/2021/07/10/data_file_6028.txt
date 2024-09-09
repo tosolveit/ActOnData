@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.20.28.193,Josephborough,vazquezdiane,2024-04-18 15:05:03
+DEBUG,172.29.146.91,Jonathanchester,frank91

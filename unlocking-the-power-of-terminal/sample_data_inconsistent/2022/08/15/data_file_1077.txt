@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.28.99.21,Alexanderberg,bwilson,2024-06-16 05:27:14
+NOTICE,192.168.76.111,Payneburgh,andresjackson
+INFO,192.168.204.111,Gilbertfurt,jeffreymullen
+NOTICE,192.168.237.119,South Juanfurt,sknight

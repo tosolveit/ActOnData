@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.19.28.35,Victoriahaven,cynthia38
+ERROR,10.37.39.250,New Patricktown,simmonsdanielle
+DEBUG,192.168.201.188,Tonimouth,swalton
+FAILURE,192.168.49.242,East Rodney,ronald28,2024-01-21 14:05:30

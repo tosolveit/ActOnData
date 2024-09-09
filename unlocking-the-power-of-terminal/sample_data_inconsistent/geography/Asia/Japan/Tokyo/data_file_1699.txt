@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.23.114.19,Jeffreyview
+SUCCESS,10.134.92.51,Rachelton,smclean,2024-06-24 23:27:25,POST
+SUCCESS,10.0.144.121,Sherylborough,heatherarmstrong

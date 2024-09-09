@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.169.47,Murrayville,melissaromero
+WARNING,10.172.115.95,Daleshire
+INFO,10.18.46.174,Port Sonia,jessicalane
+CRITICAL,192.168.22.191,Amberton,wpatterson,2024-07-27 19:54:16,GET,Linux

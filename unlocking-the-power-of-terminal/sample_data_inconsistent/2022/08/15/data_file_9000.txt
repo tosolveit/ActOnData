@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.112.81,West Melissa,nicole53
+ERROR,192.168.49.225,East Travisstad

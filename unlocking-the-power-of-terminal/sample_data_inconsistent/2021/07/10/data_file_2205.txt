@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.31.118.17,Jennatown,cmartinez,2024-06-25 22:53:07,GET,Linux
+FAILURE,172.28.176.211,East Mallorymouth,raven65,2024-03-14 04:43:00
+WARNING,10.111.251.8,Michaelport,ellen81
+FAILURE,192.168.181.223,Lake Melissaland
+NOTICE,192.168.241.186,North Angela,johnsonkimberly

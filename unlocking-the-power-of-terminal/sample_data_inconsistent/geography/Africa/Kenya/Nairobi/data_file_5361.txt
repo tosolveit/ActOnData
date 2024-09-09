@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.29.32.215,North Gabriela,mary71,2024-06-07 21:27:41
+WARNING,192.168.105.135,Ortizhaven
+WARNING,10.5.235.231,South Michaelhaven,kentperez,2024-08-19 11:28:30,DELETE,iOS
+SUCCESS,172.20.48.188,South Janetmouth,jamie64,2024-02-22 05:54:51

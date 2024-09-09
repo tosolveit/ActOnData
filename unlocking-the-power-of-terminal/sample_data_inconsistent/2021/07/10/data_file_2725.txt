@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.107.226.187,Fisherbury,christopher47,2024-03-24 08:40:05
+NOTICE,172.18.248.89,Bentonborough,brandon66,2024-06-30 10:46:18
+FAILURE,172.28.108.89,South Sarah,chad23
+INFO,172.28.100.71,Andreafurt,whitebryan,2024-09-05 23:24:16

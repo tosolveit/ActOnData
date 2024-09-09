@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.31.230.13,Lake Jeremyland,garnerjennifer,2024-08-03 16:11:32,PUT
+DEBUG,192.168.220.42,Jamesstad
+FAILURE,172.26.34.190,Lake Regina,cookwilliam,2024-01-10 20:15:57
+NOTICE,10.230.27.67,Gambleport,cameronmary,2024-07-28 01:15:20,DELETE,Linux

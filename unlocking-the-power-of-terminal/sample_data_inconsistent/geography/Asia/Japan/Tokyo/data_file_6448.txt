@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.26.32.170,East Jenniferbury,todd02,2024-08-04 11:49:52,GET
+NOTICE,10.89.40.92,Wilsonville,williamsrobert,2024-01-02 13:10:22,POST,Windows
+CRITICAL,192.168.66.63,Port Charlesfurt
+FAILURE,10.175.126.167,Lake Davidborough,martinjared,2024-06-01 11:37:08,PUT,Linux

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.23.57.152,Underwoodborough,grivera,2024-08-27 02:36:18,POST,Android
+NOTICE,192.168.84.76,West Hollyport,burgesstimothy
+CRITICAL,192.168.26.35,Lake Renee,rpatel,2024-01-12 07:13:37,PUT
+CRITICAL,192.168.164.88,Lake Patriciafort,robertreed,2024-01-15 09:34:33
+WARNING,172.27.254.127,Armstrongland,dhunter,2024-02-22 19:41:51,POST

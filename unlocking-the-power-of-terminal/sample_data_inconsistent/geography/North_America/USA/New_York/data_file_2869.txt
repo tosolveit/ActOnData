@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.192.86.206,South Johnhaven,diazlinda,2024-05-03 09:52:18
+SUCCESS,172.21.92.38,Daystad,denisekirk

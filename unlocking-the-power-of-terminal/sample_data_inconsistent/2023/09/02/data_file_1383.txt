@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.22.147.62,Timothyview,andrea79,2024-08-29 13:13:41,PUT
+ERROR,172.21.126.83,New Sandra,iphillips,2024-01-20 10:56:54,GET
+WARNING,10.170.93.225,Suttonchester
+ERROR,192.168.93.211,Robertsfurt,pacestephanie,2024-01-23 23:25:35,GET,macOS
+FAILURE,10.8.19.72,Port Jameston

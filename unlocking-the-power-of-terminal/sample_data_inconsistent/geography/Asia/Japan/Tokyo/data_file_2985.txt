@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.118.241,Alexanderfort,ecobb
+DEBUG,192.168.72.164,Christinafort,orozcogregory,2024-01-07 22:44:00
+SUCCESS,192.168.30.58,Smithchester,albertwarren,2024-02-08 12:40:49,DELETE
+SUCCESS,192.168.161.190,Fullerfort
+SUCCESS,192.168.123.50,East Brittanyhaven,msteele

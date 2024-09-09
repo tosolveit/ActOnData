@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.20.224.175,North Allison
+ERROR,172.18.171.24,North Brian,millerjoanna
+ERROR,172.24.217.78,Amandaland,johnsonangela

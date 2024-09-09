@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.21.61.5,West Juliastad,ggoodman,2024-08-11 19:23:33
+SUCCESS,10.67.135.134,New Adrianaview,melissawebb,2024-07-08 18:00:08,POST

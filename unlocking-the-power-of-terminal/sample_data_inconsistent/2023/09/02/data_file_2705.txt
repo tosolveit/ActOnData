@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.210.57.12,South Jeffrey,brownlisa
+DEBUG,192.168.66.234,Payneshire,rcervantes
+INFO,192.168.0.195,Port Dustinview,mtrujillo,2024-08-16 00:44:18,DELETE,iOS
+CRITICAL,172.29.85.96,New Johnny,pdavis,2024-04-28 09:34:41

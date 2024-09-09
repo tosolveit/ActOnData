@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.31.222.157,North Fernandofort,nicole67,2024-08-08 16:21:52
+INFO,10.32.205.8,West Ericton,melissawallace,2024-09-07 20:07:54,GET
+CRITICAL,192.168.175.15,West Troytown,floresmelissa

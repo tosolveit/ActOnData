@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.69.37.251,New Keithside
+INFO,192.168.27.184,Paulashire,graybeverly,2024-04-02 03:51:55,GET

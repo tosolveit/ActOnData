@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.17.18.150,Changhaven
+ERROR,192.168.114.33,Ryanhaven,kkirby,2024-06-15 12:25:58,DELETE
+ERROR,172.24.133.31,West Jordan,salinasbrian
+ERROR,172.18.237.225,Wesleybury,treyes,2024-02-04 03:18:34

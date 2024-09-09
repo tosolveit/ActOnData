@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.172.126.95,Lake Alexanderland
+CRITICAL,10.118.92.179,New Catherine,johnathanjordan,2024-05-12 07:50:38
+NOTICE,172.16.201.42,Kentbury
+ERROR,192.168.199.227,East Ashley,joseph68,2024-06-27 17:50:54

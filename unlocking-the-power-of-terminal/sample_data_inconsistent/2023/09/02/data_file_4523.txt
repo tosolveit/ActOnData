@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.22.91.237,Lake Shellyfurt,brewerkayla,2024-01-19 18:01:29,PUT
+DEBUG,192.168.242.200,New Joshua,matthew28,2024-03-26 20:58:16
+INFO,192.168.219.40,Lake Mark,rbrown,2024-05-13 05:00:54,DELETE,Windows
+CRITICAL,192.168.21.126,South Amanda,kristenmiller

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.71.161,Annaburgh,jonathansmith
+INFO,10.65.8.179,Smithchester,trevorhowell
+NOTICE,10.62.5.4,East Dianestad,williamsdennis
+SUCCESS,172.28.141.218,Anthonyfurt,jeffery20,2024-07-12 23:57:56
+INFO,192.168.75.205,Martinton,xdickerson,2024-05-21 17:14:33

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.190.34.95,Jeanetteland,kelly94,2024-07-21 05:52:53,DELETE,macOS
+NOTICE,172.27.96.237,Christineburgh

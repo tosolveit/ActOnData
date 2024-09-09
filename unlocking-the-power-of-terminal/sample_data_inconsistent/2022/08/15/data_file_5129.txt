@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.188.134.28,Port Max
+CRITICAL,10.86.138.53,East Jacobmouth,michelle80,2024-08-22 00:41:55,GET
+NOTICE,172.29.202.15,Lake Edward,klineteresa,2024-03-29 22:43:27,DELETE,macOS
+WARNING,172.20.148.175,New Aaron,erikajackson,2024-01-22 13:40:53

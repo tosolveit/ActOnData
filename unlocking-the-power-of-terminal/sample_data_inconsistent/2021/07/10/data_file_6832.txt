@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.22.228.196,East Meganville,reesesara
+DEBUG,10.183.255.2,Fisherhaven,uhoover,2024-01-01 00:50:34,DELETE

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.6.139.3,Pughland,lanerobert,2024-01-11 00:29:32,GET,macOS
+DEBUG,172.26.70.170,Reeseborough,oliverjesus,2024-07-02 04:30:03,GET
+ERROR,172.22.216.222,New Jack,gberry,2024-01-25 09:43:42
+INFO,192.168.177.144,Moorehaven,teresasmith,2024-06-06 03:48:34
+NOTICE,10.7.6.63,Mitchellmouth,millermelinda,2024-07-21 08:26:53

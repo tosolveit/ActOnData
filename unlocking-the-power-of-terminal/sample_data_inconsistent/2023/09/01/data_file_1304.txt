@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.26.199,East Moniqueside,davissamantha,2024-08-01 10:38:29
+SUCCESS,192.168.188.52,Micheleborough,sadams
+FAILURE,10.11.130.170,Port Chelsea,jason06,2024-02-29 03:46:13,DELETE

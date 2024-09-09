@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.26.144.127,Housechester
+DEBUG,192.168.62.2,West Barbarashire,christinamoore,2024-04-21 17:27:16,PUT,iOS
+INFO,10.141.195.199,Elizabethfurt,lindsayflores,2024-05-19 00:32:09
+INFO,192.168.96.81,South Justinside,traceylynch,2024-08-07 12:38:30,POST
+CRITICAL,192.168.223.17,Kevinshire,gallagherveronica

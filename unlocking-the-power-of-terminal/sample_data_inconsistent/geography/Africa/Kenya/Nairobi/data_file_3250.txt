@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.19.236.75,New Leslie
+SUCCESS,192.168.144.58,Davidland,jennybradley,2024-07-19 14:37:11,GET,Android
+ERROR,172.19.65.219,East Robin,christopher93
+NOTICE,192.168.180.38,New William,cynthia85
+FAILURE,192.168.93.178,Leslieville,nicholascantrell,2024-02-14 01:05:30,PUT,Linux

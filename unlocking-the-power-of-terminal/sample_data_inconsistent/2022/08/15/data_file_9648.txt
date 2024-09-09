@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.207.100.184,Coleland,carolmendez,2024-06-05 15:51:07,GET,Windows
+NOTICE,10.89.72.15,New Kelly
+CRITICAL,10.105.75.240,North Bonnieberg

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.30.200.152,West Sherry,pgarza
+WARNING,172.24.78.115,Mclaughlinhaven,oparsons,2024-07-17 17:07:19,PUT,iOS
+SUCCESS,192.168.204.135,Yorkfort,jamesclark
+WARNING,172.21.173.98,East Thomasbury,lisa41,2024-07-01 09:22:26,DELETE
+WARNING,172.23.178.165,New Darleneside,frederick25,2024-01-30 11:23:57

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.18.138.144,Lake Aimeetown,cmorgan,2024-08-22 13:32:34,GET,macOS
+WARNING,172.31.227.228,South Crystalstad,ddalton,2024-06-26 15:47:06
+NOTICE,192.168.131.83,North Wesley,michaeladkins,2024-02-07 23:48:52

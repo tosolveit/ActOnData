@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.177.25,Kaitlynmouth
+NOTICE,172.24.83.10,Kathrynfurt,zrice,2024-08-04 19:19:38,DELETE
+SUCCESS,192.168.10.33,North Hannah,langbrandy,2024-02-24 03:19:09

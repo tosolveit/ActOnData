@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.148.102.141,New Jacobhaven,cruzeric
+WARNING,192.168.247.152,Port Jesus,dgibson,2024-02-04 16:35:03,PUT
+NOTICE,10.173.147.135,East Michaelmouth,justinromero,2024-03-31 02:31:24,GET

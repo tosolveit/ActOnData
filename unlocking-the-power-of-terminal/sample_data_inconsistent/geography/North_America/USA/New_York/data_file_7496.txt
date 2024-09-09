@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.30.86.244,Williamborough,lkoch,2024-08-27 09:04:03,GET
+NOTICE,172.23.245.44,New Gracetown,sweeneykelly,2024-05-10 22:42:16,GET,Android
+SUCCESS,172.31.85.152,Lake Kayla,zjackson,2024-06-01 16:22:44,DELETE,Linux
+NOTICE,10.187.37.178,West Marilyn,danielmyers,2024-03-15 11:41:05
+WARNING,192.168.133.193,Lewisview,kimberly78,2024-03-07 07:08:48,POST

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.237.218,Leslieburgh,belljoseph,2024-02-16 03:43:36,GET,Windows
+FAILURE,10.77.55.176,Lake Julie,roblessteven,2024-07-17 08:14:48,DELETE
+WARNING,192.168.186.7,Wallerhaven,djensen,2024-02-13 10:15:57,POST,Android

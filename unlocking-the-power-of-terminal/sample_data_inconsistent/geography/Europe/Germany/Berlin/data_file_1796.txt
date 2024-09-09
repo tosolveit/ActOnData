@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.57.231.242,Boothstad
+NOTICE,172.21.153.169,Oscarfort,timothybailey

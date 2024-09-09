@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.72.160.59,Hannahburgh,qli,2024-03-27 03:01:12,DELETE
+DEBUG,192.168.183.187,Paulton
+DEBUG,10.21.183.222,North Jessica,coledavid
+CRITICAL,10.162.79.178,Christopherville
+ERROR,192.168.71.24,Williamsview,melindawright

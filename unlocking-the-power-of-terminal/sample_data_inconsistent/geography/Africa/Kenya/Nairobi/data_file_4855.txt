@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.169.133.184,South Codyburgh,kiarawolfe
+ERROR,172.26.186.133,Dillonberg,stevenortiz
+INFO,172.28.144.152,Lake Jenniferfurt,jessicahardin,2024-02-07 22:34:12,DELETE

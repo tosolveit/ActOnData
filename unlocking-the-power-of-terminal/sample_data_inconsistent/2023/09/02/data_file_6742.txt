@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.0.19.21,South Michellehaven,watkinstina,2024-07-31 09:52:13
+FAILURE,192.168.169.3,Lake Michelle,belljeffrey
+ERROR,10.27.60.182,Finleyport,melinda68,2024-08-06 07:12:07,POST,Linux
+NOTICE,10.32.246.3,Jeffreyshire,nicholsonkim

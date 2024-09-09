@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.155.244.108,New Michaelburgh,gsmith,2024-06-05 11:23:12,GET
+FAILURE,192.168.133.60,East Joelburgh,williamscaleb,2024-01-25 19:12:42,GET

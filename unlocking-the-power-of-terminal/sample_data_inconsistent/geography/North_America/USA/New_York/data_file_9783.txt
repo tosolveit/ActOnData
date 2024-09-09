@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.60.240,New Jeffrey,erinjohnston,2024-04-25 21:30:31,GET,Linux
+NOTICE,172.18.214.106,East Jennifershire,johnjacobs,2024-03-23 17:24:21
+WARNING,192.168.250.37,Thomasburgh,sylvia22,2024-07-26 01:44:52,GET

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.17.166.173,Brownside,stephensongregory,2024-02-13 09:51:03,DELETE
+NOTICE,192.168.122.218,East Ericfort,alexanderrachel,2024-01-02 05:27:58
+ERROR,172.19.222.196,New Michelleland,fergusonsergio,2024-06-26 09:33:50

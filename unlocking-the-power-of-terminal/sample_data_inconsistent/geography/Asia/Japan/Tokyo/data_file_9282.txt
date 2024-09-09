@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.226.193.119,Donnafurt
+DEBUG,172.26.249.140,Samanthashire,wendy86,2024-01-11 07:38:52,POST
+ERROR,172.18.170.228,Port Jennifer,nicole52,2024-05-09 22:13:26

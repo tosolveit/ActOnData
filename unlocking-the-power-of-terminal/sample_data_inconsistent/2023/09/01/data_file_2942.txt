@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.21.144.219,New Edwinport,vlutz,2024-03-17 23:22:47,POST
+FAILURE,192.168.235.220,Justinshire,mitchell29,2024-01-13 00:03:51
+CRITICAL,172.20.143.201,Teresachester,lawrence57,2024-07-30 01:59:37
+SUCCESS,10.83.183.102,East Douglas
+FAILURE,192.168.181.193,Port Derek,paulhenry,2024-03-10 02:19:14

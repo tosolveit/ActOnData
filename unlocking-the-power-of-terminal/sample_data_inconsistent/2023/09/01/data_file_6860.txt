@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.3.165,Port Monica,nlong
+INFO,172.27.246.231,Parrishside,smithstephanie
+ERROR,172.27.178.73,Lake Karenside,emilywilson,2024-07-06 06:55:35

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.26.67.254,Maryview
+ERROR,10.194.118.242,Malikport,jonespaul,2024-05-12 06:30:55,DELETE
+DEBUG,10.149.238.255,West Ernestton,rogerspatricia

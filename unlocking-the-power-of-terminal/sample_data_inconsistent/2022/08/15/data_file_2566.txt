@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.78.156,Port Carlyborough,ginapace,2024-02-12 16:10:26,PUT,Linux
+CRITICAL,192.168.241.147,Robertsonberg,susannguyen
+INFO,172.31.86.14,West Vanessa,bryantjay
+INFO,10.250.154.196,West Jackson,garciajohn
+NOTICE,10.80.28.83,Tammymouth,vmurray,2024-04-16 00:21:54,PUT,macOS

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.60.75.144,Smithborough,lirwin,2024-04-15 15:11:28,PUT,Windows
+FAILURE,10.34.184.75,West Susan,josephbarber,2024-04-22 07:53:32

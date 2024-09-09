@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.191.196,Port Randy,robert76
+ERROR,172.25.158.210,Robertston,michaelbrown,2024-01-11 19:39:54,GET
+SUCCESS,10.207.116.182,Elizabethshire,rebeccataylor
+ERROR,10.54.168.243,Campbellfort,barbaracarpenter,2024-01-02 06:55:24,GET,Linux
+WARNING,192.168.207.60,Davidfort

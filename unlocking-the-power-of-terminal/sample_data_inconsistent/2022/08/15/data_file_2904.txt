@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.26.173.190,Madelineland,deborah70,2024-02-25 07:32:56,DELETE
+CRITICAL,10.121.241.202,Gutierrezburgh
+WARNING,10.61.218.47,West Mitchellton,jamesmoore,2024-02-25 10:23:09,GET
+INFO,10.180.172.221,Davidville,collinsdenise,2024-06-14 05:17:36
+NOTICE,10.122.168.38,South Brianna,alexandraberg,2024-08-21 03:21:16,PUT

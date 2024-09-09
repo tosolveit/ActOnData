@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.224.120.206,West Aliceberg,bryan55,2024-01-02 11:28:30
+CRITICAL,172.27.120.126,Johnnytown,hwashington,2024-03-12 04:31:00,GET
+FAILURE,10.106.252.164,Samanthachester,leonardwilliams,2024-04-21 20:11:34
+DEBUG,172.23.251.155,East Maryfurt,jill25,2024-08-29 05:37:15,DELETE,Windows
+NOTICE,10.47.90.127,Megantown,valerietodd

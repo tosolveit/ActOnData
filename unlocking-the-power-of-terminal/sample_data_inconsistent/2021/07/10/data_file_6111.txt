@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.197.20.241,Dannystad,glane,2024-02-22 04:42:26
+ERROR,192.168.229.179,South Richardmouth,sara47,2024-03-11 15:24:57,PUT
+WARNING,10.148.106.19,Amandaburgh

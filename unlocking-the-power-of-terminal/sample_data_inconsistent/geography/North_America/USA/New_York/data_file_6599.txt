@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.210.118,New Johnbury,fallen,2024-01-11 12:58:46,GET,Windows
+INFO,192.168.166.242,East Eric,hwillis,2024-01-06 09:51:24
+CRITICAL,172.27.97.197,Maldonadostad
+ERROR,172.27.98.46,Taylormouth,rodrigueztracy,2024-02-26 14:45:43
+SUCCESS,172.23.232.13,Stevensonland,todd54,2024-08-17 15:58:32

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.164.187.100,Jeremyland,stevestevens,2024-05-25 05:25:26
+INFO,10.220.131.59,Mariaport,tiffanymora,2024-01-22 04:42:39
+INFO,192.168.7.197,Lisaview
+SUCCESS,10.217.159.126,Lake Melissa,gloriawoods,2024-01-16 17:45:00,POST,Android

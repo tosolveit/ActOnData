@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.196.66.38,West Steven,amandalong
+SUCCESS,10.206.10.146,Tanyafurt
+CRITICAL,10.154.209.202,Bethmouth,hunter21,2024-03-18 20:57:27,PUT,Linux
+WARNING,10.125.138.233,New Carriehaven

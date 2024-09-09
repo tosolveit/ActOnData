@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.7.28,South Allison,rodriguezwalter,2024-01-20 23:20:06
+FAILURE,172.21.139.134,South Karen,katie74,2024-04-01 15:13:43,DELETE
+INFO,192.168.24.42,South Jonathanmouth,william83,2024-01-09 23:37:34
+SUCCESS,172.27.205.245,Nicolemouth,qmartin,2024-05-06 16:52:45
+CRITICAL,10.187.89.13,North Carl,perrylisa,2024-04-29 10:25:20,DELETE

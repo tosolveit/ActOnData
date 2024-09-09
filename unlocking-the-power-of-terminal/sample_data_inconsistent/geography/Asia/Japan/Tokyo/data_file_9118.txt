@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.28.2.120,North Sonyaton,nicole42,2024-02-02 16:48:53,PUT,macOS
+INFO,172.24.177.8,Millsstad,gbradford,2024-03-07 06:57:55,PUT,Android
+CRITICAL,10.227.75.117,North Taylor,imorris,2024-03-14 08:02:14,GET
+INFO,192.168.45.173,South Andrewberg,freemankatherine,2024-02-11 10:08:01

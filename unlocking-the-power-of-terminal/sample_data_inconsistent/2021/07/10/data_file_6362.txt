@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.97.53.58,South Stephanieview,wmcdonald,2024-02-13 03:23:47,GET
+INFO,172.26.121.106,Laurenside,ocantrell,2024-08-28 15:36:25,POST,Windows
+INFO,192.168.205.252,Elizabethstad,parkergeorge,2024-04-21 04:32:15,POST,iOS
+NOTICE,172.18.214.139,Hernandezton,tyler90

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.18.248.232,South Aprilland
+SUCCESS,192.168.20.157,Kimberlyberg,jenniferbryant

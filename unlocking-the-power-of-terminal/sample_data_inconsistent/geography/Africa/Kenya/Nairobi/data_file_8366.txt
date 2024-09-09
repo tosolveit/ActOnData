@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.236.73,Serranoside,mikefoster
+NOTICE,192.168.205.190,Charlesmouth,twang,2024-08-02 14:38:23
+ERROR,172.30.163.88,Hickston,williamsjoseph,2024-02-21 16:40:18
+FAILURE,10.218.22.33,Craighaven,umedina,2024-05-28 06:23:08
+FAILURE,10.51.66.99,Port Theodorefurt,garciajohn,2024-07-02 14:36:04,POST

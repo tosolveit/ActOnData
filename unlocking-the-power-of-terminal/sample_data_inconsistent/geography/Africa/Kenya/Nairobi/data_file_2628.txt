@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.161.189,Smithside,hannah00,2024-06-25 09:43:29,POST
+NOTICE,10.155.147.177,Manuelshire,knightelizabeth,2024-07-28 19:07:48,PUT,macOS
+NOTICE,192.168.29.167,Friedmanland,meltonkatie,2024-05-10 04:26:36,GET,Android
+WARNING,172.31.102.87,Joseberg,joshualong,2024-02-27 06:55:33,PUT,Windows
+ERROR,192.168.245.31,East Heatherbury,tara17,2024-03-13 13:12:47

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.98.145,East Heatherton
+INFO,172.27.55.255,South Lisaborough,sharonromero,2024-04-16 16:10:10,DELETE
+FAILURE,192.168.202.223,Wallaceport,nicholas74
+CRITICAL,172.17.109.142,East Ryanburgh,princedean,2024-05-11 07:16:02,GET,Linux

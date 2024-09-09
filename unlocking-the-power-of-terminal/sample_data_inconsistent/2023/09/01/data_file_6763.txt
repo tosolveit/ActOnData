@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.22.29.210,Jasonmouth
+INFO,192.168.60.12,Ryanview,brodriguez
+WARNING,192.168.226.213,Bryanhaven,lauraroth,2024-07-14 02:11:36
+CRITICAL,10.182.34.124,Stevenport,hensonpamela,2024-06-08 18:13:04,DELETE,Linux

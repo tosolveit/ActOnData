@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.255.103,Juliefort,lopezjoshua,2024-03-20 23:23:31,POST
+CRITICAL,10.159.165.79,Juantown,bcarpenter,2024-07-10 08:25:55
+ERROR,172.24.251.255,South Cynthialand,samuelgriffith
+FAILURE,192.168.241.73,West Jennifer,kayla09,2024-03-11 19:12:21

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.227.129.173,Kellybury,crawfordjonathan,2024-01-16 11:02:10
+INFO,192.168.211.9,Davidside,aprilalexander,2024-05-31 23:08:37,POST,Linux
+INFO,172.19.36.137,Garyborough,ewood
+INFO,172.18.44.104,Charlesfort

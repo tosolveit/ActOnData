@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.251.124.121,Juliahaven,jenniferwillis
+SUCCESS,10.237.116.138,Carrieview,rosewright,2024-03-29 17:14:16,POST,macOS
+INFO,192.168.31.174,North Jenna,samanthasmith,2024-04-18 21:37:26,POST,Linux
+NOTICE,10.65.26.61,Beckerland,veronicawood,2024-06-04 10:55:33,POST,iOS
+DEBUG,172.24.73.206,South Rubenburgh,skane,2024-08-23 19:16:50,POST

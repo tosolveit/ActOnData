@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.106.195.69,Davilafort,steven62,2024-01-25 16:50:43,PUT
+CRITICAL,192.168.21.177,Lancefort,dburton,2024-04-16 06:17:49,DELETE
+INFO,172.20.6.169,East Joanfort,julie45
+FAILURE,172.20.227.57,Courtneytown

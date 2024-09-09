@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.93.40.42,North Melissa,fletcherwilliam,2024-06-10 10:09:46
+CRITICAL,172.28.55.98,South Ryan
+FAILURE,172.26.154.181,Lake Markland,sophiamills,2024-06-12 05:50:07
+CRITICAL,192.168.96.155,East Abigail,victoria79,2024-01-25 05:47:45

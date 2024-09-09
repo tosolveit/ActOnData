@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.227.88.150,West Amandahaven
+FAILURE,10.225.32.114,West Julianbury,campbelllarry,2024-03-11 00:19:11

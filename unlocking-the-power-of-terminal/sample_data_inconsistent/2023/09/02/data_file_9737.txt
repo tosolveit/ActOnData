@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.22.6.225,Lake Jonathan,lindseyjason
+CRITICAL,172.30.150.63,North Kyle,lrodriguez,2024-04-08 18:10:05
+FAILURE,172.16.46.24,Lauramouth,rosemcmillan,2024-03-12 23:53:51

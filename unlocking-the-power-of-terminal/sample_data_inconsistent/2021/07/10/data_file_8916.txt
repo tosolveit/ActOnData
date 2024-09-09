@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.19.169.143,Robertburgh
+NOTICE,172.27.243.94,Timothyborough,oevans,2024-03-26 02:02:32,PUT

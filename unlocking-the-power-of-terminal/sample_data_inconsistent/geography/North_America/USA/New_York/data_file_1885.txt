@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.221.19,Jasonfurt,kristen35
+SUCCESS,172.29.227.253,Thomasside
+SUCCESS,10.87.197.173,East Andrewborough,jacksonrebecca,2024-03-06 19:49:24
+DEBUG,192.168.92.56,Port Christopher

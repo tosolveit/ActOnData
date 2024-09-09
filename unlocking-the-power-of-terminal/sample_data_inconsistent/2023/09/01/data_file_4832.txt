@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.212.253.223,North Samuelside,mathisjesse,2024-01-27 17:13:11,PUT,iOS
+FAILURE,10.43.199.42,Port Ginaland,david63,2024-01-03 08:44:39,POST
+FAILURE,192.168.77.48,New Daniel,chad99,2024-04-21 19:54:04,POST
+INFO,10.254.59.186,East Williambury,kristin00,2024-06-29 12:39:13

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.24.172.212,Heatherville,astanley,2024-08-02 12:02:57,POST,iOS
+ERROR,192.168.252.63,Lake Maria,gary28
+ERROR,172.29.133.45,Martinmouth,tranjames,2024-06-19 14:32:05,PUT
+DEBUG,10.147.203.201,Lake Richard,nroberson,2024-02-24 07:10:05
+INFO,192.168.226.73,West Carolynburgh,qcannon,2024-05-11 04:38:51,POST,Windows

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.206.245.52,East Calvintown,clarkoscar,2024-08-20 11:24:14
+SUCCESS,172.27.187.186,West Lindsey

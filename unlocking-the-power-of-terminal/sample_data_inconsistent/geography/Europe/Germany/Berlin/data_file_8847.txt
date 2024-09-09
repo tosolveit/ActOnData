@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.141.116.16,Michealview,clewis
+WARNING,172.21.1.53,New Aliciaport,deannajones
+ERROR,10.113.215.4,Bowmanshire,stewartjonathan,2024-03-25 20:56:34

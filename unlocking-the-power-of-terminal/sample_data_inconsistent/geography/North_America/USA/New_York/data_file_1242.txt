@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.28.13.247,South Troy,cooperjacob,2024-02-09 03:06:55,DELETE
+NOTICE,172.23.166.105,New Ebonyland,raymond60
+DEBUG,192.168.233.194,Port Albert,brooksdave
+INFO,10.189.123.167,Cowanberg,scottkevin,2024-03-26 19:58:19,DELETE,macOS
+FAILURE,192.168.167.109,Port Jenniferburgh,kathychung,2024-04-06 01:15:20

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.26.122.48,North Melissa,andersonjennifer,2024-07-18 20:45:30,POST,iOS
+WARNING,192.168.166.239,Jamesfurt,hallen,2024-01-21 05:53:38
+WARNING,10.177.43.76,South Gail
+INFO,192.168.30.27,Dixonhaven,jonathan12,2024-03-27 06:43:39
+SUCCESS,192.168.89.208,Youngfurt,lowemolly,2024-03-05 06:03:40

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.139.248.135,Lake Diamond
+NOTICE,192.168.237.30,New Elijah,jonesnatalie,2024-06-03 03:33:17,POST
+NOTICE,10.152.209.190,Jimmybury,cynthia88,2024-07-20 21:04:33,POST,Android
+CRITICAL,10.223.102.126,Garciafurt,ehancock,2024-05-24 05:47:43
+DEBUG,172.28.193.38,West Michelle,lorishannon

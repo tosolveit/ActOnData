@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.22.22.195,Mejiastad,sean69
+ERROR,10.43.113.83,Margaretshire,robert85
+FAILURE,10.1.160.232,Mcguireberg,heatherturner,2024-02-21 11:47:15,GET,macOS

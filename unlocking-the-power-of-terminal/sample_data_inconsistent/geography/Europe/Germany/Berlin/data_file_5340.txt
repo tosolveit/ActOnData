@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.69.123.159,West Laurenland,yjohnson,2024-07-24 01:50:48,POST
+FAILURE,192.168.119.19,Lake Matthew,josephmoore
+SUCCESS,10.250.15.244,Jonesburgh,francisjames,2024-07-22 10:20:12,PUT
+CRITICAL,172.27.7.52,Taylormouth,goodmanlaura,2024-04-27 21:44:01
+CRITICAL,172.31.54.157,Joneshaven,isaac67,2024-09-05 21:14:15,PUT,Linux

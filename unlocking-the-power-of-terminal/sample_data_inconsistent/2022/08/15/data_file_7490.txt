@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.52.7,North Susanport,colleenholder,2024-06-10 14:05:51
+CRITICAL,172.22.25.132,Port Christine,rosebrandon,2024-09-03 21:29:58
+CRITICAL,192.168.4.32,Port Juanfurt,gsmith,2024-08-04 19:59:08,GET,macOS
+CRITICAL,172.26.222.78,East Matthewshire,dalton23

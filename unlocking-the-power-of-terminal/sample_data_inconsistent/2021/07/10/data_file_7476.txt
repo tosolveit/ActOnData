@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.16.182.253,Lake Yolandatown,grahamblake
+ERROR,10.233.160.64,Port William
+WARNING,192.168.147.24,Miaside,drogers

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.18.62.87,Bethmouth,andrew37,2024-06-22 19:49:45,DELETE
+DEBUG,172.18.79.101,Curtisland,rebeccaherman
+CRITICAL,10.202.97.228,New Bethany,sherri44,2024-07-28 01:25:10,POST

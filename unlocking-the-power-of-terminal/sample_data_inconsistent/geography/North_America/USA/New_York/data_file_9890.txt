@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.101.65.137,Scottshire,dweaver,2024-01-03 04:34:22
+WARNING,10.72.132.86,Lake Adamshire,ecain
+WARNING,172.18.150.205,Port Collinside,rhonda18,2024-01-19 06:45:43,GET,Linux
+CRITICAL,10.35.113.106,Laurenland,michael75

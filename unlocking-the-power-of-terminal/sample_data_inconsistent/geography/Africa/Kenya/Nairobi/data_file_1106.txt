@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.173.89,Kristyville,karen22,2024-05-23 13:25:31,PUT
+CRITICAL,192.168.132.238,East Kendra,bmorris
+FAILURE,172.21.12.186,Tinaview,jsingleton,2024-01-09 15:49:56

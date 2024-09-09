@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.236.72,South Lindsay
+INFO,192.168.4.184,Jessicamouth,robertsashley
+WARNING,192.168.162.241,East Luis,qconley
+SUCCESS,10.238.89.128,Billytown,kevinharrison,2024-05-02 11:08:05
+FAILURE,192.168.38.49,East Erica,mstewart

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.10.98.74,Aaronchester,perezkatherine,2024-04-03 05:05:30,PUT,iOS
+INFO,192.168.87.96,South Carolynbury
+INFO,10.188.81.208,East Deanna,bankstiffany
+ERROR,192.168.154.20,New Alanberg,myoung,2024-03-13 14:47:24

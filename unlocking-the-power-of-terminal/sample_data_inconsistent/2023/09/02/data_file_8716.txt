@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.155.74,Michaelshire
+WARNING,172.29.226.187,Castromouth,nbrown,2024-02-13 05:27:58,GET
+DEBUG,172.19.93.136,Patriciaview

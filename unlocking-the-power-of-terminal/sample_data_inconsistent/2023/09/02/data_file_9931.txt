@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.24.133.116,New Kurtside,ericamorrison
+SUCCESS,192.168.240.26,Nicolebury
+FAILURE,192.168.138.162,New Robertborough,carol58,2024-04-11 02:19:52,POST,Windows
+SUCCESS,172.21.35.175,Hessburgh,staceysmith

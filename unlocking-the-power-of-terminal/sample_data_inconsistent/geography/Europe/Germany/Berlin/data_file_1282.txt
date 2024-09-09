@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.157.254,North Kevinborough,tapianancy
+WARNING,192.168.182.24,Lindaport,mistypeterson,2024-08-07 05:13:02
+INFO,10.78.179.119,Port Darrell,rbarnett,2024-03-17 02:12:35,GET,Windows
+SUCCESS,192.168.212.129,Ryanmouth,gsalazar
+NOTICE,10.48.39.71,Port Christine,fullermargaret,2024-01-18 20:23:55,POST,Android

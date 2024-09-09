@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.126.159,West George,jeremysmith,2024-05-24 03:58:02,POST,Android
+CRITICAL,10.192.136.54,Sabrinaton,jamesball,2024-03-29 14:50:23
+WARNING,10.97.73.75,Lorifurt,gary72
+FAILURE,10.57.155.166,Daltonland,joan17

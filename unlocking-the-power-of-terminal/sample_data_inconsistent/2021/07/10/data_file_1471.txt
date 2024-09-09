@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.16.229.188,Petersonshire,joseph88,2024-02-09 15:51:22,DELETE
+WARNING,10.58.129.190,Lake Antoniomouth,jkelly,2024-04-17 21:31:11,POST,Windows

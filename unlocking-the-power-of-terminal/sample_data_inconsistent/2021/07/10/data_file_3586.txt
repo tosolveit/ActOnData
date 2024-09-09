@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.0.209.103,Cathyview,parrishkrystal,2024-06-12 15:00:47
+FAILURE,192.168.133.217,Jordanview
+WARNING,10.114.38.225,East Amanda,deleonbrian
+INFO,192.168.9.30,Lake Daniellehaven,ashleesmith,2024-04-07 17:10:36
+ERROR,172.18.226.227,New Carlaside,lpowell,2024-04-07 04:35:36,GET,Linux

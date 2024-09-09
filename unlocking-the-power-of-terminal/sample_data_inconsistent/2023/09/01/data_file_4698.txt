@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.24.159.69,Benjaminshire,ericjones,2024-08-02 10:47:44,GET,Android
+INFO,192.168.0.197,Williamschester,michaelmolina,2024-04-29 16:27:00,DELETE,iOS
+ERROR,172.16.96.75,Port Christopherside,spena

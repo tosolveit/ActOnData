@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.84.183.151,East Gregorychester
+INFO,192.168.173.139,Watsonside,ftorres,2024-04-05 11:21:09
+INFO,172.30.69.120,Brownside
+SUCCESS,192.168.61.127,West Meganton,pbaker,2024-06-28 16:45:37

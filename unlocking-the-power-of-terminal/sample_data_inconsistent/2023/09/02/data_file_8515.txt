@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.254.89.134,Hallberg,james91,2024-05-14 20:02:46,PUT,iOS
+INFO,192.168.61.114,Kristafurt,harrisjoshua
+FAILURE,192.168.5.189,Marybury,dliu,2024-06-25 05:49:22,PUT

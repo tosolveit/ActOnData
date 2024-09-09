@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.22.111.250,Lake Christopherstad,veronica87,2024-06-21 21:06:40,POST,Windows
+ERROR,172.19.128.253,Hayesfort,vincent56,2024-08-07 00:24:16,DELETE,Windows
+WARNING,192.168.189.17,East Jeff,davenportmeagan,2024-06-08 02:34:00
+INFO,192.168.70.19,Ashleyton,halldaniel

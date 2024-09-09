@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.31.19.22,Houstonmouth,brett19
+DEBUG,192.168.244.224,Clarkborough,ghartman,2024-04-07 22:28:24
+CRITICAL,10.9.210.247,West David,mfuller,2024-06-02 08:44:26
+SUCCESS,172.31.160.86,North Johnmouth

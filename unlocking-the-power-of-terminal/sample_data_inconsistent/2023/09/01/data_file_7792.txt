@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.186.193,North Alexander,jonathan51,2024-07-07 17:56:25
+INFO,172.26.80.94,Lawsonview
+NOTICE,10.195.202.32,Lawrenceborough,pamela63
+DEBUG,172.21.27.139,Lake William,xreed,2024-08-23 18:53:59,POST,iOS

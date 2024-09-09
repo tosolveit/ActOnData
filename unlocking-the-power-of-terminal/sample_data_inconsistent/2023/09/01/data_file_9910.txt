@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.23.241,East Rogershire,halljill
+ERROR,10.90.220.133,Lake Markton,schristensen,2024-01-02 07:58:14,POST,Android
+DEBUG,172.30.44.98,Rachelfort
+FAILURE,172.31.157.37,Kellybury,omiller,2024-05-07 18:40:57,GET,iOS
+NOTICE,10.30.160.188,North Tonya

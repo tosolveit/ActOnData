@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.19.54.155,East Darleneview
+WARNING,192.168.250.25,West Greggside,prusso,2024-02-10 03:38:41,PUT
+SUCCESS,172.22.255.175,Lake Ricky
+ERROR,172.20.156.61,New Rachelberg,simstyler,2024-08-26 14:15:07,PUT,Android
+WARNING,10.248.248.96,Port Gregoryfort,qcampbell

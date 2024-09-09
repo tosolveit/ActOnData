@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.145.168.58,Mathewsstad
+INFO,172.29.106.50,Amymouth,xwood,2024-05-10 00:18:54
+ERROR,172.27.31.139,Martinburgh,kstewart,2024-08-14 07:46:36,POST,Windows
+WARNING,192.168.84.156,Hunterbury

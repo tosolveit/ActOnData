@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.181.221.214,Paultown,ggardner,2024-08-12 18:06:28
+ERROR,172.31.177.197,South Williamport,jenniferrichardson,2024-06-18 14:26:33,DELETE,Android
+ERROR,192.168.188.57,South Charles
+INFO,10.45.164.79,New Brenda,jamestucker,2024-05-22 01:22:22,POST,Android

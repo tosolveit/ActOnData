@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.10.241.24,Johnsonhaven,reedcynthia,2024-07-18 16:33:41
+CRITICAL,172.17.245.23,Smithshire,kpitts,2024-06-20 09:37:53
+CRITICAL,10.15.55.176,Garciashire,seanwatts

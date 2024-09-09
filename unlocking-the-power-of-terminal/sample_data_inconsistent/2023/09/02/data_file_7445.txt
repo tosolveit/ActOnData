@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.247.97.121,Warrenburgh
+INFO,192.168.25.169,Joseborough,heatherramirez,2024-06-19 10:59:09,PUT

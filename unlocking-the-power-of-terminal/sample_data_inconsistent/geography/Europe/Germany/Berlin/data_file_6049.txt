@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.112.211.133,New Jeremy
+NOTICE,172.18.113.236,New Stacyfurt,johnrussell,2024-04-03 08:21:44
+WARNING,10.124.175.106,Port Christopher,gavila,2024-08-03 19:49:05
+ERROR,192.168.193.233,Clarkhaven,thenderson,2024-02-04 16:20:37
+DEBUG,172.25.196.30,Vanessaside,mstone,2024-08-28 23:45:58,POST,Windows

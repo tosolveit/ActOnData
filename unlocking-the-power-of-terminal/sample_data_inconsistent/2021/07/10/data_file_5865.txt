@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.17.224,South Mark,xyoung,2024-02-02 16:31:36
+INFO,172.23.63.190,Port Deborah
+SUCCESS,192.168.252.150,North Timothyshire
+ERROR,10.249.109.25,East Todd
+DEBUG,10.232.83.67,Mccannside,amccarthy,2024-05-03 10:50:16,PUT,Linux

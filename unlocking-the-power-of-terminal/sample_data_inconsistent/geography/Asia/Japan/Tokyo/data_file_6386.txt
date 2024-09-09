@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.154.1,West Jon,krodriguez,2024-05-31 13:58:16,PUT,iOS
+ERROR,172.30.232.57,Joshuamouth,ryanlevine,2024-05-31 12:03:34,DELETE,Linux
+INFO,192.168.147.211,Carlsonstad
+NOTICE,192.168.241.105,Port Brian,vcunningham,2024-02-01 23:40:48
+NOTICE,172.19.155.151,New John,tylerholmes,2024-04-11 15:29:02

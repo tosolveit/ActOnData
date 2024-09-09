@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.206.13,Harperview,hillchristine
+NOTICE,10.2.160.113,West Carolland,davidortega,2024-06-03 16:56:46
+FAILURE,192.168.66.173,Ariasside,dawn81
+INFO,172.22.93.210,Lake Vincentmouth,hrobinson,2024-02-04 19:26:17,PUT,Windows

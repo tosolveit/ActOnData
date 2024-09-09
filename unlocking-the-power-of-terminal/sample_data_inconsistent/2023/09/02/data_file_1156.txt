@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.172.213,Lake Bradleybury
+FAILURE,172.16.211.16,Rileybury,brian76

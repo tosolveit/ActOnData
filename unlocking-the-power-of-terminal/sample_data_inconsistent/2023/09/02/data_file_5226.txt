@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.23.102.158,Michaelborough,harrismegan,2024-08-12 00:47:45,DELETE,Linux
+INFO,192.168.95.244,Mooremouth,laustin,2024-08-22 15:33:24,GET
+ERROR,172.28.30.133,Boonestad,kimberly44,2024-09-09 01:50:25

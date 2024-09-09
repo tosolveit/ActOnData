@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.152.250,Wendyland,catherinesmith
+FAILURE,192.168.124.197,Bowmanburgh
+DEBUG,10.205.105.105,Port Jamesside

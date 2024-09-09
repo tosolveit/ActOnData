@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.16.117.250,Port Ralphtown,wfranklin,2024-05-15 05:17:15,PUT
+ERROR,192.168.30.207,Lake Miranda
+WARNING,192.168.126.18,North Jacqueline,jacqueline58,2024-07-17 01:13:55,GET,iOS

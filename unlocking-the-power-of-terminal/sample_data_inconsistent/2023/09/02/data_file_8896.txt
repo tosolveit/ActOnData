@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.160.27.238,Port Davidbury,kimberlywang,2024-02-25 22:33:17,GET,Android
+NOTICE,10.62.189.219,Katiemouth,nicholashernandez
+CRITICAL,172.21.3.81,Lake Deborahtown,krodriguez
+ERROR,192.168.111.138,Isabelhaven,lchavez,2024-08-05 19:08:27,POST,Android
+CRITICAL,10.160.211.223,Port Daniel,brandon83,2024-08-20 07:06:28,GET

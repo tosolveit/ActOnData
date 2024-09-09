@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.80.138.111,Evanstad
+ERROR,172.16.61.150,Rasmussenport,laurenquinn,2024-02-15 02:26:46,GET,Windows

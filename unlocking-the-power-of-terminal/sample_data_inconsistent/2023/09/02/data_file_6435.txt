@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.51.141,Port Eddie,john85,2024-09-03 20:40:04,POST
+NOTICE,192.168.43.89,South Isaacview,leerebecca,2024-05-29 17:39:15,POST,Android
+SUCCESS,10.167.135.195,Martinezbury,patricksimpson,2024-08-22 01:46:15,POST
+NOTICE,10.188.173.39,West Jason,anna41,2024-06-28 02:55:43,DELETE,macOS
+ERROR,10.168.200.4,Hansenmouth,thorntonsteven,2024-07-03 22:55:55,DELETE,iOS

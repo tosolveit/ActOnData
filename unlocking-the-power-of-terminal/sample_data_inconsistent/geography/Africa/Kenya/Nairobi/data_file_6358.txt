@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.182.38,Stacyshire,keith65,2024-09-04 13:00:02,DELETE,Linux
+WARNING,192.168.101.114,New Jessica,patrick08,2024-03-24 22:16:46
+WARNING,172.27.35.251,Port Jasmineland,monroelauren
+FAILURE,10.61.118.48,Donbury,donna63,2024-02-27 03:41:54,POST
+CRITICAL,10.154.51.236,Sarahton,ashley66,2024-05-31 01:14:13

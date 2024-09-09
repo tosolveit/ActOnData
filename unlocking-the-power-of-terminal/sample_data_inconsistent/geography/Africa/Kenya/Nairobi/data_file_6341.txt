@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.29.26.150,New Zachary
+ERROR,192.168.29.184,West Edward,sreyes,2024-07-11 18:54:40,POST,Windows
+CRITICAL,172.28.93.128,Sallyhaven

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.209.39.92,East Thomasfort,zhenry
+DEBUG,10.185.88.7,Lake Lisaland
+FAILURE,192.168.163.241,Terryburgh,nsmith,2024-04-05 12:04:43,GET

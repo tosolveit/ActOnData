@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.209.69.229,North Sharonport,jacksoncraig,2024-06-23 01:12:10,POST
+SUCCESS,192.168.177.97,Angelatown,jennifer38,2024-04-06 06:19:48,DELETE,iOS

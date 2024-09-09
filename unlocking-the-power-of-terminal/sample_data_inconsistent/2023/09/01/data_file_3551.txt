@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.195.23.75,South Christineville,whiteelizabeth
+WARNING,172.27.27.161,Gallagherton,jamesalvarado,2024-09-06 17:21:58

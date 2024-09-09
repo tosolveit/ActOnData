@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.16.126.213,Port Natalie,npage,2024-02-23 03:50:55,GET
+SUCCESS,172.21.254.114,Taylormouth,ewhite,2024-01-22 07:52:52,DELETE,iOS
+INFO,172.28.135.15,North Michael,john33,2024-05-29 18:29:41
+ERROR,172.31.13.160,North Rachel,maria67,2024-08-31 01:18:27

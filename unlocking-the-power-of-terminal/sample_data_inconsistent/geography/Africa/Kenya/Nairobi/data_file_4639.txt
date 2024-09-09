@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.28.237.246,Patrickshire,christopher62,2024-01-18 03:05:09,GET,iOS
+FAILURE,172.19.166.203,South Paulborough
+FAILURE,172.18.187.206,East Andrewchester,wendy89,2024-04-13 23:19:16,POST
+WARNING,172.22.129.125,Hicksport,pmyers,2024-05-23 08:40:01,DELETE

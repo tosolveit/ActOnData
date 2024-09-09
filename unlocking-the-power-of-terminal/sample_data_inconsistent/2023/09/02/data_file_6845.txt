@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.164.92,Michelleton,nicole82,2024-08-14 18:29:55,GET
+NOTICE,192.168.116.249,Jasonton,alvaradowalter
+DEBUG,10.231.171.221,Maryborough,whitakerjames,2024-04-10 18:18:30,PUT,Android

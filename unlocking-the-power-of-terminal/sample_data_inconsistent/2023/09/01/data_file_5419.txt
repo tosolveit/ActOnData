@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.22.163.41,Amyhaven
+ERROR,192.168.71.217,West Gregory,alexandermichael,2024-05-03 21:20:56,GET,macOS
+ERROR,172.22.237.227,Garrettside
+SUCCESS,192.168.183.18,Vegaland,christine53,2024-02-09 10:03:32,PUT,Windows
+SUCCESS,192.168.109.185,Smithchester,aliciaburgess,2024-01-18 15:13:20

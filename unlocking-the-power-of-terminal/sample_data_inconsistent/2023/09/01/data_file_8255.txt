@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.24.57.51,Cooperborough,esalazar,2024-07-20 05:57:49,DELETE
+ERROR,172.29.94.160,Donnachester,oliverjill
+WARNING,172.28.29.61,South Markton,marshallkelly
+FAILURE,10.199.248.110,Christopherborough

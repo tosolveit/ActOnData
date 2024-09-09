@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.177.150.136,New Shawnmouth
+FAILURE,172.17.207.174,Romerostad,annapowell
+WARNING,10.45.240.19,Nicolestad,scook
+INFO,172.28.53.44,Meganport,wcaldwell
+WARNING,192.168.180.152,Elizabethshire,bmurray,2024-02-08 00:32:26,DELETE,Windows

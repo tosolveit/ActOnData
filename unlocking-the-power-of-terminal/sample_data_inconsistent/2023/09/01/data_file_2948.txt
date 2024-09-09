@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.41.19.163,West Donna,kanebrenda,2024-02-05 16:11:16,PUT,Linux
+INFO,172.17.168.238,Stephenschester,jamesjames,2024-06-30 01:28:51,POST,Windows
+ERROR,10.124.171.79,Daniellebury,shall,2024-06-28 12:37:56
+CRITICAL,10.130.16.227,Alexandermouth,morganhernandez,2024-08-21 23:46:21

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.16.171.15,Marcobury,ronald05,2024-07-01 12:45:57,POST,Android
+CRITICAL,10.3.180.73,North Jamesburgh,denisechaney,2024-02-13 15:43:12,POST
+ERROR,192.168.92.121,South Eric,jose08
+FAILURE,10.252.136.114,Johnsonstad,lance92,2024-05-01 03:43:48,POST,macOS

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.123.248.210,New Marybury,brandon62
+FAILURE,192.168.200.23,New Heidi,dpayne,2024-07-27 13:50:42,POST,macOS
+NOTICE,172.22.87.116,South John,ashley86,2024-01-19 00:04:55,POST,iOS
+CRITICAL,172.31.251.249,Lake Angela,thomasdebbie,2024-08-06 04:16:26,PUT,Linux

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.159.23.35,East Shawn,rberg,2024-01-30 09:05:45,PUT,Windows
+CRITICAL,172.31.21.117,Piercebury,rodriguezchristopher,2024-07-02 18:36:56,PUT,Android
+SUCCESS,172.24.35.164,East Adamstad,haleybarker,2024-08-31 20:31:53

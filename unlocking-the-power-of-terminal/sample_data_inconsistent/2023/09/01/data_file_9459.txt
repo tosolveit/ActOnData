@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.30.102.182,Angelastad,isabelallen,2024-02-07 18:45:20
+INFO,192.168.164.49,Jacobville
+CRITICAL,172.31.162.156,Paynebury,sierra94,2024-01-26 15:23:52,PUT,macOS
+WARNING,10.32.83.151,New Keithhaven,makaylawheeler,2024-07-14 11:57:34,PUT
+FAILURE,172.27.233.88,East Amy,griffinmichael

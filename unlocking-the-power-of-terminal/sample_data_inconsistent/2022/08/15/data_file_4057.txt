@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.189.96.244,Christineberg,fburke,2024-05-16 05:05:27,PUT
+WARNING,172.24.201.122,Leviville,vgreen,2024-09-05 23:42:18,POST,iOS

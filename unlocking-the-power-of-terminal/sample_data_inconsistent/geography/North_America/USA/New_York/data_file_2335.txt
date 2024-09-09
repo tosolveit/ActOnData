@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.30.253.77,South Markton
+CRITICAL,10.149.34.221,Port Emma,kingsabrina,2024-01-28 05:54:55,POST,Windows
+NOTICE,10.252.243.124,Brownside,ashleymanning,2024-01-12 01:51:34
+NOTICE,172.17.109.34,Nunezfort

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.136.178,Caseystad,raymondbrad,2024-06-17 11:07:29,DELETE
+CRITICAL,172.25.95.189,Lake Elizabethbury,cruzcourtney,2024-08-13 02:59:08
+NOTICE,10.156.222.85,West Charles,awelch,2024-08-20 00:34:56,POST
+NOTICE,10.157.125.117,Maryland,weaverdennis,2024-05-19 19:51:48

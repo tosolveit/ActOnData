@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.72.190.113,Brownfort,amaddox,2024-04-18 12:35:10
+WARNING,10.71.78.165,North Kristenland
+NOTICE,172.30.138.99,North Timothy,williamsjoseph,2024-02-16 04:59:49,GET
+INFO,172.18.109.22,Lewisport,pallen,2024-04-14 17:09:19,PUT,iOS
+WARNING,172.29.153.52,Laurenfort,fraziereric,2024-04-14 08:52:42,POST

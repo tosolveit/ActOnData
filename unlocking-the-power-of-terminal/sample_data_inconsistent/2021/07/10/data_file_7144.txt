@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.20.254.104,East Marymouth,angela93,2024-07-04 04:01:46,DELETE
+DEBUG,172.17.36.90,New Carl,fhowe,2024-06-04 07:42:17,POST,Android
+SUCCESS,172.29.223.207,Lopezchester,greenjeanette,2024-02-09 11:26:23
+FAILURE,10.39.242.87,New Melissa
+FAILURE,10.196.240.219,Jasonport,mitchellgregory,2024-05-21 06:42:11,POST

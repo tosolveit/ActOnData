@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.31.95.3,South Kevin,christopher13,2024-02-01 12:31:25
+NOTICE,192.168.192.150,Henryfurt,gardnerjennifer,2024-05-19 18:23:48,POST,Android
+SUCCESS,192.168.188.9,East Sandrashire,hstone,2024-03-06 19:57:02,GET,iOS
+CRITICAL,172.28.248.70,Morenochester,saraspence,2024-02-19 04:35:12,DELETE,Linux
+CRITICAL,192.168.154.145,Lake Cindystad,yherring,2024-06-06 16:08:13,POST

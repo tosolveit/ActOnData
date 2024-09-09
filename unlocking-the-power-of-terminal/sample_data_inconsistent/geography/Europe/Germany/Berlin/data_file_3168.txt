@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.57.35.141,Lake Matthewmouth,ujones
+INFO,10.124.171.226,East Eric,roberto44,2024-07-14 22:06:49,GET
+NOTICE,10.226.23.10,Thomasborough
+DEBUG,10.134.26.193,Lake Donna

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.115.28.69,East Joseph
+ERROR,10.216.20.47,Port Jeremychester,matthewsjohn,2024-05-19 00:42:44
+DEBUG,192.168.149.6,West Catherine

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.95.248,New Robertmouth,charris,2024-04-25 03:17:24,POST,macOS
+ERROR,10.100.248.154,Port Cherylshire,danielcarter
+FAILURE,10.64.232.42,Matthewhaven,deannaliu,2024-02-24 19:23:07,DELETE
+INFO,172.20.146.194,Morrisburgh,ruizdonna,2024-08-20 22:10:31,DELETE,Linux
+NOTICE,172.18.100.109,Breannaport,craigmcclure,2024-04-24 01:09:54

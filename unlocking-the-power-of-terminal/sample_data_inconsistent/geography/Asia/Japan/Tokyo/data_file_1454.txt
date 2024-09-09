@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.38.131.108,Lisaport,freemanariana,2024-05-05 21:39:15
+INFO,10.19.154.161,Lake Todd,josemartinez,2024-08-07 11:41:24,DELETE,Android
+WARNING,172.18.198.64,Jacksonmouth
+FAILURE,10.4.207.217,West Patriciaborough,nelsonleonard,2024-02-18 03:04:54
+FAILURE,172.21.19.79,Port Jamieland,whitelinda,2024-09-06 15:06:30,DELETE

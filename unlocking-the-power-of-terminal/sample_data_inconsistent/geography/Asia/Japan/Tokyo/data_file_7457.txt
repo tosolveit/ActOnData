@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.242.188,Sueburgh
+CRITICAL,10.50.155.167,Zacharychester
+NOTICE,172.26.179.104,Port Christopher,maria40,2024-07-29 15:40:23,GET
+FAILURE,192.168.80.6,Jenningsbury,brian12,2024-04-28 11:44:08,PUT,Windows

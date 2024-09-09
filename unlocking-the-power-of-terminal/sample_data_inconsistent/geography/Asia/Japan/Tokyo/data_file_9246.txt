@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.31.34.29,Arnoldborough,klee
+FAILURE,192.168.101.164,Port Williamshire,jennifer72,2024-08-07 10:09:42,GET,Android
+NOTICE,192.168.29.89,Dustinfort,hfoster,2024-04-23 02:36:51,DELETE,Android
+ERROR,172.23.100.86,New Tonyatown,alvarezjessica,2024-05-22 08:23:25,GET
+DEBUG,172.31.13.123,Jessicachester,sheilamiller

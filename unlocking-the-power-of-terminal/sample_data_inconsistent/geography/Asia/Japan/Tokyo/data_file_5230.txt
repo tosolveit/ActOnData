@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.27.17.202,North Debbieberg
+SUCCESS,10.36.92.211,Curtisview,gentrydamon,2024-06-11 07:28:36,POST
+FAILURE,192.168.114.22,Warrenland,smithnancy,2024-04-27 21:40:48

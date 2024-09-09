@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.114.107,Lauriefort,robin53,2024-05-02 05:21:57,PUT,Android
+FAILURE,10.69.191.39,Richardsfort,griffinthomas
+ERROR,10.215.170.28,Jaredborough,anitahughes,2024-08-30 07:14:26,DELETE
+NOTICE,10.187.137.94,Loganview,christina08,2024-07-14 05:20:24,DELETE

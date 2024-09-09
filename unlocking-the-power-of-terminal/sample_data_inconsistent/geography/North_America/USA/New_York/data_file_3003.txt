@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.240.146.163,Jessemouth,cindy67,2024-01-12 22:11:51,DELETE
+CRITICAL,172.28.18.170,Leeland,wattsandrew,2024-05-29 12:15:57
+DEBUG,10.170.6.16,New Sarah,hawkinstricia,2024-01-16 22:27:45,GET,macOS
+WARNING,10.74.65.192,West Margaretview,debbiemiller
+ERROR,172.26.1.45,Mollyfort,bobby79,2024-06-26 14:03:26

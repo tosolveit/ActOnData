@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.23.252.81,South Kimberly,terri79,2024-05-31 21:12:58
+SUCCESS,192.168.157.218,South Marciatown,sue41,2024-05-26 21:18:58,GET,Android
+CRITICAL,10.214.113.41,New Julie

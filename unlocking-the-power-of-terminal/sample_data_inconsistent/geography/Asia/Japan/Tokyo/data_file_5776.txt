@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.172.169,Michaeltown,mary28,2024-08-10 08:49:43,POST,iOS
+DEBUG,10.1.138.178,North Nicole,williamfloyd,2024-03-14 23:32:16,DELETE,macOS
+FAILURE,10.84.186.214,Martinfort,ferickson,2024-03-15 03:55:12,PUT,iOS
+SUCCESS,172.18.1.170,New John,jennifergonzalez,2024-08-11 09:37:49

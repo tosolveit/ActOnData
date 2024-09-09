@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.52.91.172,South Amy,danielle13,2024-02-28 02:53:44
+DEBUG,172.31.143.195,West Sierramouth,seth65,2024-07-20 10:07:37,DELETE
+SUCCESS,192.168.45.222,Hicksborough,icline,2024-05-31 16:36:24

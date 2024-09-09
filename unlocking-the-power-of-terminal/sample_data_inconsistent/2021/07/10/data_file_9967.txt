@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.36.93,Jamesfurt,todd23,2024-08-02 17:53:06,GET
+FAILURE,10.0.109.37,New Michael
+FAILURE,10.29.253.222,Knoxfurt,francisco20
+WARNING,10.75.190.88,East Micheal,caleb24,2024-02-06 04:03:35,GET
+ERROR,172.21.17.56,East Michael,tmcclure,2024-07-24 09:11:53

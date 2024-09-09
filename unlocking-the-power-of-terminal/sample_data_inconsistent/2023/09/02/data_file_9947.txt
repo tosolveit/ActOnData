@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.21.145.114,Bishopstad,ericyoung,2024-02-14 05:17:35,PUT,Android
+NOTICE,10.192.83.53,Lake Jamesview,dspencer,2024-04-12 17:44:59,DELETE
+INFO,172.18.104.164,Port Morganton,kathymendoza,2024-04-14 21:32:22

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.200.127.69,Deborahport,qcastillo,2024-05-09 09:13:52,GET,iOS
+DEBUG,10.147.223.64,New Deanna,kboyd,2024-03-13 08:45:42,POST
+FAILURE,10.125.113.223,Kevinfurt,bassandrea,2024-05-30 03:35:14,GET
+ERROR,192.168.155.239,Ortizborough,hturner,2024-04-13 17:38:45,PUT,iOS
+NOTICE,10.118.40.82,Lewisville,tpayne,2024-09-06 00:04:23,GET,Windows

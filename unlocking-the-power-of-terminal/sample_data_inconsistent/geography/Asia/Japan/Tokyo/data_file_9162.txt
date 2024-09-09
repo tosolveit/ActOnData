@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.131.47.147,Jacksonshire,jill51,2024-05-31 16:37:55,DELETE,Android
+FAILURE,192.168.49.45,East Jonathanfort,monicapark,2024-07-08 03:00:50,PUT
+CRITICAL,10.37.74.89,South Dawn,michelle41,2024-03-29 22:51:58,PUT,Android
+SUCCESS,172.26.136.99,Gibsonland,rodriguezjessica,2024-02-28 10:50:00
+WARNING,172.25.171.139,Reidberg,barnesjohn,2024-02-04 23:13:13,DELETE,Android

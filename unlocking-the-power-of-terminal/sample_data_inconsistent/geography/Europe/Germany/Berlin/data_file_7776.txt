@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.136.204,New Jillville,toddpatrick,2024-04-07 10:28:08
+FAILURE,10.178.110.236,West Matthewfort,nhunter,2024-03-27 20:26:07,GET
+NOTICE,172.16.75.120,Lake Josephberg,brandon54,2024-04-24 03:59:40,DELETE,macOS
+SUCCESS,172.16.17.245,West Alexandria,austinrogers,2024-08-26 03:11:44

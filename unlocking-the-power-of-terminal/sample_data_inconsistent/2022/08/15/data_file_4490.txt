@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.193.245.34,New David,iwashington
+NOTICE,10.164.215.146,North Christopher,rodneyhernandez,2024-05-23 12:04:21
+WARNING,10.238.142.167,Ramirezborough,isaacsellers,2024-04-03 01:33:39
+CRITICAL,10.219.207.83,Salashaven
+ERROR,172.26.188.217,Lewismouth,arthur15,2024-07-02 04:13:31

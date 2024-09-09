@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.21.50.95,North Curtisburgh,weberdaniel,2024-05-11 23:57:25,DELETE,macOS
+INFO,10.195.14.83,East Heathermouth,williamstoni,2024-08-29 12:27:55
+DEBUG,192.168.77.178,South Thomasstad,zimmermanteresa,2024-04-14 13:02:00

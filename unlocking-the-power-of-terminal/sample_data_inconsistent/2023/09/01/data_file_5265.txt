@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.218.226,Scottfort,jasonwilliams,2024-01-23 08:56:36
+WARNING,192.168.21.47,South Amanda,ryan83,2024-04-23 08:31:47,DELETE
+SUCCESS,192.168.241.100,Richardberg,teresarichardson,2024-05-23 19:08:09,POST
+NOTICE,172.23.252.27,Hillport,uwatson,2024-08-09 06:21:51,GET

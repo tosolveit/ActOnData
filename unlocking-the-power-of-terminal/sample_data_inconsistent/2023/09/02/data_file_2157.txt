@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.25.107.93,East Sarahfurt
+SUCCESS,10.89.227.69,Thomasport
+FAILURE,192.168.56.45,Jimenezport,wardlori,2024-08-26 23:18:16,PUT,Windows

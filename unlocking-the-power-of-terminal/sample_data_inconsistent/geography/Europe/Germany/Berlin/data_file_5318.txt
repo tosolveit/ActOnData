@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.10.26.71,Jamestown,williamstevenson,2024-06-01 16:41:43,POST
+ERROR,172.17.193.79,Port Ruthhaven,rpayne,2024-01-14 22:20:46
+SUCCESS,10.231.7.100,West Adrienneport,nicholasjones
+CRITICAL,172.31.31.175,Thomasstad,vsmall,2024-03-16 10:28:23

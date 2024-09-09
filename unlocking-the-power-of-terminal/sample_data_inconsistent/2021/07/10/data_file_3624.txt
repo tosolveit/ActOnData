@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.119.15,Charleshaven
+INFO,192.168.21.37,Johnfurt
+WARNING,10.183.20.217,Port Johnmouth,vmorris,2024-08-16 06:42:20,GET
+SUCCESS,172.29.161.13,Michelleport,reedlaura,2024-03-06 11:25:44,DELETE,Linux

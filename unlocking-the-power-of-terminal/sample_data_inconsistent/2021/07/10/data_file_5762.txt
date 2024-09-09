@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.223.217,New Victoriabury,bryanbarajas,2024-07-15 11:26:40,DELETE,iOS
+WARNING,172.31.246.3,West Daniel

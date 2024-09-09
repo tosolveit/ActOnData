@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.94.16.115,Austinhaven,darlene54,2024-06-09 20:41:41,DELETE,Linux
+INFO,172.21.69.63,Port Meaganville,perezraymond
+ERROR,10.88.118.241,Port Henry,ddaniels,2024-05-22 04:39:57,POST

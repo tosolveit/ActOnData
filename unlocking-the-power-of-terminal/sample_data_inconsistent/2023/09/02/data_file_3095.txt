@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.62.143.96,Prestonmouth,wangdavid,2024-06-21 13:27:33
+DEBUG,10.181.123.4,North Dustinbury,hannah77,2024-03-13 16:37:22,DELETE
+DEBUG,172.25.103.176,South Christopherberg,thomashumphrey,2024-02-14 02:11:59,PUT,Windows

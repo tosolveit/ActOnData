@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.29.35.20,Mccoyhaven,andrewharding,2024-05-18 08:47:22,DELETE,macOS
+ERROR,10.69.212.47,South Daniel,benjaminwheeler,2024-07-15 16:28:57
+CRITICAL,10.123.99.86,Salazarstad,donald43,2024-08-04 16:07:00,GET
+DEBUG,10.141.20.127,Josephville,kellymarie

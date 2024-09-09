@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.148.47.112,West Christopherborough
+FAILURE,172.23.116.247,Dianaland,ccameron,2024-04-10 06:01:42,PUT,Windows
+INFO,172.18.209.70,Julianstad

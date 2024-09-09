@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.215.150.78,Lake Darrellport,kelseygrant,2024-05-31 23:41:12
+DEBUG,192.168.99.219,Bryanland
+CRITICAL,192.168.15.185,South Michele,ievans,2024-01-31 17:38:24

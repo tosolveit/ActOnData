@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.21.100,West Michaelland
+FAILURE,10.22.69.192,Vanessastad
+ERROR,10.234.65.11,Port Cody,jessica90,2024-03-12 16:04:36,DELETE
+ERROR,10.241.223.253,Jamesville,nmiller,2024-03-05 00:53:44

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.36.19,Williamfurt,christinahines
+INFO,10.70.38.100,Cummingsport,smithmelissa,2024-05-12 13:00:57
+ERROR,172.20.106.2,Smithstad,tammy29,2024-01-01 01:16:36,PUT,Linux

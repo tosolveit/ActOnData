@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.75.129,Roberttown,edwardmolina,2024-08-30 17:54:37
+FAILURE,10.79.54.16,Ballardburgh,jonathankim

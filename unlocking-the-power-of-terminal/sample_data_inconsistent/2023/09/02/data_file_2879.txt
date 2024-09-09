@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.92.216.214,Mccarthyhaven,steven56,2024-04-15 08:25:33
+DEBUG,172.28.5.204,Barreraland,ccooley,2024-01-13 16:45:19,POST,Android
+FAILURE,172.21.30.48,Washingtonshire,whitemario,2024-08-20 02:05:51,PUT
+FAILURE,172.31.152.35,Matahaven,amanda27
+SUCCESS,10.78.133.38,Robinsonbury,staceymiller,2024-01-04 04:55:17,DELETE,iOS

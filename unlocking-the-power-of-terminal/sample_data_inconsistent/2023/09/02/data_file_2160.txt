@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.31.208.194,North Michelleburgh,eespinoza
+INFO,172.16.242.230,New Ernestshire,mandyjohnson,2024-08-10 16:29:28,POST
+FAILURE,192.168.131.152,Garciaville,fieldsmalik
+SUCCESS,172.16.170.229,Lake Heatherchester,tinalittle,2024-09-05 18:26:50
+FAILURE,10.153.245.163,Lake Erin,turnerbeth,2024-01-29 19:29:10,GET

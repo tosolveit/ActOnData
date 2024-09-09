@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.229.132,Michaelstad,donald04
+CRITICAL,172.27.30.49,Kelleystad
+FAILURE,192.168.45.240,Port Brianfort,jacquelinephillips,2024-06-15 18:11:41

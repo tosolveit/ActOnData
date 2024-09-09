@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.22.139.103,North Samantha,brownjessica
+SUCCESS,172.17.249.118,Matthewtown,ryanjoseph
+NOTICE,172.19.50.45,Lemouth
+DEBUG,192.168.159.167,Katiebury,kjones,2024-04-23 09:41:13

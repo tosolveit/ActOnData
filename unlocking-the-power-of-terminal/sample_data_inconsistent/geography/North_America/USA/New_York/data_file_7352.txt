@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.215.152.230,Lake Lisastad,benderchristine
+INFO,192.168.111.180,Brookeborough,figueroabrian
+INFO,10.115.213.64,New Peterview,yhull,2024-05-08 19:43:31,PUT
+DEBUG,192.168.97.204,New Aaronhaven,miranda54,2024-05-12 01:17:26,GET,Linux

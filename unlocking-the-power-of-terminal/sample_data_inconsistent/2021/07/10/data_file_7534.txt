@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.133.111.97,Robertfort,wanda97,2024-04-04 00:43:29,GET,Linux
+INFO,192.168.172.102,Victorfort,jaywilson,2024-01-18 01:31:59
+FAILURE,10.8.235.191,Port Michael,ihurley,2024-07-08 18:43:49,GET
+CRITICAL,172.21.81.182,New Marychester

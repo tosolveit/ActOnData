@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.87.119.252,West Patricia,jwong,2024-02-01 10:55:29,DELETE,Android
+FAILURE,10.167.116.42,Chavezbury,smithbrianna,2024-04-18 04:32:05,POST
+SUCCESS,10.61.15.241,Port Gregory,jennifer21,2024-07-16 13:09:05,POST
+WARNING,192.168.249.121,North Ronald,tmedina,2024-06-23 15:57:48,GET
+FAILURE,10.14.2.202,Williamsside

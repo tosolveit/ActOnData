@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.128.200,Ronnieberg,david92,2024-07-22 02:30:54,GET,Windows
+CRITICAL,172.22.205.146,Petersenmouth,karenwilson,2024-01-14 03:23:57,POST
+CRITICAL,10.231.154.119,Ronaldburgh,kathleen06,2024-08-07 19:10:41,PUT
+WARNING,192.168.158.246,South Danielland,bryan83

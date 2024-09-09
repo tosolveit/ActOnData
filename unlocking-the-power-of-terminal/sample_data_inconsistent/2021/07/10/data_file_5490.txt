@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.64.101,East Johnburgh
+FAILURE,10.228.102.215,South Stephenmouth,cnelson,2024-08-29 17:44:35,PUT
+FAILURE,192.168.47.126,Alexandriaberg,haynesbonnie

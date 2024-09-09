@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.94.95,Stephanieside,medinawhitney,2024-01-11 13:54:54,POST
+DEBUG,172.18.6.100,Port Charles
+DEBUG,192.168.108.90,East Kathyhaven,mmoore,2024-07-30 02:15:22,POST,Windows

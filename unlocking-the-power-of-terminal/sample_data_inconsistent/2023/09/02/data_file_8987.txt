@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.20.229.235,Lake Omarburgh,uturner,2024-07-07 02:27:03,PUT
+INFO,172.18.107.145,New Maria,dmccarthy,2024-07-07 05:47:29,POST
+CRITICAL,192.168.9.16,Noblehaven,lisawiggins
+NOTICE,192.168.117.69,Mendozastad
+DEBUG,172.22.178.222,South Daniel,nicolelarson

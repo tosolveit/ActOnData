@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.188.36,Gallegosfort,dpeterson,2024-02-24 08:45:33,PUT,Windows
+INFO,10.171.83.255,Lake Jamesview,palmerashley,2024-02-07 21:24:07,DELETE,macOS
+FAILURE,172.23.72.90,New Patriciaton,michael64,2024-06-18 16:02:17,POST

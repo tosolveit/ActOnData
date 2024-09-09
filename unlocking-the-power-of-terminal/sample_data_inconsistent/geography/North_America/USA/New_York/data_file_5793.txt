@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.25.241.242,North Nicholasmouth,richard17,2024-07-12 17:56:07
+CRITICAL,192.168.224.37,North Cassie
+DEBUG,192.168.100.167,Lake Joseph
+INFO,172.25.65.125,Phillipschester,jeremy69

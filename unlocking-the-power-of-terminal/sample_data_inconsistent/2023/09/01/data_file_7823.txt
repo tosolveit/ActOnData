@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.1.32.142,North Christinaberg,jamesshelby,2024-07-28 21:40:34,PUT
+DEBUG,10.128.15.132,Shannonmouth,troy37,2024-06-18 05:04:07,GET,Linux
+CRITICAL,10.34.100.204,North Maryhaven
+NOTICE,10.2.176.218,South Elizabethfurt,livingstonveronica,2024-08-11 00:01:27,PUT

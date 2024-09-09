@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.26.81.195,West Annbury,richardsoscar,2024-03-17 13:05:00
+SUCCESS,172.22.235.5,New Barbaraport
+SUCCESS,192.168.53.93,Pattersonburgh,james31,2024-04-06 10:32:27,PUT
+INFO,10.138.246.70,Jonathantown,christopherporter,2024-04-18 20:35:45,GET
+SUCCESS,172.26.77.204,North Ashleychester,michelleporter,2024-06-04 10:19:44

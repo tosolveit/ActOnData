@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.116.44.92,Reeseport,romanstephanie,2024-06-28 09:41:33,PUT,macOS
+CRITICAL,172.17.136.166,Katherineburgh,kiaraphillips,2024-05-27 21:44:54,PUT
+ERROR,172.17.222.87,Tarachester,erik67

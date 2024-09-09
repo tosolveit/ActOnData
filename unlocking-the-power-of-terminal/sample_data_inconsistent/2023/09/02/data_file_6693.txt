@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.188.181.68,Moralestown,jaymack,2024-02-02 02:27:06,GET,macOS
+CRITICAL,192.168.87.91,North Jasmineshire
+NOTICE,192.168.140.166,New George,monroerobert
+ERROR,192.168.79.204,North Cindy,rebecca41,2024-07-26 01:05:59,GET

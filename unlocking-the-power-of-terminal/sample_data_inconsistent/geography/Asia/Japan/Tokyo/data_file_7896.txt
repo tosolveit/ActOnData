@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.11.63,Taylorborough,max95,2024-06-05 05:12:06
+CRITICAL,172.20.167.178,Stanleystad,lawrencesarah,2024-09-04 20:14:21,POST,macOS

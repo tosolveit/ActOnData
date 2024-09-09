@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.23.190.143,New Connie,campbelljenna,2024-06-22 20:47:23,GET,macOS
+DEBUG,172.19.92.202,North Glenville,ycurtis,2024-03-23 01:16:39,PUT
+CRITICAL,192.168.98.222,Jasonfurt,juareztimothy,2024-06-28 14:07:34,DELETE,macOS
+FAILURE,172.26.135.185,South Dylanhaven,richardramirez,2024-05-01 15:15:24,DELETE,Windows

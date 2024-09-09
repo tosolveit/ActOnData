@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.162.204.234,North Shelby,johnnybrown,2024-08-18 09:23:26
+WARNING,192.168.132.98,Leetown,martinezgeorge,2024-05-18 00:27:26,POST,Android
+FAILURE,172.19.64.0,Timothyfort,crystal28,2024-02-03 07:38:09
+INFO,192.168.134.213,North Logan,llucas,2024-05-07 02:49:36,DELETE,iOS

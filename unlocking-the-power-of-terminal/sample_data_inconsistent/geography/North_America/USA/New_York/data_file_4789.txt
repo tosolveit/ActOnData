@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.60.104,Mikehaven,campbelledward,2024-03-08 16:02:21
+DEBUG,172.24.11.38,Marshview,kylie29
+NOTICE,192.168.111.10,Dixonville,vaughangary,2024-03-10 14:53:55
+NOTICE,10.206.164.146,East Patrick,gregory64,2024-02-23 01:56:50

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.167.227.208,Timothymouth,michaelrhodes
+ERROR,172.27.161.182,Lake Patriciamouth
+CRITICAL,172.23.79.101,Harpermouth

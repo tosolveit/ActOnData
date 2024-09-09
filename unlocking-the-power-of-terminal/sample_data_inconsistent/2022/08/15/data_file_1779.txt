@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.83.89,Jenniferton,troy58,2024-05-11 19:19:32,POST
+WARNING,10.95.71.242,East Kimton,moralesshaun,2024-04-02 22:40:15,POST
+SUCCESS,172.27.232.57,Moralesberg,kimberly61,2024-06-22 19:22:24,PUT

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.43.85.67,New Sean,joshuawilliams,2024-06-20 17:47:22,POST
+SUCCESS,10.226.105.143,North Alexandriamouth
+FAILURE,192.168.213.160,Smithfurt,smithcarly,2024-03-25 10:16:39

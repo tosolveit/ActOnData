@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.189.231.203,East Reneehaven,veronicafritz
+ERROR,192.168.6.141,North Henrychester,carlossteele,2024-06-06 03:23:20
+SUCCESS,192.168.57.85,Frankville,cervantesphillip,2024-03-27 14:57:19

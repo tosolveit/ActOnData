@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.18.77.231,East Victoria,sandra05,2024-05-01 18:30:39
+CRITICAL,192.168.10.92,North Ashley,shawdiane,2024-07-01 01:33:48,DELETE,Linux
+FAILURE,172.26.251.155,Batesland,ijones,2024-05-08 05:50:02,DELETE,Linux
+SUCCESS,192.168.182.233,South Michaeltown

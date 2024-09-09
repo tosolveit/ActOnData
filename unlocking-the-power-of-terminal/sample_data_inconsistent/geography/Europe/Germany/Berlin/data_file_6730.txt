@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.172.82.20,South Tinachester,halljennifer,2024-07-17 06:17:26
+NOTICE,172.17.68.236,Brendahaven,kpennington,2024-06-26 16:24:45,DELETE
+INFO,10.146.183.102,Brianmouth
+CRITICAL,192.168.10.123,South Abigail,daniellemurphy
+WARNING,10.150.118.79,Cynthiastad,coreywood,2024-06-25 03:50:42,GET

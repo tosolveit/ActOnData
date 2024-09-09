@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.44.152.171,South Nicholas,charles69,2024-03-09 07:42:11,DELETE
+SUCCESS,172.16.212.241,West Shawnmouth,johnsonadam,2024-08-14 03:41:07
+CRITICAL,172.16.75.147,New Lindsey
+WARNING,172.16.25.24,Lake Larry,frodriguez

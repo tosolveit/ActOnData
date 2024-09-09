@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.13.59.187,New Melissa,burnssamuel,2024-08-18 05:24:35,GET
+SUCCESS,192.168.209.205,North Angela,josephbarnett,2024-03-28 14:23:58,GET,iOS
+NOTICE,10.22.126.101,East Heather
+ERROR,192.168.53.135,Carrilloview,clinesean

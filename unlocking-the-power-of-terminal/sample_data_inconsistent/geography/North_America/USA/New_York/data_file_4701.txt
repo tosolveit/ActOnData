@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.18.113.231,South Angelaton,kimberly03,2024-09-05 03:02:39,PUT,Windows
+INFO,172.31.168.220,Port Samanthachester

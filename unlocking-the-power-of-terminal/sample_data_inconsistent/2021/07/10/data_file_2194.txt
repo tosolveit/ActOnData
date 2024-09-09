@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.46.186,Louisview,dstokes,2024-07-21 19:37:45,DELETE,Android
+DEBUG,172.26.126.98,Christiantown,vfarley,2024-04-06 07:37:46,PUT,Linux
+NOTICE,10.9.133.207,West Crystal,andrew65,2024-04-18 05:33:03,DELETE
+DEBUG,10.191.110.154,New Latashaland,brucesmith,2024-02-14 10:21:38,PUT
+ERROR,10.99.133.152,Lake Johnfurt,xcross,2024-07-18 15:00:54,GET,Windows

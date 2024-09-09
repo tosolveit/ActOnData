@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.91.146,New Tylerton
+INFO,192.168.219.99,Lucastown,ellenmiller,2024-03-25 03:14:59,DELETE
+CRITICAL,172.22.179.168,Ortizmouth,leaustin,2024-08-10 14:42:34,DELETE,macOS
+CRITICAL,172.21.128.92,South Stephenland,anthony65,2024-02-26 16:34:11,PUT,Windows

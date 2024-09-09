@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.31.125.74,Lake Deborah,julie15,2024-08-06 04:08:29,GET
+WARNING,192.168.225.206,Hansenview,zpham,2024-07-18 20:29:35,GET
+CRITICAL,192.168.236.247,Wilsonmouth,kellyrivers,2024-02-20 22:21:41,PUT,macOS
+SUCCESS,172.19.18.187,Bryceport,kylie18,2024-04-21 16:21:21,GET,Linux

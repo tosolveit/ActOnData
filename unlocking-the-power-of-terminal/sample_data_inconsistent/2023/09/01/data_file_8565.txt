@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.28.170.170,Claytonstad,margaretlarson,2024-01-01 07:03:14,PUT
+FAILURE,172.30.119.188,New Joestad,iswanson,2024-03-14 03:30:07,DELETE,Windows
+WARNING,10.228.104.65,Pattonhaven,adamsmith,2024-01-20 00:42:51

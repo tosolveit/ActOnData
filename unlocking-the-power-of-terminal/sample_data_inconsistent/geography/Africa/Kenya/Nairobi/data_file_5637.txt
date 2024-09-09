@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.28.230.86,Craigfurt,zcompton,2024-03-16 07:55:42,DELETE
+NOTICE,192.168.202.103,Bushside,morganwright

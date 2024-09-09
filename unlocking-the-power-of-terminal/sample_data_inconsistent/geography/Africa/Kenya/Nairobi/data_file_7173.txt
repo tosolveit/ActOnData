@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.78.79.189,Hudsonside,harrisdustin,2024-01-12 22:34:03
+INFO,10.37.13.85,North Christopherborough,mcombs,2024-09-06 05:41:36,GET,Linux
+DEBUG,192.168.86.106,Careyburgh,pattersonmichelle
+WARNING,192.168.222.140,Janetmouth,lhall
+FAILURE,192.168.148.139,Bellstad

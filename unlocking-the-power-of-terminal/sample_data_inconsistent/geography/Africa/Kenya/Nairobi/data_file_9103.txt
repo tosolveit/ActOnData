@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.69.124,Lake Holly,ulong
+FAILURE,192.168.255.249,Kimton,hinescarly
+DEBUG,172.31.13.7,Garciafort,cameron70,2024-08-05 04:11:10

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.0.103.74,East Erin,michael89,2024-07-04 06:36:46,POST
+INFO,172.23.197.103,Port Jasonton,juliecampbell,2024-05-10 23:31:48,PUT
+SUCCESS,172.20.79.182,Davidshire,zcox,2024-01-21 06:31:20

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.227.195.90,Port Saraburgh,matthew52,2024-05-17 17:21:50,DELETE,Android
+CRITICAL,172.19.70.14,West Heather,nathanmoore,2024-06-28 19:37:33
+WARNING,192.168.72.231,Port Nicoleport,yacosta
+ERROR,192.168.240.83,Lake Victoria

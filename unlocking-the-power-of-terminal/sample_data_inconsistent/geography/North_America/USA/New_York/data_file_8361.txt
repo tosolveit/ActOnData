@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.31.194.205,New Jessica
+DEBUG,172.27.27.145,Ryanton,hwalton

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.173.138,Shannonchester,josejohnson,2024-05-07 17:39:54,DELETE,macOS
+SUCCESS,10.137.244.149,Beanchester
+ERROR,172.26.62.14,Aaronshire,ericajohnson,2024-06-03 14:56:48,POST,iOS
+SUCCESS,192.168.177.78,Lake Caitlinburgh,aaronhill

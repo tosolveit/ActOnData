@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.31.16.6,South Paul,christinaroberts,2024-03-01 10:39:58
+DEBUG,172.18.186.221,West Kathleen,brandi86,2024-08-25 14:25:42
+DEBUG,192.168.124.239,Alihaven,phardin
+WARNING,172.22.178.140,North Tarafort,eric84,2024-07-09 19:53:24,PUT
+WARNING,192.168.228.111,Bradfordborough,paul45,2024-02-15 18:16:35,GET

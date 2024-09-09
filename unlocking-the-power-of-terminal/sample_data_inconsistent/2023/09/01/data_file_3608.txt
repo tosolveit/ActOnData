@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.103.89.163,East Rubenland
+DEBUG,172.29.103.190,Lake Peterburgh,thall
+NOTICE,192.168.117.204,Warrenborough,john32
+WARNING,192.168.234.104,Johnsonton

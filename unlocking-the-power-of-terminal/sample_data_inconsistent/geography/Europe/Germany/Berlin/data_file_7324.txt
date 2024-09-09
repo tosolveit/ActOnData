@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.22.243.90,West William,vickiejones
+WARNING,192.168.2.130,North Jamesville,leecarol,2024-01-28 11:27:50,PUT
+CRITICAL,10.125.204.29,Priceview,bpotts

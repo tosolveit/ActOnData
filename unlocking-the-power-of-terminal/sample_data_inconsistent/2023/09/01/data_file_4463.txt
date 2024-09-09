@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.20.248.153,Lake Frankfort,dbell,2024-05-17 10:46:59,DELETE,Android
+DEBUG,172.22.204.37,North Robert,jeffrey85,2024-05-02 03:58:34,DELETE
+INFO,192.168.152.193,East Traci,jsilva,2024-05-29 01:48:43,DELETE
+WARNING,172.25.181.12,West Angelicaland,ryanaguilar,2024-02-10 11:58:05,PUT
+INFO,172.31.65.154,North Scottbury,daniellane,2024-02-22 13:33:48,GET,macOS

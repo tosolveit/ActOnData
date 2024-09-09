@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.26.224.250,Jonathanville,noliver,2024-06-06 19:54:59,DELETE,Linux
+INFO,172.31.206.127,Lauraville
+DEBUG,192.168.199.139,Lake Nicholas,bernardbrooks

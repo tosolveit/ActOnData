@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.43.156.82,Lake Amy
+ERROR,172.19.224.29,North William,martindaniel,2024-05-21 07:10:29
+NOTICE,172.27.75.99,South Ericland,xkim,2024-04-28 07:44:12
+SUCCESS,192.168.9.115,Stacystad,sandra82,2024-02-27 03:15:51

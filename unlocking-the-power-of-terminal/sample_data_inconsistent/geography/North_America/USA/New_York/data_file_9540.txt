@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.148.83,South Connorbury,elopez,2024-05-19 19:02:14,DELETE,Android
+FAILURE,172.27.192.45,New Morgan
+NOTICE,10.44.168.61,Kimberlyfurt,jacksondenise
+NOTICE,172.20.74.218,Scottland,bradleytaylor

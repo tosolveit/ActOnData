@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.236.183,Kayleeborough
+FAILURE,172.30.184.59,Port Sophiaville,omiller,2024-03-12 15:21:18,POST,iOS
+FAILURE,10.107.92.168,Watsonton

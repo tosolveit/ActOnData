@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.69.145,Timothytown,smithabigail,2024-07-14 20:25:31,GET,Windows
+FAILURE,192.168.60.54,Nicholasmouth,brett38,2024-02-05 08:49:11,PUT,Linux
+DEBUG,192.168.126.241,South Brian
+FAILURE,192.168.148.89,New Darrellport,kellyromero,2024-07-16 12:49:13

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.30.171.241,South Valerie
+INFO,172.18.143.16,New Charlesport,aramsey,2024-07-11 07:21:06
+NOTICE,10.104.199.226,Emilyfurt,betty55
+DEBUG,10.79.102.81,North Danielle
+SUCCESS,172.25.51.177,North Christineberg,gillespierobin,2024-04-15 04:37:32,GET,Windows

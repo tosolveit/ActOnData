@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.68.118,Williamsside,jamesnunez,2024-03-03 20:09:25
+WARNING,10.50.191.93,Moraburgh,ischroeder,2024-02-23 14:02:50,DELETE,macOS
+SUCCESS,192.168.111.37,South Bryan,markibarra,2024-03-26 17:59:58

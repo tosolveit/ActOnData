@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.23.184.161,Markstad
+FAILURE,192.168.125.234,Thompsonborough
+INFO,10.24.104.128,New Zoe,mgreen,2024-03-18 22:40:40
+CRITICAL,172.24.131.140,Barnesbury
+INFO,10.194.167.94,East Gina,pattersonmichael

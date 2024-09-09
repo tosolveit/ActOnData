@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.198.172.79,Rebeccabury,robertkennedy
+FAILURE,172.26.152.59,New Petershire,rollinsstephanie,2024-01-12 20:36:37,GET
+NOTICE,192.168.62.74,Dominiqueborough
+ERROR,172.29.103.30,Schneidertown,rhonda12,2024-03-05 05:19:12
+SUCCESS,172.24.127.35,Brianville,echen,2024-05-21 04:16:30,GET,iOS

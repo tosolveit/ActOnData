@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.17.151.84,New Perryland
+FAILURE,10.255.201.112,Port Conniefort

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.7.237,Odonnellview,fergusonbrooke,2024-01-30 06:14:21,GET,Android
+INFO,10.135.71.191,Lake Jennifer,chelsea00,2024-03-07 23:44:13,POST,Windows

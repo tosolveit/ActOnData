@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.11.108.101,Tiffanyview,reynoldscharles,2024-05-11 23:50:42
+FAILURE,192.168.174.170,Villanuevatown,danderson
+INFO,192.168.69.100,North Davidmouth,reginaldcruz,2024-06-08 21:49:04,DELETE,macOS

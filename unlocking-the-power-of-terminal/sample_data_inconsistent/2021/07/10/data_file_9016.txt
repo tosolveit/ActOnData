@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.242.124.74,Harrisshire,fischermicheal,2024-04-01 03:47:07,PUT
+INFO,10.166.82.215,New Jessicaside,nealmonica,2024-08-26 07:36:06,PUT,macOS
+ERROR,10.13.19.57,Hoodtown,nancy10
+INFO,172.18.119.77,Schultzport,joshua31,2024-04-20 17:47:23,POST

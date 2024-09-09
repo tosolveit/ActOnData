@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.17.18.179,Justinstad,greenejennifer,2024-04-16 04:21:03,PUT
+ERROR,10.13.45.93,Jeffreyville,morrisjustin,2024-08-25 12:14:05,DELETE,macOS
+ERROR,10.195.255.203,New Andrew,christina59,2024-03-24 12:48:42
+WARNING,172.21.103.17,Port Johnathan,wilsonjulia,2024-04-06 15:25:30,DELETE

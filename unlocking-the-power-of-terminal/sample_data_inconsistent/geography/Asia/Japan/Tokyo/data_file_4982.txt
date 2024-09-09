@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.34.70.18,Elijahhaven,fjohnson,2024-05-11 15:50:14,GET,macOS
+ERROR,10.106.111.117,South Cynthia
+INFO,172.28.247.60,Tuckermouth,jaclynpreston,2024-04-16 08:28:23
+NOTICE,10.17.133.160,West Alexis,jeffrey54,2024-08-06 10:21:53

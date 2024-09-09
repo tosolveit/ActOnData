@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.71.171.150,East Scottville
+DEBUG,172.30.85.132,Deanfurt
+FAILURE,10.137.168.76,Lake Michealfort,elizabeth72

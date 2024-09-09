@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.146.151,North Patrick,williamslinda
+DEBUG,10.157.140.45,Annetteborough,jaclyn48,2024-03-04 18:41:48,POST
+SUCCESS,10.180.47.109,Leeland,jonesannette

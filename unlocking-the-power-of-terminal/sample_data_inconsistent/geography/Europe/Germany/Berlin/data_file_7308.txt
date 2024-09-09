@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.71.16.199,North Christyfort
+FAILURE,172.16.182.97,Riverafort,kimberly60,2024-01-15 16:26:28,PUT,macOS
+WARNING,172.31.82.133,Port Benjamin

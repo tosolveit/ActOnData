@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.228.251.29,East Daniel,piercejessica
+INFO,10.11.137.202,Morrischester
+CRITICAL,172.17.74.155,Deleonburgh

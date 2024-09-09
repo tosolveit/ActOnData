@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.23.59.31,North Kelliview,fharrington,2024-02-26 06:00:25,PUT
+ERROR,192.168.33.122,Port Jane
+CRITICAL,192.168.209.111,Leeland,christopher47,2024-05-12 03:32:12,PUT,macOS
+FAILURE,10.148.222.3,Beardmouth,erikdunn

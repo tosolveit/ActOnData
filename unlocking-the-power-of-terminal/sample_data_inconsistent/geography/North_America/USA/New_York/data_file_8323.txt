@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.31.119.69,Morrowton,kimberly48,2024-06-08 15:59:01
+SUCCESS,192.168.15.255,South David,tracywalker
+INFO,10.81.168.31,Brownstad,james02,2024-06-06 13:18:11,POST

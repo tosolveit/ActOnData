@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.105.107,Lake Shawnahaven,flowery,2024-04-01 20:43:18,DELETE,Linux
+SUCCESS,10.183.10.227,Stoneville,wmann
+SUCCESS,192.168.140.173,New Richardstad,paulwilliams,2024-08-14 16:56:05,PUT

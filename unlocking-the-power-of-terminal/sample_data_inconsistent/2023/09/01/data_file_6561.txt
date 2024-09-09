@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.37.235.113,East Jamestown,stevensstephanie
+CRITICAL,192.168.83.250,West Jakeburgh,pgarcia,2024-02-08 09:17:25,POST
+FAILURE,172.31.198.161,East Heidiville,ilewis
+NOTICE,10.38.189.237,Lake Jacobchester
+CRITICAL,172.25.129.109,East Johnburgh,deborah15,2024-06-11 15:22:07,DELETE

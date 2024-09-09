@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.21.49.155,Fullerfurt,ncain,2024-05-28 12:28:35,POST
+SUCCESS,10.133.82.128,North Linda,hcole,2024-03-30 17:08:36,GET
+FAILURE,10.254.91.53,Leahton,gatesmark,2024-05-07 04:43:44
+DEBUG,10.166.203.131,Lunastad,theodore00

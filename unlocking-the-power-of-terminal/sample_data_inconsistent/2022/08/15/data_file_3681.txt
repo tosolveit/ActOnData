@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.23.135.199,South Johnport
+SUCCESS,10.195.176.209,North Marcusfort
+INFO,192.168.114.251,Yorkshire,leedavid,2024-08-01 18:10:43,DELETE,Android
+ERROR,172.23.202.171,Klineport,fgoodwin,2024-09-02 22:21:52,GET,Linux
+DEBUG,192.168.0.193,West Andrea,arthurevans,2024-06-02 05:06:01

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.199.205.85,Jeremyshire,ylewis,2024-04-25 06:13:04
+CRITICAL,192.168.221.173,East Nathan,xvillegas,2024-02-03 18:50:31,PUT
+SUCCESS,10.116.155.197,East Lydia,smithandrea,2024-07-02 05:21:11,DELETE,Android
+CRITICAL,192.168.100.188,Lake Joannashire

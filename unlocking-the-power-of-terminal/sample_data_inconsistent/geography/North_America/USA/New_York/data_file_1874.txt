@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.22.228.214,Gonzalezburgh,ericgraham,2024-05-11 20:54:02,GET
+SUCCESS,192.168.162.76,Mcdonaldhaven,beanwilliam
+ERROR,192.168.233.176,Klineside,vmaxwell,2024-08-10 17:59:45

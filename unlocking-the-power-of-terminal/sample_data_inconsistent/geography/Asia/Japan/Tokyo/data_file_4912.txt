@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.77.74,New Olivia,emilyrowe,2024-06-29 22:17:37
+CRITICAL,192.168.133.175,Port Laura,fwalton,2024-05-25 05:20:37,GET

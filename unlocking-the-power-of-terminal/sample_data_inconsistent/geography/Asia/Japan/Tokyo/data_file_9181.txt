@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.95.15,New Jamie,krista05,2024-03-06 12:14:33
+FAILURE,10.224.64.119,South Jamie,manuelwoods,2024-05-11 17:37:10,PUT
+WARNING,172.29.129.212,Lake Carolmouth
+WARNING,10.142.223.101,South Robertburgh,hernandezkaren

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.244.193,East Jasonburgh,keith53,2024-03-05 18:27:44,POST
+ERROR,172.17.242.216,Sharonville,pamela47,2024-03-10 02:57:46,GET
+DEBUG,192.168.217.56,Lake Richardside

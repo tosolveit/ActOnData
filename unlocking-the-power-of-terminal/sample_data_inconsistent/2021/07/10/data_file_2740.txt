@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.213.227,South Kyle
+DEBUG,172.30.115.88,West Georgeville,tannerwalker
