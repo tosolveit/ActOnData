@@ -1,7 +1,7 @@
 # ActOnData
 
 ## IMPORTANT
-If you don’t need to generate a larger dataset, you can simply download the pre-generated data.csv file in this directory.
+If you don’t need to generate a larger dataset, you can simply download the pre-generated data.csv file and sample_data_inconsistent folder  in this directory.
 
 ## 1. Install virtualenv
 If virtualenv is not already installed, you can install it using pip (Python’s package manager).  
@@ -59,5 +59,10 @@ python generate_data.py --num_records 100
 Generate 50 records and save to a custom file (output.csv):
 ```bash
 python generate_data.py --num_records 50 --output output.csv
+```
+
+To generate inconsistent nested data example
+```bash
+python generate_inconsistent_data.py
 ```
 
