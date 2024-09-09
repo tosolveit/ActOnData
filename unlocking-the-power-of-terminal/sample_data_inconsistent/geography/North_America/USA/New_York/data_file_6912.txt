@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.38.79.231,Wilsonshire
+FAILURE,172.20.179.127,Coreyland
+FAILURE,10.33.100.150,Heathmouth
+DEBUG,10.139.241.16,Brettmouth,sierra59,2024-06-15 06:32:48
+INFO,192.168.83.189,New Joann

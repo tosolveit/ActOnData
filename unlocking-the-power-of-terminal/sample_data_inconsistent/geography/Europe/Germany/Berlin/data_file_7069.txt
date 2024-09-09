@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.215.24,Matthewstad,pamelamoore,2024-08-28 06:15:58
+CRITICAL,10.8.204.216,North Ericmouth,wreese,2024-01-23 01:28:59,GET,Windows
+INFO,172.28.97.96,East Jonathanmouth,jacobvillegas
+FAILURE,172.31.186.1,East Shawnville

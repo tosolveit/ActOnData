@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.54.196,Ginaville,charles83
+ERROR,192.168.241.249,Bonnieshire,fhughes,2024-07-20 07:10:31,DELETE,macOS
+NOTICE,172.28.189.243,Danielletown,fkelly,2024-04-27 17:22:01,GET,macOS
+WARNING,172.31.127.172,Port Bethborough,jason34,2024-07-14 14:30:47,PUT

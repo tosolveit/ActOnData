@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.39.48.47,New Shawn,denisewhite,2024-09-02 00:42:22,DELETE,Android
+DEBUG,10.21.147.75,New Sethville,dean07,2024-01-23 03:12:50,PUT
+INFO,192.168.54.170,West Jared,nicholashuerta,2024-05-02 09:44:29,POST,Windows

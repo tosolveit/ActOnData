@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.0.248,Danielbury,kari99,2024-08-04 23:53:34
+INFO,10.110.89.159,Barbaratown,mgilbert,2024-02-17 22:36:57,PUT,macOS

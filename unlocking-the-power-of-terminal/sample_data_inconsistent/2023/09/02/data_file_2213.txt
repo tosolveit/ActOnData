@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.248.213,South Michael,jamesbernard,2024-08-26 00:41:57,PUT,Android
+WARNING,192.168.225.112,Port Crystalstad,julie82,2024-08-31 05:20:27
+NOTICE,10.202.142.151,Allenland

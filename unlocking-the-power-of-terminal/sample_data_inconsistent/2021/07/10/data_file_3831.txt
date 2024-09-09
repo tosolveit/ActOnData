@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.18.99.73,New Davidfurt,tarablankenship,2024-07-17 21:16:13
+ERROR,172.26.135.123,South Johnburgh
+NOTICE,10.210.102.2,Shelbychester
+FAILURE,172.22.140.229,South Benjaminbury,cunninghamanne,2024-04-07 13:56:40,GET,iOS
+WARNING,10.169.6.78,New Alicia,rmelton

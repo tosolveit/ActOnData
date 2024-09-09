@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.150.227.8,New Linda
+SUCCESS,192.168.179.251,West Thomasport
+ERROR,172.26.152.126,Port Jessica,wendyford
+WARNING,192.168.184.83,Campbellhaven
+SUCCESS,10.217.90.51,Mooreville,stephanie47,2024-05-19 05:47:52,DELETE,Windows

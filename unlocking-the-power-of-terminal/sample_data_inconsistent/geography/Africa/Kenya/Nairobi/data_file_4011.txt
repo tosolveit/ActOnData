@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.203.174,Davidberg
+DEBUG,10.193.189.197,Scottport
+WARNING,172.21.91.41,Abigailville,petersamanda,2024-08-02 20:30:49,GET
+WARNING,10.201.65.197,East Ronald,xhunter,2024-02-03 15:46:03
+DEBUG,192.168.151.235,Gregorytown,deborahtorres,2024-03-18 20:35:10,POST

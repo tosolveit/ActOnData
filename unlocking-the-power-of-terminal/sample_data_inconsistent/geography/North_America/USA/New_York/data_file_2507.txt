@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.251.65,West Linda,davisallison
+NOTICE,172.27.201.187,New Kellyport,zavila,2024-07-31 11:53:49,GET
+DEBUG,10.8.148.14,Portertown,garrettjohn,2024-04-06 13:52:31,PUT
+INFO,192.168.192.182,Kimberlyland
+WARNING,172.30.177.196,New Tinaside,george55

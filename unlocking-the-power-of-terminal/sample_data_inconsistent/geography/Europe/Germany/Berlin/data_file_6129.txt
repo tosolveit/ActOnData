@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.29.243.172,Douglasbury,hickmanshannon,2024-02-17 20:36:02,GET
+SUCCESS,192.168.154.52,Lake Courtney,fryandrew,2024-06-05 16:26:37,DELETE
+ERROR,192.168.2.63,Lake Bryanland,rbarron,2024-07-16 11:24:59

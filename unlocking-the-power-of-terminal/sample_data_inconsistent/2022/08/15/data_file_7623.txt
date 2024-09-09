@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.64.100.165,West Carly
+INFO,10.178.134.153,North Brandi,pgallegos,2024-01-23 03:09:07
+SUCCESS,10.150.134.234,Lake Jessicahaven,bridgestina
+SUCCESS,192.168.114.219,Scottview,joseph35

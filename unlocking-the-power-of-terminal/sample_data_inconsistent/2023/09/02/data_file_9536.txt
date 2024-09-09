@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.190.41.68,Pamelafort,rkelly,2024-03-29 03:56:06,DELETE
+INFO,172.29.255.2,East Jeffreychester,christopher56,2024-04-30 14:19:31,DELETE
+FAILURE,172.26.176.186,East Brianside,reyesmargaret
+DEBUG,172.20.43.12,Cantuchester,kristinabates,2024-05-27 14:14:00
+ERROR,192.168.233.56,Lake Ricky

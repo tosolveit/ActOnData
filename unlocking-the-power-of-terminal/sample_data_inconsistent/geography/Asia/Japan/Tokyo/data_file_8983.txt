@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.202.193,North Amber,kingvanessa
+FAILURE,10.122.123.108,Lake Davidberg,kyle71,2024-03-01 19:39:28,GET

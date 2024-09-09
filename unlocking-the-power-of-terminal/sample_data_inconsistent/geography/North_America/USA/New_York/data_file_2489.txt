@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.195.131,North Brandonfort
+ERROR,192.168.234.17,New Jamesburgh,juanolson

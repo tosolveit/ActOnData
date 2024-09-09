@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.19.8.1,Melissaland,kevin66,2024-06-01 09:50:42,PUT
+DEBUG,172.24.148.106,Schwartzburgh,tylerpruitt,2024-08-28 07:18:30,GET,Linux

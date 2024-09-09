@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.7.107,Ortizland,benjaminanderson,2024-02-28 04:53:57,DELETE,iOS
+INFO,172.24.241.188,East Marcia,ianderson,2024-02-28 15:30:57
+CRITICAL,172.26.229.239,Lauraside,christine07,2024-08-29 11:09:08,DELETE,Android
+SUCCESS,10.58.192.246,East Kristyfort,jill60,2024-02-09 11:51:12
+WARNING,172.19.51.252,Julieberg

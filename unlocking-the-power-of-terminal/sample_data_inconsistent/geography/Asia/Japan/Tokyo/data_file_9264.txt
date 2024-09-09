@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.28.134.150,Hayshaven,weberjennifer
+ERROR,172.27.14.30,West Pamberg,darrylross
+FAILURE,192.168.204.135,Port Meganbury
+NOTICE,192.168.74.148,New Nathanview,hardyerin,2024-07-05 19:22:34,POST,Android
+WARNING,192.168.29.182,Donnaside,gonzalezjoseph,2024-07-30 23:02:05

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.23.111.218,New Thomasstad,harrismelissa,2024-01-06 17:16:33,DELETE,Windows
+FAILURE,10.36.147.152,West Beth,mcantrell,2024-09-07 16:48:29,PUT,macOS
+DEBUG,172.20.117.39,Julieborough,jeremiah31,2024-01-15 06:08:08,POST
+DEBUG,172.29.171.128,North Tiffanychester,danielwilliams,2024-01-13 10:45:14,POST
+ERROR,10.28.185.113,East Courtneytown,tanya76,2024-01-27 13:04:04

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.28.137.221,Gregoryton
+CRITICAL,10.137.54.67,South Erika,meghan11,2024-05-02 17:23:46
+FAILURE,172.16.78.14,New Aliciaton
+FAILURE,172.23.67.251,Hudsonville
+WARNING,172.21.142.20,Kathrynton,rogersmary,2024-03-02 16:21:40

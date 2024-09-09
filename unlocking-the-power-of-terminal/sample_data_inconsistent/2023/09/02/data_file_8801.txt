@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.26.38.201,Kelleyview
+CRITICAL,10.43.243.241,Port Richard,robertrobles,2024-02-12 17:53:45,POST,iOS
+WARNING,192.168.197.208,Markhaven,jeremywerner,2024-05-10 19:05:34,PUT

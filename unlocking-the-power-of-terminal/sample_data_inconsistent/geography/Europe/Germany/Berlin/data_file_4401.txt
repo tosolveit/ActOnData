@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.239.228,West Emilyborough,ebrown,2024-08-10 21:22:12,DELETE,macOS
+DEBUG,192.168.60.118,East Ernest,noah61
+WARNING,10.5.157.81,Nathanmouth,gsanders,2024-05-04 03:18:41,PUT,Linux
+CRITICAL,10.124.243.208,Lopezbury

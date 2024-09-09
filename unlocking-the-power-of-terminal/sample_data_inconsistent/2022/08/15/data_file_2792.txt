@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.146.42.87,Gordonshire
+NOTICE,10.210.151.220,Mccormickstad
+ERROR,172.20.241.63,Nolanhaven,williamrivas,2024-05-17 00:11:48
+DEBUG,10.218.121.133,West Thomasstad

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.99.238,Maddenton,jwheeler,2024-02-28 23:08:21,POST
+CRITICAL,10.217.76.125,Port Erin
+SUCCESS,192.168.50.220,Jerrychester,imoreno,2024-03-22 16:41:07,GET
+CRITICAL,172.21.219.96,Jennaland,usmith,2024-06-01 05:01:43

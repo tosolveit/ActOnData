@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.58.196,Franklinburgh,zacharybrock,2024-02-20 06:30:47
+CRITICAL,10.176.237.175,Greeneview
+CRITICAL,172.18.249.5,Lichester,calvin28,2024-01-24 01:01:15,PUT

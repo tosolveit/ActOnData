@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.25.87.222,Rubenview
+NOTICE,172.18.240.174,Cheyennechester,michellebrown,2024-08-18 19:37:44,POST

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.66.236.88,New Jasonstad,uwilson,2024-05-14 19:02:10,PUT,Windows
+FAILURE,10.69.170.200,Kanemouth,thompsonjon,2024-03-09 00:14:34,GET
+FAILURE,192.168.76.40,Lake Kevinbury,browncraig
+DEBUG,10.168.171.178,Lake Elizabethburgh
+NOTICE,192.168.178.69,East Kelly,cpratt

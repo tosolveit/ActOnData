@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.21.122.136,Banksberg
+WARNING,172.18.184.158,New Heather,andersencraig,2024-07-03 23:46:54,PUT,Windows

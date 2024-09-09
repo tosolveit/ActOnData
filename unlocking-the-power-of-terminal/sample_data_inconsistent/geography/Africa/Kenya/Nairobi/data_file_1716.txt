@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.24.241.232,Scottberg,cmiller,2024-01-15 07:19:10,PUT,Android
+INFO,10.144.99.238,Cobbtown,myersmegan,2024-08-23 01:53:04,DELETE,Windows
+SUCCESS,10.226.83.227,East Katelyn,erinhicks
+NOTICE,192.168.184.217,Robertchester,sarahbrown

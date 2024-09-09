@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.153.78.222,New Daniellebury,elizabethlozano
+NOTICE,192.168.154.73,Port Patricia,joshuawilkins,2024-07-05 19:38:38,GET,iOS

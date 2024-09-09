@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.30.107.33,North Keith,sandrabuck
+DEBUG,10.187.25.88,West Mark,jeffersonchelsea,2024-02-15 18:31:14,DELETE
+FAILURE,10.213.204.142,West Christine
+WARNING,10.42.83.243,Lake Allison,timothyjackson,2024-04-21 19:01:29,DELETE
+INFO,10.9.164.91,West Jeremy,ashley60,2024-02-14 06:41:13,GET

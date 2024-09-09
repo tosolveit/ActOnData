@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.141.58.16,East Bill,deborahstephens,2024-05-08 08:49:12,DELETE
+DEBUG,172.19.140.45,East Katherine,frodriguez
+ERROR,10.32.100.226,East Garyton,burnseric
+FAILURE,192.168.240.110,South Cynthiaborough

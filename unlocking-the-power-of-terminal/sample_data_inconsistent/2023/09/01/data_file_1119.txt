@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.153.43,West Amanda,fdiaz,2024-07-10 07:01:30,GET,Windows
+DEBUG,192.168.205.238,Thompsonmouth,morrisrachel,2024-07-14 11:27:07,GET
+CRITICAL,192.168.126.131,Brandonfort,kwerner,2024-05-18 02:14:00,POST,iOS
+CRITICAL,192.168.68.93,Lopeztown,lanedavid
+FAILURE,10.88.161.198,Jerryborough

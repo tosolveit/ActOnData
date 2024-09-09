@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.119.106,Jeffreyshire,erikthompson,2024-08-04 09:34:26
+NOTICE,172.18.66.214,North Kevinfurt,heatherle,2024-04-01 01:35:10,DELETE
+DEBUG,172.29.229.125,Mariefort

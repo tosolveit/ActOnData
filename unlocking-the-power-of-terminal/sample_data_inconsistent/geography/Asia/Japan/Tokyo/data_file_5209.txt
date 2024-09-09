@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.151.103,South Shelbyville,robin48,2024-01-23 01:45:59
+ERROR,192.168.203.39,Smithborough,amber13,2024-02-25 10:03:11,DELETE
+DEBUG,10.96.45.41,Whitakerville
+NOTICE,192.168.178.73,Angelabury,blackmelissa,2024-05-30 18:18:38,POST,Linux

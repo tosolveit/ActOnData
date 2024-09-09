@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.244.140,South Shaneland,jason73,2024-09-01 06:37:55,PUT,macOS
+SUCCESS,10.221.140.123,New Shane,david53
+DEBUG,172.17.128.16,Williamborough,erica82

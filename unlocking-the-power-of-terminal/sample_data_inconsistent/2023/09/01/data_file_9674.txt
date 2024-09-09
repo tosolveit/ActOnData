@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.67.117,Lake Kristina
+INFO,172.22.234.202,Jonathanbury
+WARNING,172.31.153.162,Chrisview,wfleming

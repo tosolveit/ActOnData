@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.18.188.251,Davidsonmouth,allenleslie,2024-05-25 11:31:30,POST
+SUCCESS,172.31.193.18,Reynoldsville,bgarcia

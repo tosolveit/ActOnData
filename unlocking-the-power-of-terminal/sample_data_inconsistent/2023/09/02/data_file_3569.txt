@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.42.14,Port Curtisburgh
+FAILURE,172.20.141.195,Heatherhaven,thompsonzoe,2024-04-22 06:01:08,PUT,Android
+WARNING,192.168.218.231,Port Sarahfurt,andrew30,2024-06-27 11:46:21,GET
+SUCCESS,192.168.148.184,South Jameshaven,rpatel,2024-07-24 10:22:05,POST,macOS

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.25.111.220,Toddstad,margaret87,2024-03-19 11:09:43
+DEBUG,172.17.108.137,New Leah,angelawarner,2024-01-24 21:10:39
+SUCCESS,10.50.177.134,Sotoview,alanrose,2024-04-18 03:05:50,PUT,Android
+WARNING,10.186.239.216,New Adam,jacob48,2024-02-18 13:45:50
+SUCCESS,172.27.65.173,Port Stephanie

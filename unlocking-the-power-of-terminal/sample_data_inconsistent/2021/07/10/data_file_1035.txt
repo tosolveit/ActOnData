@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.161.43,North Vincentstad,thompsonalexis,2024-04-23 00:46:30,PUT,Windows
+WARNING,172.22.147.64,Maddoxshire,helencarey,2024-06-19 04:08:46,DELETE
+INFO,192.168.92.79,New Pamelafort
+WARNING,10.87.43.129,Cunninghammouth,logancombs,2024-07-05 14:52:01,GET

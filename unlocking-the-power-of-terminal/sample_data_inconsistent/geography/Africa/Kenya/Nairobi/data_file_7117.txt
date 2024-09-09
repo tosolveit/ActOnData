@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.140.147,New Robertfort,katherine34,2024-08-07 01:04:28,GET
+FAILURE,192.168.95.35,Port Matthewville,feliciayoung
+DEBUG,192.168.27.186,North Samuelchester
+INFO,10.9.171.213,New Samuel,stephen39
+WARNING,192.168.201.188,Phillipsview

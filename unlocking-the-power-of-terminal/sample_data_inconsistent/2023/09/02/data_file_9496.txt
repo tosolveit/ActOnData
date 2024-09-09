@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.233.91,Josephville,donald79,2024-03-18 08:56:41,PUT
+CRITICAL,10.63.18.48,West Tonya,ssimmons,2024-04-28 00:51:59,PUT,Android

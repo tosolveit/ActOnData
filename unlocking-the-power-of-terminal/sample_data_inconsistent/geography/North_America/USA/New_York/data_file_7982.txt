@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.228.95.209,Charlesland,cindysnow,2024-05-11 02:14:03
+CRITICAL,10.16.230.127,Karenmouth,victoriaboyer
+CRITICAL,192.168.156.30,Gambleberg,brucejim,2024-08-21 06:16:42,GET,Windows
+INFO,192.168.110.14,Cathyfurt,alex23,2024-07-17 21:35:59,DELETE
+ERROR,172.26.21.141,Stevenview,mclaughlindanielle,2024-05-27 09:44:00

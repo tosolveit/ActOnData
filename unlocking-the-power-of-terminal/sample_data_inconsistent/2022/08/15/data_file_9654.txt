@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.29.95.17,Grantton,austinmurphy,2024-02-29 12:01:01,PUT
+FAILURE,172.24.85.79,New Jesseville
+CRITICAL,192.168.221.201,North Steve,blackchris,2024-03-21 19:22:54
+NOTICE,192.168.183.77,Matthewsshire,jameshaney

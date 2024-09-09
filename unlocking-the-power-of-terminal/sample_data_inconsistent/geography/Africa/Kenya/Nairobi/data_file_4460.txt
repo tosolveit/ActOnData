@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.179.51.189,Danielsmouth,nhunter,2024-07-22 10:09:36,POST,Windows
+WARNING,172.21.23.0,Port Robert,amypatel,2024-05-07 12:34:46,DELETE,Windows
+ERROR,10.74.26.236,New Brandon,paul28,2024-06-08 09:19:51,PUT,macOS

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.251.14,Brownhaven,shawncannon,2024-04-26 02:47:08,POST,Windows
+SUCCESS,172.21.3.94,Johnsonhaven
+INFO,172.27.134.168,Stephenberg,graceanderson,2024-01-12 06:39:08,DELETE,Linux
+CRITICAL,172.16.209.174,Valenciahaven,ryanhudson

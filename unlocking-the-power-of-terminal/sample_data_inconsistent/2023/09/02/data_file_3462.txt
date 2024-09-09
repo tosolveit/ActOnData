@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.241.113.214,South Joel,christopherhenderson,2024-09-07 05:23:32,PUT
+WARNING,10.139.235.29,North Ronniefurt,penamegan,2024-06-07 20:08:53,PUT
+SUCCESS,192.168.59.214,Floresburgh
+WARNING,10.243.17.166,Snyderhaven,jonathan04,2024-01-09 04:33:45,GET,macOS

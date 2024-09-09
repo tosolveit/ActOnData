@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.19.74.231,South Jose,matthewcontreras,2024-05-08 02:59:25,PUT
+CRITICAL,10.19.85.154,West Stephanieview,sethclark,2024-04-04 01:11:43,PUT,iOS

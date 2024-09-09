@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.26.133.115,North Terry,allenjoseph,2024-02-20 05:54:46
+CRITICAL,10.174.118.144,West Jennifer,uwhite,2024-05-13 18:33:58

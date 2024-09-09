@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.19.131.129,Port Cindy,ruthsalas
+ERROR,172.25.185.250,Millermouth,darrenwilliams,2024-02-27 20:21:18,GET
+INFO,10.238.214.193,Moorefort

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.174.196,North April
+SUCCESS,172.27.142.244,New David
+INFO,192.168.218.142,Port Anthonyville,callahancaitlin,2024-01-22 04:35:43,GET
+DEBUG,172.31.252.8,Lake Claudia

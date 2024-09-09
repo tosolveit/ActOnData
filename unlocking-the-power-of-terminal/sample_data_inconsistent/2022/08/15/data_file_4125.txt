@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.55.134.149,Hillview,diane19
+FAILURE,192.168.220.104,West Jamesfort,bennettangela,2024-02-28 04:48:12,POST,Windows
+NOTICE,10.125.46.214,North Michael,mharris,2024-08-18 02:55:34,PUT,Windows
+WARNING,192.168.122.47,New Lori,vlynch,2024-08-28 00:28:00
+WARNING,192.168.138.199,Lake Tracyport,shaun66

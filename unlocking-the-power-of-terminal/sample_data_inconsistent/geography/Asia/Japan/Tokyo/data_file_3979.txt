@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.37.107.238,New Michael
+FAILURE,192.168.122.197,North Michaelton,mariemckay
+FAILURE,192.168.43.241,New Philipmouth,trujillolori,2024-01-29 10:30:00
+INFO,192.168.50.117,New Becky,donovanrobert,2024-04-15 21:09:22,DELETE
+INFO,10.65.94.233,Lopezmouth,greerjulia,2024-07-18 10:38:16,PUT,macOS

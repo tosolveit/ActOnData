@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.12.89,East Joannport,martinezstephen
+DEBUG,172.22.139.68,Whiteland,lisahoward,2024-02-04 14:17:20
+SUCCESS,192.168.175.235,Katherinefort
+NOTICE,10.202.110.55,Flemingland,dorseymariah
+DEBUG,172.29.148.55,West Melissaburgh,wstuart,2024-04-11 15:41:02,DELETE,Windows

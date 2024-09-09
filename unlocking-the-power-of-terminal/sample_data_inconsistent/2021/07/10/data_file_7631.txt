@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.137.136.237,Richardstad,nochoa
+SUCCESS,172.18.95.8,Mendeztown

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.22.2.190,South Briannabury,schwartzjoshua,2024-07-27 11:49:44
+NOTICE,10.199.48.68,Brianmouth,rjohnson,2024-04-20 14:39:45,GET
+DEBUG,10.107.157.219,West Dennis,cameronmatthew,2024-08-29 09:41:22
+CRITICAL,172.28.57.97,Wrightberg,lindseycasey,2024-02-14 22:14:26
+NOTICE,10.99.43.81,Lake Thomas,xholmes

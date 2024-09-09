@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.31.162.213,Bautistamouth
+ERROR,10.144.242.84,Aprilport,oboyd,2024-01-10 10:16:07
+WARNING,192.168.82.199,Hoffmanfurt,victoriamartinez,2024-04-19 06:13:33

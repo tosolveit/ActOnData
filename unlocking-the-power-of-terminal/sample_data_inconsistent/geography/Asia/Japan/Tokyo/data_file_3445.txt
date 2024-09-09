@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.17.80.245,East Jonathonstad,tina88
+CRITICAL,172.20.74.233,North Rodneyport,sheryl36,2024-07-20 08:51:55,PUT
+SUCCESS,172.29.123.198,Port Lisa,erincohen,2024-02-08 19:23:09
+FAILURE,10.183.155.95,Joshuatown
+SUCCESS,192.168.169.246,Kathrynview,sproctor,2024-09-06 11:49:41

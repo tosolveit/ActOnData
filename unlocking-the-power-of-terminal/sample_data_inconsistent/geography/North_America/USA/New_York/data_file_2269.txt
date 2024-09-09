@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.45.108,New Javierfort,tjones,2024-05-26 14:22:21,POST,Windows
+FAILURE,172.29.37.165,Patrickview
+DEBUG,10.142.137.82,Lake Jeremymouth,salvarado,2024-02-25 19:44:16,POST,macOS
+WARNING,10.185.11.27,Michellebury,martindiane,2024-06-24 20:37:16,GET,Windows

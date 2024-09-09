@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.97.106,Port John,rojaslarry,2024-07-21 20:13:57
+CRITICAL,192.168.70.158,Jenniferport,trandanny,2024-02-02 12:19:46,GET
+CRITICAL,10.58.255.34,Whitemouth,theresa72,2024-07-01 06:56:24,POST

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.119.125,Stonechester
+DEBUG,192.168.121.26,East David,alawson
+ERROR,10.34.68.225,Brownfurt
+FAILURE,172.18.63.58,Lake Anna,jsolomon,2024-04-24 07:26:35,PUT
+CRITICAL,10.87.22.161,Cherylport,jessica37

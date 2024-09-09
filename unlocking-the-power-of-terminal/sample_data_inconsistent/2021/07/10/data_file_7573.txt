@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.144.43.163,Katelynhaven,baldwinkevin
+DEBUG,10.175.232.73,Shelleychester
+DEBUG,172.20.59.253,South Emily,mclark,2024-01-11 10:42:18,POST,macOS

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.5.62,East Steven,thomassarah,2024-05-16 06:41:35,PUT,macOS
+FAILURE,172.28.171.231,South Kirsten,fgordon,2024-05-16 04:51:53,POST,Linux
+INFO,172.31.5.16,East Michael,masseymichelle,2024-03-23 11:26:12,PUT
+INFO,172.19.249.1,Chapmanshire,amy62,2024-01-31 19:23:27,DELETE,Android

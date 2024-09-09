@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.85.94,West Anaton
+SUCCESS,172.16.217.219,Lake Emilymouth
+SUCCESS,172.24.34.205,Alexanderport,martinlisa,2024-03-27 04:03:03,POST,iOS
+FAILURE,192.168.10.86,Contrerastown,newmansteven,2024-01-26 09:34:54,GET
+CRITICAL,172.17.146.175,West Jacquelineton,cobbryan

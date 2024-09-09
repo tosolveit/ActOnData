@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.210.248,Jamesfurt
+NOTICE,10.224.138.190,East Kyleview,coxdavid,2024-07-24 19:26:25
+DEBUG,192.168.82.233,Sarahstad,pmunoz,2024-01-16 00:00:49,DELETE
+CRITICAL,10.215.42.185,New Mark,kristen98,2024-04-20 20:33:48
+SUCCESS,10.31.16.255,Rodriguezstad,michelle73,2024-07-26 12:39:48,GET

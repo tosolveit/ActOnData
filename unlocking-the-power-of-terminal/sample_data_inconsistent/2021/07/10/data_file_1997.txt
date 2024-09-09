@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.148.122,West Zachary
+NOTICE,10.138.243.11,East Tanya,garzasamantha,2024-07-27 08:58:02
+CRITICAL,10.93.119.117,South Amanda,sbowers
+ERROR,192.168.141.208,East Anitaside,bryannichols

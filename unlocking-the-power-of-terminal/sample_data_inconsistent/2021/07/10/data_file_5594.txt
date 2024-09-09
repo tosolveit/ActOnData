@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.58.6,Hendersonborough,woodsgavin
+INFO,192.168.158.25,South Jacobland,moorejames,2024-06-17 08:03:14,PUT,Android
+ERROR,192.168.122.88,Lake Nicoleton,katelyncardenas
+SUCCESS,10.4.53.128,Port Brooke
+DEBUG,172.23.156.55,New Zachary,ipruitt

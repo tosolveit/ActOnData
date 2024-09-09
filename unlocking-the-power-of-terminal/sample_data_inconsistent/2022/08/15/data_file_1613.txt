@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.25.241.80,Susanchester,john43,2024-02-17 18:09:23,POST,Windows
+FAILURE,192.168.18.130,Mooreview,jmoody,2024-08-25 15:19:41,POST
+CRITICAL,10.198.112.154,New Lisahaven,tyrone35

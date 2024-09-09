@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.31.173.118,Lyonsside,greenlorraine,2024-02-09 03:05:34
+SUCCESS,192.168.68.184,Kimberlyshire,christopher77,2024-02-21 17:41:54,GET
+WARNING,192.168.37.249,Port Amy
+SUCCESS,192.168.50.212,North Kimberlyburgh
+DEBUG,192.168.79.18,Debraberg,shane87,2024-04-16 05:32:11,DELETE

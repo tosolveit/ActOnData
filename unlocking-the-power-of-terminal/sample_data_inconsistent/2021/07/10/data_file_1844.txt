@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.19.235.26,New Ronaldtown,fmeyers,2024-01-07 07:42:58
+NOTICE,192.168.185.186,Luishaven,elang,2024-01-04 17:07:26
+ERROR,192.168.14.37,East Tyler,lukejones,2024-07-05 12:47:35,DELETE
+DEBUG,10.64.229.185,East Kirk
+WARNING,10.45.222.229,Jillport,brian31,2024-04-25 16:06:25

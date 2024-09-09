@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.111.137.23,Sharonstad,jeffreybrown,2024-07-27 17:08:52,GET,Android
+ERROR,192.168.41.81,New Andrewfort,nortonsarah,2024-06-02 14:00:52,DELETE,Windows
+ERROR,172.22.46.88,Port Robertberg,nmclaughlin,2024-01-13 04:50:37
+WARNING,192.168.196.56,Michaelport,david28,2024-07-02 23:19:09

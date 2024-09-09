@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.97.136.58,West Curtis,mariothompson,2024-09-09 02:08:32
+ERROR,172.22.234.129,Port Andrew,brandon42,2024-03-19 16:25:25,DELETE
+ERROR,192.168.134.121,Sheltonchester,james78
+WARNING,192.168.190.233,New Jodibury,teresacummings,2024-03-08 10:25:15,GET

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.20.104.49,Brendashire,rodgersjack,2024-02-07 22:11:00
+INFO,192.168.182.69,New Cynthia,ylewis,2024-01-31 04:20:15,DELETE,Windows
+CRITICAL,172.23.10.33,Lake Nathan
+NOTICE,10.139.11.139,Amyside,markgarza,2024-03-30 17:15:08
+DEBUG,192.168.51.45,Ericton,bradleyhannah

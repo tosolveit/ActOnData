@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.167.75,Lake Robertaberg,coopergregory,2024-05-26 02:58:04,PUT,iOS
+SUCCESS,192.168.132.15,Taylorfurt,beckdeborah
+CRITICAL,192.168.117.184,Gonzalesfurt,jacob41

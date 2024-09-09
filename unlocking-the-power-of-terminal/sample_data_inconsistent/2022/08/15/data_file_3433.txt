@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.194.163,New Mary,gloriathomas,2024-03-28 18:00:37
+WARNING,10.153.157.68,Simpsonview,richardrice,2024-02-10 06:49:02
+DEBUG,192.168.58.180,South Robertland,brittany17,2024-02-06 18:01:19,DELETE
+NOTICE,192.168.73.140,Johnmouth,janet48,2024-02-18 15:59:03

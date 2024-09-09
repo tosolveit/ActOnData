@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.31.123.51,Spencerville,burnskrystal,2024-08-16 12:29:46,PUT
+FAILURE,192.168.71.70,Carolynside,rbarker,2024-04-27 08:54:29,POST
+SUCCESS,172.27.26.250,Mitchellfort,goodmanuel,2024-01-10 18:40:43,POST,iOS
+FAILURE,172.27.60.105,Coleport,jordanbrandi,2024-05-23 20:10:00
+FAILURE,172.27.21.142,South Davidhaven,lmcintosh,2024-03-24 13:34:18,GET,Android

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.55.82,North Jake,nathanmoody,2024-01-15 10:01:05,DELETE
+INFO,10.190.34.208,West Kayla,ericaherring
+INFO,192.168.247.37,Parkerstad
+WARNING,10.211.109.190,New Jessicashire
+WARNING,172.22.2.156,Jenniferfort,rhernandez,2024-08-05 00:40:45,GET,macOS

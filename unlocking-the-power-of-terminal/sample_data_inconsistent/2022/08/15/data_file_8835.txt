@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.20.83.189,Bethland
+DEBUG,192.168.190.78,Russellfurt,pollardmadeline,2024-07-06 14:08:53,GET
+SUCCESS,172.29.117.251,Poncetown

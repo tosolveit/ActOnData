@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.213.241,Joneston,wilsonashley
+NOTICE,10.179.20.8,Jaimeshire,javierdunn
+NOTICE,172.20.135.28,North Denise,sharon11,2024-04-22 09:53:57,PUT,Windows

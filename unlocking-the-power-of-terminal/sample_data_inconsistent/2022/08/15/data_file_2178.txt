@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.24.112.71,North John,cherylnewton,2024-03-01 08:18:59,PUT
+WARNING,192.168.58.123,Lake Kirsten,richard75,2024-03-27 07:43:35
+ERROR,192.168.226.0,Port Nicolefort
+INFO,172.19.25.202,Stevenchester,john23

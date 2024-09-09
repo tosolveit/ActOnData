@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.16.48.1,Suzanneberg,wgonzalez
+DEBUG,192.168.161.190,Knappview,parkerjill,2024-07-01 03:59:59,POST
+FAILURE,172.19.192.155,Ambermouth,ccortez,2024-05-21 07:08:31,POST,Android
+WARNING,10.85.93.89,Harrisport
+INFO,10.124.10.25,West Harold,lucas72,2024-04-02 09:41:50

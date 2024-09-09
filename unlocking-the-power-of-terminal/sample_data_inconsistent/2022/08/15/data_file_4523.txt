@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.245.104.171,Williamsview,sgaines,2024-03-18 00:59:48,GET
+DEBUG,172.23.105.178,South Williamfurt,cynthiahill
+FAILURE,10.97.64.217,New Tylermouth,jessica44,2024-08-18 19:08:15
+WARNING,10.175.193.126,Stevenchester,nscott,2024-05-30 07:24:38,POST

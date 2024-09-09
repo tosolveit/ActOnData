@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.17.138.184,West Jillchester,james02,2024-08-27 06:28:06,PUT,iOS
+SUCCESS,172.22.82.115,Lake Jasonland,daltonkaren,2024-08-24 05:34:40
+CRITICAL,172.27.27.85,Annafort,bstafford,2024-08-18 13:47:05
+ERROR,172.25.135.25,Greenview,brian34,2024-04-14 13:57:27,POST,Linux

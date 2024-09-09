@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.13.42.228,South Erikafurt,gmercado,2024-02-01 02:23:45,DELETE,Android
+CRITICAL,10.83.87.170,Moralesfurt,jenningsbrianna
+FAILURE,10.227.99.153,Kathrynburgh,patrickalvarez,2024-01-07 06:12:57
+ERROR,192.168.60.10,Stevenville,justinoneill,2024-01-23 14:10:03,GET,iOS
+ERROR,192.168.23.22,Johnsonmouth,kellie69

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.120.226.188,North Donaldland,jason75
+SUCCESS,192.168.211.189,Paulberg
+FAILURE,192.168.155.184,Jonesfurt,mramsey,2024-03-14 05:37:13,DELETE,Windows

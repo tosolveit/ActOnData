@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.233.57.227,Armstrongview
+FAILURE,192.168.31.90,North Brianberg,phillipsbrandy,2024-04-08 22:43:17
+DEBUG,192.168.174.186,Martinborough,wallacelaura,2024-06-14 01:46:25,DELETE,iOS
+INFO,10.237.247.222,Rogerschester,kathleen08,2024-03-06 02:05:18,DELETE
+FAILURE,172.16.2.42,Elliston

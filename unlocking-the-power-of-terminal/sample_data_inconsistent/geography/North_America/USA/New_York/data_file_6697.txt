@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.201.65.92,East Heiditown,perkinserin
+DEBUG,192.168.66.3,Luisville
+INFO,172.25.43.156,South Jennifer,lwright,2024-09-04 17:56:10,PUT,Linux

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.43.187.162,North Debraberg
+NOTICE,192.168.121.233,South Lauraview,jonestimothy
+CRITICAL,10.59.94.143,East Tonya,christopherpeterson
+SUCCESS,10.238.3.206,South Jacquelineberg,joshua48,2024-07-25 07:55:22,PUT
+FAILURE,172.17.121.249,New Jorgeville,jason01,2024-06-15 11:20:43

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.45.107.86,North Melissaview,ovega,2024-01-28 12:06:52
+SUCCESS,172.23.51.252,Dustinchester,wesleyclark,2024-08-10 23:23:29
+INFO,192.168.239.77,North Sheenaland,hickmangarrett,2024-02-15 23:03:54,DELETE
+CRITICAL,10.115.186.105,South Scott

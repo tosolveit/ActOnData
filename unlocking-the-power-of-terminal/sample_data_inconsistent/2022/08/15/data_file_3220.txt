@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.71.126,Lake Jocelynmouth,blairkenneth,2024-05-20 03:27:03
+SUCCESS,192.168.201.55,Port Jennifer,patriciaprince,2024-04-04 04:23:42,DELETE,iOS

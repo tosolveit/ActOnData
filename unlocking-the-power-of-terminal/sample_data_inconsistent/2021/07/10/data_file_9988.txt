@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.18.83.61,Port Kaitlyn,kellievans,2024-08-08 12:42:39
+INFO,10.6.142.66,Lindsayshire,jamie14
+SUCCESS,10.57.189.209,Jessicaview
+CRITICAL,10.235.190.216,Port Staceybury,garymorris,2024-09-03 12:06:30,POST
+FAILURE,172.27.215.32,North Patricia,chad03

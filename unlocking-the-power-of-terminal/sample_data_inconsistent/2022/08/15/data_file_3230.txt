@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.127.212,South Kelly,slopez
+SUCCESS,192.168.171.247,Port Paul
+DEBUG,172.28.27.137,Jillshire,erica90,2024-02-29 09:13:40
+CRITICAL,10.235.28.30,West Chelsea,lance83,2024-08-26 06:36:34,PUT
+INFO,172.27.156.57,Masonhaven,bankskimberly

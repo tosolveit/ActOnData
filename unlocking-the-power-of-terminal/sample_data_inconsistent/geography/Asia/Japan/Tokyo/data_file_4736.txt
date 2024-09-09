@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.7.81,West Taylorfurt,hensleyjenny,2024-02-20 22:51:22,DELETE
+INFO,192.168.145.192,West Nancy,rogersstephanie,2024-06-14 21:17:57,POST
+INFO,192.168.11.114,New Johnchester,jsparks,2024-07-03 02:58:04,POST,Android
+DEBUG,192.168.74.238,East Johnhaven,wrogers
+NOTICE,172.23.72.222,Jaredberg

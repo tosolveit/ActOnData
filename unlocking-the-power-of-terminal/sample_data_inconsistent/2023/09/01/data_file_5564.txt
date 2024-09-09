@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.119.143,Port Christophermouth,osims,2024-06-15 16:23:39
+DEBUG,172.26.18.214,North Leslietown,griffinwhitney
+FAILURE,192.168.147.242,East Denise,qrice
+WARNING,192.168.101.170,West Anna,davidgraham,2024-09-02 02:12:41

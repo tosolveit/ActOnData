@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.23.28,Ericmouth
+WARNING,172.24.188.147,Martinbury,allison26,2024-08-15 21:11:33,DELETE
+NOTICE,10.5.244.39,Williamston,ycooke,2024-06-06 01:27:06,GET,Windows
+FAILURE,10.2.170.43,South Carrieville,kevin45,2024-05-14 23:08:53,GET
+SUCCESS,172.22.91.250,Parkstad,andrea32,2024-08-28 14:44:01,PUT,Windows

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.196.146,North Heather,marshalljanice,2024-03-23 04:42:41
+SUCCESS,192.168.149.203,Scotttown,hmcbride,2024-06-09 06:10:06
+WARNING,10.249.1.130,Port Jasmine,ramireznatasha,2024-01-01 00:43:05,GET
+WARNING,172.30.188.17,Maldonadofort,hartkristen,2024-02-28 14:36:50,PUT
+WARNING,10.1.58.44,Burnettmouth,thomasjustin,2024-05-19 21:23:11,DELETE,Android

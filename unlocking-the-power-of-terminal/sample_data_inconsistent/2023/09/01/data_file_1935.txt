@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.223.83.88,Port Heather,callahanmichael,2024-05-21 04:46:16,GET,Windows
+INFO,172.30.90.192,South Alexander,woodwardnancy

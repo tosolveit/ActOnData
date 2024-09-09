@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.253.163.152,Port Laurenstad,gordondavid,2024-03-13 10:02:31,DELETE,Android
+INFO,10.248.78.169,North Matthewshire
+WARNING,192.168.97.112,New Maria,aallen,2024-04-11 13:18:40
+DEBUG,192.168.131.51,Wattstown,bartlettjoshua,2024-07-06 21:50:11

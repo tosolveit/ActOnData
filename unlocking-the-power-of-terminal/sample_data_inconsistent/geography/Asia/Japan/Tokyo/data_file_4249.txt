@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.42.235,New Karinafort,xhall,2024-07-16 05:12:53
+SUCCESS,172.17.20.189,Lake Allison,frederickharris,2024-02-05 06:47:11,DELETE
+DEBUG,192.168.2.160,New Jaclynton,mcmillanstacy,2024-05-25 21:24:04,POST,macOS
+DEBUG,172.16.169.54,Jackieville,daltonlawrence
+ERROR,192.168.36.44,Armstrongmouth,courtneyanderson,2024-07-09 17:31:30

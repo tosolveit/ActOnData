@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.155.248.237,East Brianburgh,bakertiffany,2024-08-22 22:00:15
+SUCCESS,10.46.145.29,New James,garrettelizabeth,2024-04-24 16:25:04,DELETE,Linux
+NOTICE,172.27.110.63,Kevinborough
+FAILURE,192.168.140.97,South Jennifer,mflores,2024-04-25 13:04:57
+WARNING,10.14.70.189,Lake Amanda,mbright

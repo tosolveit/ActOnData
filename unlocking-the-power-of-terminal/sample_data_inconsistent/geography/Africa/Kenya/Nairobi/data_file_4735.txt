@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.250.184.120,Williamsborough
+ERROR,10.216.236.113,Lisafort,branchashley,2024-01-21 06:14:07,GET,iOS
+SUCCESS,172.16.4.163,Woodtown,robertwillis,2024-07-03 01:25:13,PUT

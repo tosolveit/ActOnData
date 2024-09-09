@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.175.76,South Jared,angela51,2024-04-08 10:11:47,POST,Android
+SUCCESS,192.168.216.32,Thomaschester,oscar24,2024-04-03 08:20:04
+ERROR,172.22.135.9,Daniellefurt,graceli

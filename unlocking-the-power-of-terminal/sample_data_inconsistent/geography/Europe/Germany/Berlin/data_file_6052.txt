@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.30.61,Cunninghamhaven
+ERROR,172.28.122.243,North Michelleborough,fbrown,2024-07-08 17:06:20,PUT,macOS
+FAILURE,172.26.126.86,North Samuelville,davidrandolph,2024-09-05 09:29:02,PUT,iOS
+CRITICAL,172.29.181.70,Port Ashley,suzannepena
+DEBUG,192.168.233.40,Carterton,kristy75

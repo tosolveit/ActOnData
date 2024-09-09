@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.163.254.43,South Ashlee,kirbystephanie,2024-05-10 18:42:05,PUT,Linux
+SUCCESS,10.232.5.97,Wagnerfort,kaylasantos,2024-04-19 05:33:54,POST,macOS
+ERROR,172.24.161.124,Burnsstad,idaugherty,2024-07-14 08:32:49,GET,macOS

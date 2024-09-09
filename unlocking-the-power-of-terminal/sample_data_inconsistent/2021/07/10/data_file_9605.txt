@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.30.141.231,South Jill
+DEBUG,192.168.243.10,Cynthiamouth,stuarthughes
+DEBUG,192.168.68.78,Beckerville,adrianagonzales,2024-03-29 07:51:38,DELETE

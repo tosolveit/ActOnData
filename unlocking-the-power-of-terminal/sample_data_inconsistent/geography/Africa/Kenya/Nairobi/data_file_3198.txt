@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.29.56.74,North Dana,rogersandrea
+NOTICE,192.168.42.189,Barberfort,steven93
+CRITICAL,172.30.208.247,North Allison,melissa37
+SUCCESS,10.221.64.228,Stephanieton,pchang,2024-05-16 07:56:13,POST,Windows

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.81.117.67,Wangchester,rjacobs,2024-07-17 05:11:00,GET,Windows
+FAILURE,172.24.189.49,Gregoryberg
+FAILURE,172.18.92.59,Audreyfort,susanbird,2024-02-10 15:10:57,DELETE

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.19.28.67,New Kevinside,uhernandez,2024-06-29 23:37:45
+DEBUG,10.175.82.238,Lake Kevinburgh,roberto32
+NOTICE,10.194.248.193,Mooreview
+SUCCESS,192.168.66.86,West Juliemouth,ibond,2024-01-29 19:27:35,DELETE
+ERROR,172.28.40.253,Port Charles,plopez,2024-04-14 14:32:00,PUT,macOS

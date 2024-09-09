@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.239.36.215,Debrafort,jesus67,2024-03-08 12:26:49
+SUCCESS,192.168.66.215,Brightshire
+NOTICE,192.168.7.154,Erintown,savannah20,2024-02-27 19:41:29,POST
+WARNING,172.22.161.236,Katrinahaven,veronicamaldonado,2024-03-31 21:19:21
+ERROR,172.26.87.80,Bowenborough,vferguson

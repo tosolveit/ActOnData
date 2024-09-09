@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.17.27.28,Williamsmouth,codygarza
+FAILURE,192.168.237.2,Lake Keithport
+ERROR,192.168.54.101,North Davidborough,cortezedward,2024-08-17 18:29:24,DELETE,iOS
+SUCCESS,192.168.35.36,Johntown,chelsea91,2024-05-15 06:18:18,POST
+SUCCESS,192.168.186.23,East Seanburgh,tblake,2024-08-30 18:10:26,PUT,iOS

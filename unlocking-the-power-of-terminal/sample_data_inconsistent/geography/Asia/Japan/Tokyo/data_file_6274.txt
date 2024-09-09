@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.100.33.79,Stephanieland,icampbell,2024-04-14 05:57:05
+WARNING,10.150.131.111,West Kevinview,brian76,2024-06-11 12:13:01,GET,Android
+DEBUG,192.168.96.106,Port Kellyfort,cgarcia,2024-01-30 17:20:17,PUT,Linux

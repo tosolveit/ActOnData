@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.25.44.65,Port Jasonville,pamela72
+SUCCESS,192.168.3.214,South Christina
+NOTICE,10.226.170.121,Sarahbury,acoleman

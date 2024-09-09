@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.205.182.197,East James,tiffanysalas
+DEBUG,10.184.100.144,Jonesport,ztorres
+INFO,172.21.182.124,Johnsshire,davidmartinez,2024-01-23 12:36:20,POST

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.20.195.183,New Daniellechester,kendrajenkins,2024-07-14 00:00:12,POST
+CRITICAL,10.186.159.188,Dawsonhaven,chenwendy,2024-02-09 15:31:19
+CRITICAL,10.150.102.239,Josemouth

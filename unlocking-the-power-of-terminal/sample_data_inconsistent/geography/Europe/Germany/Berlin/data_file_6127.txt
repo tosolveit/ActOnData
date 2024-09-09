@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.130.211,Josephmouth,erikagrant
+NOTICE,192.168.212.149,Cookville,lori57,2024-02-19 17:44:38
+ERROR,172.19.224.91,Christopherchester,regina26,2024-03-06 22:38:46

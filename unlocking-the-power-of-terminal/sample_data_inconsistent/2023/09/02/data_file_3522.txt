@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.91.113,Estradamouth,andrewschris
+INFO,172.26.40.67,Lake Eric,juantaylor
+FAILURE,10.243.94.240,West Kellyberg,bryanvincent,2024-06-05 17:45:57
+SUCCESS,10.131.3.83,Port Kristenstad,qjackson,2024-08-15 06:54:56,PUT,Linux

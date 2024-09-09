@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.240.39,New Annaton,april11,2024-05-29 22:50:01,PUT
+NOTICE,172.18.202.111,Coltonton,vcollins,2024-01-20 20:43:03,POST,macOS

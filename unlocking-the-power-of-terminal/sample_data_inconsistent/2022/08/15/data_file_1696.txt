@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.26.134.46,West Kathleenside,charles43,2024-06-23 16:08:03
+WARNING,192.168.157.54,Danielmouth,timothy16,2024-02-11 06:37:54,DELETE,iOS
+ERROR,172.31.4.132,Danieltown,johnwhite,2024-06-19 22:59:29,DELETE,Android
+CRITICAL,10.83.247.209,Lake Jennifer,jnicholson,2024-05-01 14:44:14

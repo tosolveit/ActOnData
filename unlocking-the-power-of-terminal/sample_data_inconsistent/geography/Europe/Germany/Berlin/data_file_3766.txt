@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.241.88,Fryshire,hunteric,2024-06-14 00:32:39,PUT
+ERROR,172.19.212.247,North Katherine,elizabethcunningham,2024-07-12 03:07:20
+SUCCESS,192.168.42.41,South Benjamin,eadams,2024-06-19 03:54:35,GET
+WARNING,10.76.10.178,Tranbury,larmstrong,2024-03-08 13:40:34,GET

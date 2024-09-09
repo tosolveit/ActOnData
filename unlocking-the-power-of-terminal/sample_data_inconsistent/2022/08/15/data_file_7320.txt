@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.19.134.64,Fitzpatrickville,brenda21,2024-07-04 23:35:35,PUT
+DEBUG,192.168.67.118,Katherineberg
+DEBUG,192.168.158.71,East Michaelmouth,jeffrey54

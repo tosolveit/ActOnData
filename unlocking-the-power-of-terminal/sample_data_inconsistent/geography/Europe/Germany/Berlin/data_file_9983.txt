@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.30.189.172,Donaldtown
+NOTICE,10.67.172.179,Christinastad
+ERROR,10.73.49.6,Ellismouth,vickimiranda,2024-09-01 03:28:11,PUT,iOS
+CRITICAL,192.168.115.250,West Codytown
+SUCCESS,192.168.156.131,East Whitneyfurt,bautistajohn,2024-05-27 05:05:52,DELETE,Linux

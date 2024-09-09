@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.31.200.81,East Joelville,dfernandez,2024-07-23 18:37:22,POST
+FAILURE,10.180.78.235,Juliestad,bmoran,2024-03-26 10:52:59,DELETE

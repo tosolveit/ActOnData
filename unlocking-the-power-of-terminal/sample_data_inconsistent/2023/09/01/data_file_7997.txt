@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.27.194.202,North Michaelland,isaiahrichards,2024-02-28 01:36:28,PUT,macOS
+DEBUG,10.39.98.59,Port Jeremy,keysharon,2024-02-02 06:30:05
+DEBUG,10.141.103.239,North Tyroneton,tammy61,2024-02-19 00:11:46
+CRITICAL,172.16.173.3,Port Douglas,shannonmartin

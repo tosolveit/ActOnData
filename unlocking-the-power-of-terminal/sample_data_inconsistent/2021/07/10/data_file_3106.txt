@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.16.145.168,Brandontown,aligerald,2024-07-30 20:45:26,PUT
+FAILURE,192.168.38.65,Jenniferside,andrew06,2024-06-23 21:23:59
+FAILURE,10.148.147.18,West Kristenmouth,christinepowell,2024-06-01 02:53:27
+NOTICE,172.17.49.28,Markview,jonesbrent
+DEBUG,192.168.193.118,Cynthiafurt,connor52,2024-03-25 05:24:47

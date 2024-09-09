@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.26.172.42,Penaville,millerjohn
+CRITICAL,172.25.11.253,Brewerbury
+INFO,10.139.88.86,Clarkport,suttoncody,2024-06-12 01:19:44,PUT
+SUCCESS,192.168.136.34,West Richardland,lopezbenjamin,2024-01-12 15:08:26,POST,Android
+SUCCESS,192.168.77.75,Port Jennyfurt

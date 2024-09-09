@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.20.51.15,East Michaelmouth,fwatkins,2024-02-27 17:24:53,PUT
+DEBUG,10.190.56.145,Jameston,gloria25,2024-01-26 05:22:36,POST
+FAILURE,10.68.43.44,Michaelmouth

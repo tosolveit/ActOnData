@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.248.253,Barkerfurt
+INFO,10.210.214.84,New Jennifer,kparker,2024-01-04 23:45:04,PUT
+WARNING,192.168.29.90,Derekside
+WARNING,172.25.182.69,Port Edwardburgh,sarahbauer
+SUCCESS,10.236.13.237,Port Cassandra

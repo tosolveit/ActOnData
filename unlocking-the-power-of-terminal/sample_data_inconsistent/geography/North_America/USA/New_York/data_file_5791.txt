@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.10.196,West Elizabeth,andreabutler,2024-06-08 23:56:24,DELETE,iOS
+ERROR,172.25.94.210,South Lukeville,ryanhall,2024-08-05 12:21:03
+NOTICE,172.21.36.90,Jaredhaven,ncopeland,2024-05-11 17:40:23,PUT

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.20.132.230,Smithtown
+NOTICE,192.168.160.225,South Danny,thomas76,2024-02-17 01:32:21,PUT,macOS
+FAILURE,10.31.21.12,Summerburgh,eoliver
+ERROR,10.197.137.189,Frankfurt,pattersonsara,2024-06-25 10:40:16

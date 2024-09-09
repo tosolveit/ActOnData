@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.180.122,West Elizabethmouth,david00,2024-01-25 23:38:43
+NOTICE,10.136.88.210,Anthonyville,lauramcconnell,2024-01-13 21:55:42
+INFO,10.233.102.106,Peterside,petersjeffrey

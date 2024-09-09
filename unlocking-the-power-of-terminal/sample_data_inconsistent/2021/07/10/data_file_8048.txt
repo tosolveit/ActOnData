@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.20.138.241,Williamsport,smithjeremy,2024-02-10 01:05:17,PUT,macOS
+ERROR,192.168.187.66,Mccoyland,natashajohnson,2024-08-27 21:46:36,GET,Windows
+WARNING,172.30.238.153,Lake Joview,williamsmary,2024-08-15 15:05:33,GET,Windows
+CRITICAL,172.27.216.165,West Crystalland,tabithapeters
+WARNING,172.24.255.39,Kaylatown,fnorris,2024-01-12 19:42:13

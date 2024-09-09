@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.18.102.114,New Lauriefort
+SUCCESS,172.22.60.224,Myersport,williamsrhonda
+ERROR,10.79.41.5,New Samantha,cgreen

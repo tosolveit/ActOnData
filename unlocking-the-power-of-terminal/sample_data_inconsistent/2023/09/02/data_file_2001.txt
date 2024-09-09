@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.22.91.132,East Christinetown,zriggs,2024-04-26 13:25:31
+SUCCESS,10.191.108.86,Mataberg
+CRITICAL,192.168.12.86,South Jose
+DEBUG,10.123.111.68,East Charles,sherrylowe,2024-01-02 12:09:07

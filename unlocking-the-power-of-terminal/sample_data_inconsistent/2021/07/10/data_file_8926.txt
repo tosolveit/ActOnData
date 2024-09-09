@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.31.126.91,Veronicaview,stoutricky,2024-03-07 05:27:06
+CRITICAL,172.29.57.18,Port Glenda,pvasquez,2024-09-06 16:11:45,POST,macOS
+WARNING,172.21.232.29,Alishachester,suarezpatricia,2024-07-30 21:55:43
+WARNING,192.168.203.95,New Jenniferstad,uhorton,2024-05-06 01:12:06

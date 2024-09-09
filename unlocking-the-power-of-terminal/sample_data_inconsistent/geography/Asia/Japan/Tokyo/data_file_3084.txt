@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.19.225.58,Ericchester,ele
+DEBUG,10.30.192.235,Debrafort,juliephillips,2024-02-06 10:41:55,PUT,Linux
+FAILURE,10.19.191.211,East Kendrahaven,joseph71
+DEBUG,172.28.9.54,East Cory,brian74,2024-04-22 14:55:29,PUT

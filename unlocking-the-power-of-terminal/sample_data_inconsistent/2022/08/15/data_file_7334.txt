@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.83.243,Sanchezfort,matthew23
+INFO,10.24.173.242,Mendozamouth,sabrina25,2024-03-19 16:49:24,PUT,Android

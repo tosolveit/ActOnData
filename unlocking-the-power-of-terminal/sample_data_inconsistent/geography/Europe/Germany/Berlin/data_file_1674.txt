@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.79.152,Gardnershire,jamiehaney,2024-04-11 12:09:05,PUT
+WARNING,10.204.106.182,Robertfurt,starkronnie,2024-06-04 15:51:30,DELETE
+ERROR,192.168.131.12,Lake Patrickhaven,perkinsdonna,2024-02-24 05:06:10,POST
+DEBUG,10.83.157.88,East Jeffrey
+FAILURE,172.29.6.157,Christopherfurt,katherinefernandez

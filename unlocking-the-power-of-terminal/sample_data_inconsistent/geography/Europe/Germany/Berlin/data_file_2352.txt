@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.28.239.241,Jamesmouth,soliscarol,2024-06-06 05:03:15,PUT
+WARNING,192.168.43.61,Romeroport,nelsonanna
+CRITICAL,192.168.231.233,East David
+CRITICAL,10.26.248.185,Ashleyport,tlamb,2024-01-21 11:38:45
+CRITICAL,10.67.161.21,New Justinville,michael19,2024-08-03 20:39:55,PUT,Android

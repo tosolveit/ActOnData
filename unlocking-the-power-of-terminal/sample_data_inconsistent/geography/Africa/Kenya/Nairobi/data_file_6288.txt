@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.16.254.171,Patrickport,tanya25,2024-03-07 22:41:29
+CRITICAL,192.168.253.5,East Dannybury,diazemily
+CRITICAL,192.168.197.30,Summerstown

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.21.143.140,Crawfordburgh
+DEBUG,172.27.250.208,Alejandromouth,shepardvalerie,2024-05-12 08:01:15
+NOTICE,172.17.200.18,Howardfurt,angelahiggins,2024-03-02 08:03:41,GET

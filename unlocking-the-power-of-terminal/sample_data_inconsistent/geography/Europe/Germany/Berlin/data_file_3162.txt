@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.153.122.106,North Misty,ericreynolds
+ERROR,192.168.45.223,Derekshire,jaime91,2024-07-20 06:52:29
+ERROR,172.17.68.68,New Kimberly
+CRITICAL,192.168.32.73,Port Gloria,wthompson,2024-09-04 02:31:28,GET

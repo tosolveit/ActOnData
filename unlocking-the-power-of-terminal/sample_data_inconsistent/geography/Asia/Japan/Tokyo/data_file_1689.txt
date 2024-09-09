@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.21.161.26,Loriborough,jessicasoto,2024-04-18 16:18:50,GET
+CRITICAL,10.87.224.33,West Susan,yrowe,2024-07-19 23:18:30

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.9.111,East Jill
+ERROR,10.168.236.118,Port Patty,anthonyquinn

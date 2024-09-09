@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.65.127,Amytown,welchsusan,2024-07-06 16:59:24,GET,macOS
+CRITICAL,10.212.233.92,East Janetport,dwayne74
+SUCCESS,10.234.224.192,East Gabriellestad,benjamin18,2024-08-21 06:22:24,GET

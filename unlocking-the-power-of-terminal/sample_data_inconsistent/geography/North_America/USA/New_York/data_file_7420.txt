@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.183.155.160,West Zachary,juanlong,2024-03-23 23:18:59
+SUCCESS,172.29.152.253,Ericaport,amylane,2024-03-19 16:03:55

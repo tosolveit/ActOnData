@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.112.50.53,Ashleyberg,austin52,2024-02-26 15:57:33,PUT,Linux
+NOTICE,10.122.109.89,Josestad,kevinwilliams,2024-05-17 16:26:24,POST
+FAILURE,192.168.175.207,Tarafurt

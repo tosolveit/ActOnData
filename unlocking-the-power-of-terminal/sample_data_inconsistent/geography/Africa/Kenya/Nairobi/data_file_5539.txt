@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.84.252,Walshborough,melissa47,2024-08-22 12:55:02
+NOTICE,192.168.9.54,New Samanthaton,lisa82,2024-02-24 17:57:40
+NOTICE,172.23.181.224,Debbiechester,alyons,2024-03-08 13:42:43,POST,macOS
+SUCCESS,172.31.31.182,Parkerborough,bryancooper
+SUCCESS,172.19.112.44,North Alyssamouth,fshah,2024-04-22 12:30:43,POST

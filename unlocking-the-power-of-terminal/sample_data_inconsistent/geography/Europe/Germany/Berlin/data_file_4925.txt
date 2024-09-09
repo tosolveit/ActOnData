@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.132.171.48,Paulmouth,dbryant,2024-01-17 11:46:34,DELETE,iOS
+FAILURE,192.168.96.32,Lisamouth,simonelizabeth,2024-06-05 21:42:16,POST
+DEBUG,10.182.134.254,Jeanetteport,nathan46,2024-03-06 06:44:27,DELETE

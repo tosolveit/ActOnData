@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.17.83.250,Patrickshire
+INFO,10.232.70.211,Johnsontown,ballen
+WARNING,172.16.206.105,New Johnmouth,kristinfoster,2024-06-01 19:45:44,DELETE,Android
+ERROR,10.246.109.27,Rowefurt,michael80,2024-08-15 12:47:04,GET
+FAILURE,10.189.61.59,Port Benjaminfurt

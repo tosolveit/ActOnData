@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.170.122.130,Arroyobury,moranchristina
+WARNING,10.65.81.72,Port John,fisherdennis,2024-07-24 23:35:18,PUT,macOS
+WARNING,172.31.178.103,North William

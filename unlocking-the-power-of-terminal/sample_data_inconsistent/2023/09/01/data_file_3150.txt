@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.204.81,South Jasonville,sheila79
+NOTICE,172.26.113.133,Griffinside,kenneth37
+INFO,10.207.110.155,Leeborough,fisherphilip,2024-06-19 12:23:57,POST

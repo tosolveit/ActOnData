@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.28.116.179,Reynoldsview,ismith,2024-08-01 18:59:41,DELETE,macOS
+DEBUG,192.168.182.82,West Ashleyburgh,caitlin02,2024-08-04 13:31:31

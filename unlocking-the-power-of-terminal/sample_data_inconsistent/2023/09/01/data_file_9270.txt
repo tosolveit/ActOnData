@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.41.152,South Nicole
+FAILURE,192.168.179.220,East Sara,clarknicole,2024-08-27 21:16:32,GET,Windows
+SUCCESS,10.173.129.57,New Michael,donaldmiller,2024-07-15 16:12:00,POST,Windows
+FAILURE,172.25.134.17,Sandraberg,dmclaughlin,2024-02-02 13:11:43,DELETE,Linux
+SUCCESS,192.168.24.4,Port Toddport

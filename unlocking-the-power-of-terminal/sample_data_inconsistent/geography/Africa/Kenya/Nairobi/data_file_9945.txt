@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.140.196.142,New Josephbury,tanyahardy
+FAILURE,10.227.100.109,Peckland,andersonmary,2024-03-06 04:21:45
+DEBUG,172.21.161.245,Lake Christopher,dgarcia,2024-05-21 07:24:46,PUT,Windows

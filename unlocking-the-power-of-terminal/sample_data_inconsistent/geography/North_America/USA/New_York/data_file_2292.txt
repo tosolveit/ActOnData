@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.251.126.210,Oneillton,janetmeyers,2024-07-27 19:03:31,GET,Linux
+FAILURE,172.25.253.102,Crosschester,matthew66,2024-08-10 01:36:37,PUT
+WARNING,192.168.201.111,Lake John,karengreene,2024-07-18 05:18:10,DELETE
+SUCCESS,10.111.76.24,Lake Karenport

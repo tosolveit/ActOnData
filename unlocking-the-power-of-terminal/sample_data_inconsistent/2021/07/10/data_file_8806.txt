@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.119.102,Lake Deborah,codonnell,2024-03-15 03:08:13,DELETE
+ERROR,192.168.217.208,Port Jessicaview
+NOTICE,192.168.40.203,Penatown,warebrian,2024-06-15 06:56:58,PUT,iOS

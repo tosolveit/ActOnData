@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.18.222.7,Elliottfurt,ofernandez,2024-05-23 16:39:06,POST,macOS
+DEBUG,172.25.199.24,Amyville,felicia92,2024-05-30 20:43:55,PUT

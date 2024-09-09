@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.23.122.245,West Allison,richardtrevino,2024-05-04 09:22:48,PUT
+NOTICE,10.113.135.236,Monicachester,scotttom,2024-06-01 03:45:26
+ERROR,10.76.156.62,Port Kimberly
+ERROR,10.81.135.207,South Melissa
+INFO,172.18.173.251,Robinview,david10,2024-03-08 23:54:11,GET

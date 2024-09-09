@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.127.207.124,New Amy,mooregabriel,2024-05-26 20:39:46,DELETE,iOS
+SUCCESS,172.25.151.232,East Kristentown,lori61
+INFO,10.145.223.93,Micheleburgh,saraphelps,2024-01-04 12:15:09,GET
+FAILURE,192.168.73.177,Port Nicholaston
+ERROR,10.165.210.97,Lake Christiefurt,douglaslong,2024-02-20 03:43:54,PUT,Android

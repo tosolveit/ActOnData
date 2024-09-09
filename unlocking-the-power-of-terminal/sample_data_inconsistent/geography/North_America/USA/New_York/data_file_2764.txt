@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.29.104.222,New Sandy,osimmons,2024-02-22 17:18:04,PUT
+FAILURE,192.168.142.116,New Ericfort
+ERROR,10.35.111.208,Lake Carla,chad26,2024-08-22 18:32:08,DELETE
+INFO,192.168.150.166,Greerborough,grantjames,2024-06-15 15:11:50
+DEBUG,10.215.223.130,Farleyport,zowens,2024-01-09 20:15:13,DELETE

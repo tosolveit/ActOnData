@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.97.200.192,Danielmouth,blankenshipwilliam,2024-02-11 01:20:29,PUT,Windows
+CRITICAL,192.168.21.169,New Nicholas
+FAILURE,10.192.8.169,Port Jesse
+ERROR,172.29.58.26,West Johnborough,rachaelyoung,2024-02-27 19:34:56,GET
+FAILURE,10.207.146.205,South Jasmineton,jody45,2024-01-25 21:01:52

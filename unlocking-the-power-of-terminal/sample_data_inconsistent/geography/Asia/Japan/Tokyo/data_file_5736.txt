@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.24.11.128,East Erika,mercedes48,2024-08-15 02:12:57,DELETE,Windows
+ERROR,192.168.11.135,Lake Jason
+FAILURE,172.17.72.232,Evanfort,msanchez,2024-03-02 06:02:52,GET,iOS
+SUCCESS,10.211.242.69,Leonstad,davisjeffery,2024-05-06 06:57:48,POST

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.23.91.73,Cannonburgh,moorejeffery,2024-08-12 13:50:05,PUT
+SUCCESS,192.168.241.151,South Heatherbury,hinestimothy
+DEBUG,10.162.129.209,East Joshuaburgh
+FAILURE,172.24.145.238,Lake Angelabury,jacobjohnson

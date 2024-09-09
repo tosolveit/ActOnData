@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.203.95,North Lisaburgh
+WARNING,172.27.8.128,Daniellemouth,davidwerner,2024-04-26 09:30:20,PUT
+SUCCESS,172.24.111.22,Port Christinaside,duncanabigail,2024-09-04 14:42:04,GET,Android
+NOTICE,172.25.79.229,East Ashleyberg,gary87,2024-08-20 18:29:38

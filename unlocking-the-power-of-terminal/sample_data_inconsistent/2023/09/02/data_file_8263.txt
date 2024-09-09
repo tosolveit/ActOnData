@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.23.80.60,Davilaborough,kenneth87,2024-06-21 14:44:05,DELETE
+DEBUG,10.211.103.32,Hicksmouth,djones,2024-04-11 03:59:39,GET,Android
+FAILURE,172.18.242.204,Port Tonyachester
+NOTICE,10.73.218.211,Guzmantown,peter30,2024-04-02 10:39:35,POST
+ERROR,192.168.48.252,Brianbury,yorkandrew,2024-08-20 16:15:09

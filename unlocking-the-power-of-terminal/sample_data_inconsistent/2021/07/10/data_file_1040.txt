@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.74.232.151,Christinaland,cheryl42,2024-02-27 13:06:09,POST
+CRITICAL,10.237.158.98,Callahanchester,mark63,2024-08-14 09:43:15

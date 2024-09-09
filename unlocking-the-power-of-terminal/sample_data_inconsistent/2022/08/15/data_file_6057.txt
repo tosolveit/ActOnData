@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.10.202,North Devonview
+DEBUG,192.168.139.7,Robertburgh
+WARNING,10.127.192.219,Thomashaven,gsmith,2024-03-21 00:48:34,POST,iOS
+WARNING,172.19.147.137,Port Tonichester,benjaminwalker
+DEBUG,10.11.191.55,Travisfort,hannah23

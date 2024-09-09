@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.177.237.127,Kiddfort,kelly76,2024-07-03 00:38:12,GET
+WARNING,192.168.122.135,Evansstad,qhughes,2024-05-13 17:54:50
+ERROR,192.168.177.131,North Jennifer,mitchellgeorge
+DEBUG,172.21.130.37,Port Vanessa,dylan05
+CRITICAL,172.20.50.116,Gambleberg

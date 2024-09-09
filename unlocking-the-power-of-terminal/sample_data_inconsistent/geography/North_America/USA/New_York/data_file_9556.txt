@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.11.147.192,Matthewsburgh,gregoryclay
+INFO,10.153.145.67,Williamside,glennstevens,2024-08-21 13:20:31
+INFO,172.17.188.194,Markburgh
+NOTICE,192.168.103.47,South Jonathan,janet72,2024-01-15 15:08:15,POST,Linux

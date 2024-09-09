@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.225.39.97,South William,corey25,2024-08-03 17:30:39
+SUCCESS,192.168.94.6,Taraland,slevy,2024-01-10 05:03:08
+ERROR,172.28.179.13,Lake Kellyfort,justincarter,2024-04-09 19:22:01

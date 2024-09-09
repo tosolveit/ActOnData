@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.6.88.10,Matthewberg,howardchristy,2024-09-06 18:00:06,DELETE,Windows
+CRITICAL,172.30.102.255,New Marie,farleychristopher
+DEBUG,172.21.5.35,Petersonville,jasmine15,2024-01-09 00:13:17
+WARNING,172.16.79.72,Lake Erinville,dmosley,2024-03-15 18:05:59

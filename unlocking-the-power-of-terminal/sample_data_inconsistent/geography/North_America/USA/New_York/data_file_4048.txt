@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.153.211,Jeromestad,trosales,2024-04-12 15:47:41
+NOTICE,192.168.104.218,North Chrisville,kelsey60,2024-06-05 16:44:12,POST
+FAILURE,172.24.47.194,Baldwinton,theresanelson,2024-08-20 08:41:37

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.228.90,West Peter
+NOTICE,172.22.157.94,Pittsburgh
+NOTICE,172.25.139.137,Oliverstad,ljimenez,2024-06-10 11:58:17,PUT
+ERROR,172.17.22.135,Marthatown,beth90,2024-04-30 23:14:55

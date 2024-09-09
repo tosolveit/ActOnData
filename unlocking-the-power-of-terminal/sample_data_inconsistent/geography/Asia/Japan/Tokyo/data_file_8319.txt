@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.241.13.79,Lake Sethport,xoliver,2024-05-22 20:25:34
+CRITICAL,192.168.11.157,South Ianfurt
+ERROR,10.93.79.255,Garciafort,charleslee,2024-05-12 12:05:55,POST,Android

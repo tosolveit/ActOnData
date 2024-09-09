@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.24.17.96,North Donald,michael31,2024-03-19 11:23:03,POST,Windows
+FAILURE,192.168.67.97,Shellychester
+CRITICAL,172.19.47.158,Lake Sharon

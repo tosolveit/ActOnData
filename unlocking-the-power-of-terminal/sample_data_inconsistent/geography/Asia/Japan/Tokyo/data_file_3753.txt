@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.18.2.15,Lake Johnburgh
+FAILURE,172.16.60.107,Rebeccatown,vanessaperkins,2024-06-30 01:03:52,POST
+WARNING,192.168.47.12,Sandrabury
+CRITICAL,10.136.211.202,Higginsstad,murphymatthew,2024-02-16 09:41:30

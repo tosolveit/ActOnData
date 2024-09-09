@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.31.195.104,Jodifurt
+ERROR,10.24.72.56,Harrisview

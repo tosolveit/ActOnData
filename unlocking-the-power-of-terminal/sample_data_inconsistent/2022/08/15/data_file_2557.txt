@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.237.86.86,East Douglasborough,maryriley,2024-03-11 11:31:03
+WARNING,10.224.230.138,South Amy,brianguzman,2024-08-29 13:39:22
+FAILURE,192.168.226.18,Victoriaport,julia66,2024-03-26 11:52:31,GET,Android
+WARNING,172.17.78.102,Port Angela,reyesamanda,2024-06-15 13:15:03,PUT,Linux
+CRITICAL,192.168.209.217,West Jacksonstad

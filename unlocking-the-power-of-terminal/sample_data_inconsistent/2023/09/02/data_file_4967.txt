@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.133.7,Wardland,kcrosby,2024-06-29 06:54:25,GET
+ERROR,192.168.36.150,South Bryan
+ERROR,172.17.86.64,Nicolebury,bsanders
+CRITICAL,10.241.125.78,Hoganborough,cody43

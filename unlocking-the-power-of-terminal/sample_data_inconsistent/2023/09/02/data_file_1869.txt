@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.23.75.61,Marytown,kingrobert,2024-02-25 06:55:46
+CRITICAL,10.40.75.156,North James,jessicaduncan,2024-09-06 20:27:05,GET,Windows

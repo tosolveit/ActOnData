@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.158.160.108,Carlfurt,david27,2024-07-12 03:57:44,POST
+DEBUG,172.31.74.188,South Robertton,twalters,2024-08-02 18:09:52
+CRITICAL,172.27.59.150,East Jeffrey,lisaadams

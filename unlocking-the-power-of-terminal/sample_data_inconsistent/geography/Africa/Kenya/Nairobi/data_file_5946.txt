@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.30.45.122,South Juliefort,justinjones
+FAILURE,10.6.123.247,North Davidburgh
+ERROR,192.168.189.232,Matthewton,lwade,2024-07-07 05:04:55,DELETE,iOS
+INFO,192.168.53.200,Allenville,owensjesus,2024-05-04 12:05:39
+INFO,172.19.184.210,East Daniel,nathan96,2024-06-06 22:09:38,POST

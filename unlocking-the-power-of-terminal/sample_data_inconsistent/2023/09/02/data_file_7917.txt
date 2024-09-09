@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.21.114.214,Scottview
+WARNING,192.168.29.129,Andrewview,smithlindsey
+ERROR,10.93.183.48,Hubertown,louis16,2024-07-10 02:45:01
+ERROR,10.126.222.152,Johnbury,stephen21,2024-04-01 19:15:53,POST,Android

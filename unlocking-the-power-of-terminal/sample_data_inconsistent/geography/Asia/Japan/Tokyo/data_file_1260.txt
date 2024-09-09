@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.11.57,East Tara,tammy18,2024-02-26 04:48:30,GET
+DEBUG,10.84.99.64,Port Cynthiachester,cole16,2024-06-05 21:22:58,GET
+ERROR,10.59.4.61,Port Andrew,skinnerkim,2024-08-11 16:27:22,GET
+ERROR,192.168.17.31,East Matthewport,chelseamoreno
+WARNING,10.137.77.105,Colemanbury,mcraig,2024-04-04 00:03:31,PUT,Windows

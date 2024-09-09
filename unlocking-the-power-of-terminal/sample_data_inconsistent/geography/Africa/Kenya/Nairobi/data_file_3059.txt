@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.237.37,Ronaldchester,asanford
+ERROR,172.16.175.46,East Robert,rmitchell

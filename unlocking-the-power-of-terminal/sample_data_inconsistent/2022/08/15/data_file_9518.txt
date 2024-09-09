@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.167.230,Weaverberg
+INFO,172.31.159.53,Port Patrick
+FAILURE,10.158.191.116,Levineview

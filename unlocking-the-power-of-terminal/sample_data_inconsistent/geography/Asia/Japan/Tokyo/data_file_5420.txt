@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.103.210,Port Jessicamouth,sandy50,2024-07-09 12:11:46,GET
+ERROR,10.155.107.68,Robinsonside,timothyelliott
+INFO,192.168.220.226,Alexberg,yhall
+CRITICAL,172.25.112.144,Lindaborough,adamsdonald
+CRITICAL,172.20.55.239,East Steven,njohnson,2024-01-22 22:12:50

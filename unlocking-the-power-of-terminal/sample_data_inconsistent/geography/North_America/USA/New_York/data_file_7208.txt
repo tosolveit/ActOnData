@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.182.127,North Sarahside,michaelpratt
+DEBUG,192.168.19.236,Lake Michael,torressusan
+CRITICAL,10.84.226.49,Port Richard,ryan35,2024-03-28 19:12:08,DELETE,Windows
+WARNING,172.28.209.174,South Richard,thomasferrell
+FAILURE,192.168.88.16,Robertstown,frankgray,2024-04-07 16:53:39,PUT,Android

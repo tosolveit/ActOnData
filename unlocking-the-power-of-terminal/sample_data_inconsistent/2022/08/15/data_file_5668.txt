@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.199.195,Jillstad,hornejoseph,2024-06-26 03:04:55,GET,Windows
+NOTICE,192.168.119.41,South Brucebury
+NOTICE,192.168.69.150,Lake Davidville,kellyhood,2024-06-01 23:54:57,POST
+INFO,10.63.152.32,Port Timothy
+CRITICAL,192.168.127.86,New Richardchester,cranecrystal,2024-02-29 14:11:15,PUT

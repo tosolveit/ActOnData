@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.12.117.250,Brownberg,guzmanerica,2024-02-09 19:22:55,PUT,Windows
+WARNING,172.20.186.178,Lake Thomas,williamsdale,2024-08-18 21:36:33,GET,Windows
+FAILURE,172.21.188.26,Port Michaelfurt
+FAILURE,10.2.26.6,South Katelynland,kathrynmccormick
+INFO,10.193.76.108,Karaside,peter36,2024-01-03 05:43:37

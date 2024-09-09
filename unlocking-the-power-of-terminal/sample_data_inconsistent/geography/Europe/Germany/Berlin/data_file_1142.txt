@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.23.238.143,North Theresa,william64,2024-08-24 23:43:15
+WARNING,10.247.133.138,North Wesleyhaven,bmalone,2024-07-28 09:03:21

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.16.50.183,Michaelhaven,harrismonica,2024-01-14 18:06:56,GET
+INFO,10.20.125.12,Wilsonport
+ERROR,10.136.205.189,Jasonmouth

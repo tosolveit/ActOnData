@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.249.98.159,Jonathanfurt,hardingwarren,2024-01-21 00:16:39,GET,iOS
+ERROR,10.186.156.103,Medinaburgh,jacobstark,2024-07-15 01:58:47,POST
+ERROR,172.26.66.0,Huberstad,carpenterdouglas,2024-01-13 07:21:01,POST,macOS
+SUCCESS,10.196.79.149,Jonesberg,jacobglover,2024-09-04 12:17:36,GET,Android

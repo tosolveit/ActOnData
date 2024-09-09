@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.33.225,Ellisburgh,ross57,2024-07-23 11:01:59,DELETE,Android
+ERROR,10.60.192.13,Kristafort,jamesvelez,2024-07-13 13:43:45
+WARNING,192.168.32.191,Markfurt,oflores,2024-03-08 20:31:25,DELETE,macOS

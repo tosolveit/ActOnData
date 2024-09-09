@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.78.174,South Jose,davidbailey
+FAILURE,10.204.112.210,East Lorishire,jamiesalinas
+SUCCESS,172.22.221.32,Johnmouth
+INFO,10.54.153.114,West Justinbury

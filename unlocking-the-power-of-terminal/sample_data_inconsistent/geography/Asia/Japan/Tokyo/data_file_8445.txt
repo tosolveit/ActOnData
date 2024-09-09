@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.31.138.189,West Garyview,thorntonrachel
+NOTICE,192.168.179.89,North Robert,angelaevans,2024-06-11 00:46:13
+NOTICE,192.168.169.64,Emilychester,uwright,2024-08-04 13:30:18
+ERROR,172.21.130.77,North Michelle,catherinejefferson
+CRITICAL,192.168.186.44,Port Lisaland,holdenluis,2024-09-07 20:58:14,GET

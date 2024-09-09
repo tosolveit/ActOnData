@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.143.173,Josephview,christophermartinez,2024-04-13 06:01:07
+SUCCESS,192.168.76.160,West Douglasbury,knoxmark,2024-02-22 10:20:58,POST
+CRITICAL,10.154.126.144,New Bethanybury
+CRITICAL,10.179.213.130,Port Christophertown,davidsonjonathan,2024-02-26 20:15:23

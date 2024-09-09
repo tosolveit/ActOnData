@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.180.158.65,Codyburgh
+FAILURE,172.22.146.132,Laurenville
+ERROR,10.108.135.223,East William

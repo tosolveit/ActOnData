@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.255.122.245,New Chadside,qsanchez,2024-01-02 01:37:21,DELETE
+NOTICE,10.0.103.73,Port Lisa,brian35,2024-05-17 21:46:00,POST,macOS
+FAILURE,172.31.244.36,Alvaradomouth,dgraves,2024-06-23 03:36:04
+INFO,10.63.227.54,Hillberg
+NOTICE,172.23.0.189,Kathytown,travisstewart

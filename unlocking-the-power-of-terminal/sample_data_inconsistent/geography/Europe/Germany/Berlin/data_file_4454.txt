@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.29.168.250,West Bettymouth,fingram
+WARNING,10.22.98.127,Williamsberg

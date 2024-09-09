@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.17.184.78,New Michealfort,steven23,2024-08-13 17:25:03,POST
+WARNING,192.168.197.155,Jamesbury,perezmiguel,2024-07-25 13:02:34,POST,Android
+SUCCESS,10.251.2.158,Johnsonport,jeffreygoodwin
+ERROR,192.168.184.46,North Michellechester,qmack,2024-08-13 17:25:14
+NOTICE,192.168.69.200,New Christopher

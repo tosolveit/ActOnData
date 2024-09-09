@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.227.210,South Daniel,milesmichael,2024-05-19 19:25:57,PUT,Windows
+CRITICAL,172.17.204.165,Darleneland,lewisstephanie,2024-06-05 17:13:33,GET
+INFO,192.168.188.101,Danielburgh

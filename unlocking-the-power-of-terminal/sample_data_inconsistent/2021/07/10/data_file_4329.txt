@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.140.97,Daniellefurt,crystal09,2024-04-22 18:07:02,POST,Linux
+DEBUG,172.27.83.217,South David,aaronbishop,2024-01-01 18:42:12,DELETE
+INFO,192.168.132.117,Heathermouth,lauren08,2024-06-23 05:01:24,PUT

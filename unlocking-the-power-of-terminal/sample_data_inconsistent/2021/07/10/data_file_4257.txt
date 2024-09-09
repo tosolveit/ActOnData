@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.20.90,South Miguelchester,griffithjoshua
+SUCCESS,192.168.105.200,Anthonyton
+WARNING,192.168.113.247,Owensbury

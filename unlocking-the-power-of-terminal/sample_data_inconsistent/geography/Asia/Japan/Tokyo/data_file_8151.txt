@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.26.192.143,Port Sarafurt,uking,2024-07-05 16:26:01,DELETE,iOS
+WARNING,172.21.226.3,West Danielport,wesleysnyder
+ERROR,10.137.193.238,Williamsfurt,patricklisa
+SUCCESS,10.221.42.109,East Steven,grimesmegan

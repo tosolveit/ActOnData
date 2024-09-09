@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.170.158,West Peter,donaldadams,2024-06-26 10:39:20,POST
+CRITICAL,172.16.15.158,Vargasville,beasleygreg,2024-04-17 09:50:32,POST,Android

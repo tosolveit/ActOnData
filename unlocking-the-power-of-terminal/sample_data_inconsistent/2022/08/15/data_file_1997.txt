@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.143.159,Bennettland,kennethzavala,2024-07-06 23:22:18,DELETE
+INFO,192.168.142.103,New Karen,vedwards
+INFO,172.25.126.180,Lake Nathanhaven
+SUCCESS,10.170.190.136,North Courtney,mooreemily
+DEBUG,10.14.97.186,Nicolemouth,michael95

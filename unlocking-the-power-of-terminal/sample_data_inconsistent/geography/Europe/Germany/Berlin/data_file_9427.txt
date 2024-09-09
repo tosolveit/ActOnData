@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.61.137.73,Blackburnberg,humphreymelissa,2024-07-25 02:35:35
+SUCCESS,192.168.86.69,West Rebeccaland,hevans
+NOTICE,172.29.47.141,Rodriguezchester,ffowler,2024-07-21 02:18:55
+DEBUG,10.149.218.181,Richbury
+SUCCESS,10.70.89.191,Melissabury,lisa05,2024-09-09 02:38:00,DELETE,Linux

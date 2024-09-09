@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.25.94.63,Popeberg,sgordon,2024-02-01 08:06:58,POST,Android
+DEBUG,172.18.155.28,Scottmouth
+NOTICE,172.21.180.36,Lake Gregoryton,walter37

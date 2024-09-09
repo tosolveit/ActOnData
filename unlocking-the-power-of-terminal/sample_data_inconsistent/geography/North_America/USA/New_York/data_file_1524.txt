@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.54.187,Gibsonton,jeansawyer
+NOTICE,172.26.129.112,Lewisfurt
+ERROR,172.23.102.158,Thomasstad,hhammond,2024-08-07 01:24:15,PUT
+FAILURE,172.31.150.221,Jensenside,foxjose,2024-07-29 17:16:27

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.20.250,New Teresashire
+SUCCESS,172.17.128.57,Joseshire,ruizchristopher
+DEBUG,10.125.25.128,North Mariatown

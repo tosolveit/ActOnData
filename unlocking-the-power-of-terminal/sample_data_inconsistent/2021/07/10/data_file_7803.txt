@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.137.255,North Natashahaven,iedwards
+INFO,172.30.218.88,South Jennifermouth,adamsmichele
+INFO,10.8.190.135,West Kimberlyborough
+NOTICE,192.168.209.204,Bryanfurt,ehernandez,2024-06-21 10:51:09,GET,iOS

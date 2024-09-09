@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.93.136.25,West Brooke,meltonbarbara,2024-04-13 06:29:37
+ERROR,172.28.72.240,Ryanfort,randy35,2024-02-20 11:52:18,DELETE
+WARNING,192.168.3.233,Port Roger,medinaeric

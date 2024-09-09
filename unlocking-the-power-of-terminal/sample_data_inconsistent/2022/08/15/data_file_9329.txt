@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.145.100,Donnafurt
+FAILURE,192.168.5.160,Moranside,tjarvis
+SUCCESS,192.168.131.199,Adamton,andrea81,2024-04-24 08:04:12,POST
+CRITICAL,192.168.1.27,Acevedotown,oedwards,2024-08-22 00:25:45,DELETE,Android

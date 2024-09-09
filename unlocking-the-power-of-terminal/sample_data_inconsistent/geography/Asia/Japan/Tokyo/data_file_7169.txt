@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.154.85,Isabellaview
+FAILURE,10.235.91.192,South Michael,nstokes,2024-06-04 08:28:02,POST
+ERROR,172.16.68.144,Port Susan,edward44
+DEBUG,172.26.170.170,Port Amanda,brownalicia,2024-01-28 07:22:07,POST,macOS
+FAILURE,172.28.6.205,Katherinefurt,johnsonveronica,2024-05-06 23:14:52

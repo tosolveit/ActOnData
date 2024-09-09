@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.171.202,Sandramouth,john93
+CRITICAL,10.156.250.98,South Richard
+FAILURE,172.31.176.189,North Adamton,davissuzanne

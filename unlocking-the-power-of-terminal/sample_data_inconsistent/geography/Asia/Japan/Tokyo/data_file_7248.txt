@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.26.150.200,East Jonathan,ozuniga,2024-03-26 05:03:38,POST,iOS
+ERROR,10.159.51.58,Lewischester,rhodesrobert
+WARNING,192.168.250.101,West Cynthia,vjackson,2024-05-25 16:41:15,POST,iOS

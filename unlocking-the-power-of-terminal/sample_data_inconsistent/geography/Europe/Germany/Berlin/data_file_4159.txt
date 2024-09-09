@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.31.203.18,Lake Alisontown,ywatson,2024-01-20 15:34:05
+CRITICAL,192.168.209.23,Lake Nicholasberg,stephanie45,2024-01-29 01:47:52,POST

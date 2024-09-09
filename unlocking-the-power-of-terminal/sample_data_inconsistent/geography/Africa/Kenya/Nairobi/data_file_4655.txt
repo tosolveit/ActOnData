@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.71.197.93,East Juliestad,sarahblake,2024-02-29 17:35:00
+CRITICAL,192.168.90.227,Gabriellemouth,tony94,2024-05-26 02:11:01,POST,Android

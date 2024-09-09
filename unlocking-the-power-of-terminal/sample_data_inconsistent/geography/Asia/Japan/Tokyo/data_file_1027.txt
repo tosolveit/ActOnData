@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.25.21.14,Jamesfurt,oarellano,2024-07-07 08:44:55
+DEBUG,10.244.244.111,North Coryfort,martinricky,2024-04-08 11:09:39
+INFO,10.4.218.2,New Daniel,imontes,2024-07-12 04:20:00
+DEBUG,192.168.203.58,South Brittany,lmurillo,2024-05-18 18:06:26
+SUCCESS,172.18.42.159,South Sherrymouth,wpadilla,2024-04-05 17:34:06

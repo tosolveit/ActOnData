@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.79.230,Lake Stevenfort,smithneil
+ERROR,10.79.36.29,New Brenthaven,brandyraymond,2024-04-25 04:47:41
+CRITICAL,172.22.95.166,Victormouth,littleroy,2024-05-26 23:39:56,DELETE
+CRITICAL,10.178.142.91,Jonesside,smyers,2024-08-09 16:09:38,GET,Windows
+ERROR,172.17.190.151,Boltonstad

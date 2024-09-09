@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.114.230.58,Ruizstad,robert36,2024-02-01 16:10:54,DELETE
+DEBUG,10.34.24.21,Davisberg,frazierhoward
+ERROR,172.18.190.188,West Dillonmouth
+DEBUG,172.27.147.231,Timmouth,rhondaguzman,2024-09-06 21:25:33,PUT
+CRITICAL,192.168.211.234,New Jennifer,dsteele

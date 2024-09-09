@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.20.88.82,Lake Timothy
+ERROR,10.43.212.13,Lake Jessicamouth,jonesalison,2024-05-18 03:28:47,PUT

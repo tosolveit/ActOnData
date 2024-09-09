@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.24.95.68,New Javierbury,blanchardtammy,2024-08-13 10:46:10,PUT,macOS
+CRITICAL,172.19.150.162,Mendozaland
+SUCCESS,192.168.170.123,East Ronaldbury,dianesmall,2024-06-09 00:03:18,POST,iOS
+WARNING,192.168.139.30,Walshfort,aduncan,2024-03-29 23:16:26,PUT

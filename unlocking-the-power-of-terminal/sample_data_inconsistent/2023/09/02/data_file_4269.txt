@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.134.158,New Dawn,rodriguezjessica,2024-06-13 17:53:07
+WARNING,10.19.19.29,Ryanland
+SUCCESS,10.188.215.171,Rachelton,chad10
+ERROR,192.168.39.115,North Mary,richardsstacy

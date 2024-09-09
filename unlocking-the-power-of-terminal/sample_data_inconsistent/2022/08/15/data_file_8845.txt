@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.30.79.253,South Nicole,weavertravis,2024-08-30 15:30:03,DELETE,iOS
+ERROR,10.134.155.71,New Kennethland
+INFO,192.168.144.160,Kathyport,jaybarrett,2024-05-09 23:04:42
+FAILURE,192.168.211.223,Mistytown,laura34,2024-01-19 06:48:27,GET,iOS

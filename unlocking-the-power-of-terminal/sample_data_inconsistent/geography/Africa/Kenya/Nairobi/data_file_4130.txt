@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.249.224,Mcknightchester,jessica86,2024-03-14 06:35:18,DELETE
+WARNING,192.168.202.21,Salasside,tonyaolsen
+INFO,172.22.243.158,Lake Stephaniefort,nathankennedy,2024-08-13 22:49:04,GET,Linux

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.33.168,Grahamtown,rhamilton,2024-09-05 09:35:39,POST
+CRITICAL,10.108.85.236,Williamsshire,scott08,2024-01-21 05:02:51,DELETE
+CRITICAL,10.190.235.130,Conniemouth,probinson,2024-08-04 00:30:04,DELETE,Windows
+SUCCESS,10.103.13.144,North Garyport,nmullins,2024-05-17 15:40:44,POST,Linux

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.233.226,West Andrea,ramostracy,2024-08-14 04:26:30
+DEBUG,172.18.79.42,Lake Stevenshire,lorichen
+ERROR,172.20.62.230,Rowehaven,kimberlyjenkins,2024-05-29 19:40:35,GET
+ERROR,172.23.23.63,South Jenna,katherine36,2024-02-18 06:04:09,PUT,Windows

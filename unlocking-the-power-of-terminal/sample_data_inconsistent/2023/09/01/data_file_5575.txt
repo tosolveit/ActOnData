@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.24.45.124,Warrenland,cruiz
+CRITICAL,192.168.241.1,Wattston,fconner,2024-02-13 21:50:07,GET
+FAILURE,172.28.168.173,West Julialand,gravesamanda,2024-08-04 22:34:34,DELETE
+CRITICAL,172.17.205.240,North Diane
+NOTICE,192.168.114.174,Gonzalesville,hendricksjennifer,2024-06-27 05:50:51

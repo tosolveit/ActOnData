@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.94.214.108,Ericland,sarah57,2024-02-16 19:28:27
+CRITICAL,10.215.100.147,Lindseyport,tjohnson,2024-04-17 22:38:22
+NOTICE,10.141.201.97,East Bonniechester,catherine83
+WARNING,172.25.62.4,Castilloborough,wendy51,2024-07-25 04:50:54,GET,Windows
+NOTICE,192.168.58.39,East James,jimmy67,2024-06-15 18:00:08

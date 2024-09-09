@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.37.20,North Tara,soneill,2024-02-03 18:32:49,GET,macOS
+INFO,10.157.32.42,New Timothyfurt,randall40,2024-05-17 06:43:38
+FAILURE,172.31.189.138,Ryanside

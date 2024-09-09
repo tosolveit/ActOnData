@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.16.57.3,Watsonchester,jenniferbrown,2024-05-03 15:47:31,PUT,Windows
+ERROR,192.168.231.171,North Williamtown,cpeters,2024-07-23 06:41:39,DELETE,macOS
+DEBUG,192.168.184.64,Brownland,saramullen,2024-05-07 08:34:30
+FAILURE,10.213.222.198,Lake Daniellefort,patricia66
+SUCCESS,10.61.225.175,East Monica,mbenitez,2024-07-03 01:32:07,DELETE

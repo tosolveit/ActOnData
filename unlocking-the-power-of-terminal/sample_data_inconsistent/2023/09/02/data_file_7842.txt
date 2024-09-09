@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.27.248.138,East Cameronstad,mharrington
+SUCCESS,172.20.109.212,West Matthewfort,mark63,2024-09-01 12:39:35,DELETE,Android
+FAILURE,192.168.177.237,Bentleyville,idavis,2024-04-25 17:24:07

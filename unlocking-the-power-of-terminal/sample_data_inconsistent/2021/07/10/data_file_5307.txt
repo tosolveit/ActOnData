@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.162.239,Keithport,amberwalker,2024-01-12 19:59:30
+NOTICE,172.23.135.36,West Miguel,jaime22,2024-06-29 21:18:01
+DEBUG,10.17.179.226,East Melaniehaven
+INFO,192.168.27.227,Marybury,brandon10,2024-06-25 11:01:43,POST,Linux
+ERROR,172.24.128.213,Lisafurt

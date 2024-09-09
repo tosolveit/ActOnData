@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.53.156,Michaelmouth,angelalawrence
+FAILURE,172.31.131.118,Ericabury,awilliams,2024-05-22 04:09:01,POST
+INFO,172.20.41.0,West Jeffreychester,rogersashley
+NOTICE,172.31.98.140,Griffinchester,angel20,2024-01-10 04:40:53,PUT
+WARNING,192.168.238.186,Littleport,dorothy08,2024-08-02 11:21:44

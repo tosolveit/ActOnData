@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.243.110,Kyleburgh,jeremysmith
+SUCCESS,192.168.165.204,Makaylafort,ian72,2024-08-21 07:52:50,PUT,macOS
+SUCCESS,10.58.195.80,Port Danielstad,adamwise

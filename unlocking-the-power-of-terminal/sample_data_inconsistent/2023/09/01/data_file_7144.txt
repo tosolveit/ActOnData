@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.8.186,Williamsburgh,sanchezjennifer
+WARNING,192.168.22.252,South Patrick,harold01,2024-04-23 08:52:45
+NOTICE,10.244.39.110,Webbport,barbarahernandez
+ERROR,10.13.252.103,Martinhaven,josephballard,2024-04-27 07:09:54,DELETE,Windows
+ERROR,192.168.200.106,Williamport,howellrichard,2024-07-16 07:05:47,DELETE

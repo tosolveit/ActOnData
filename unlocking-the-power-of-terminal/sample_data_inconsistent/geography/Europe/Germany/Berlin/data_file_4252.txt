@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.171.27.50,West Warren
+NOTICE,10.247.67.64,Carlaton,jerrymitchell,2024-04-10 20:27:17,GET,Windows
+FAILURE,10.228.147.100,New Susan

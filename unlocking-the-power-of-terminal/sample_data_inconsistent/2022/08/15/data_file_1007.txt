@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.23.133,Cisnerosbury,lrandolph,2024-01-27 21:47:38,DELETE
+FAILURE,192.168.187.27,North Todd,hebertcatherine

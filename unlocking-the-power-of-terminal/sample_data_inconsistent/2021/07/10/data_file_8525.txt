@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.27.81.35,South Amanda,michelle64,2024-04-10 05:24:33
+SUCCESS,172.23.196.108,South Barbara,vazqueztara,2024-08-21 18:19:24
+INFO,10.177.152.129,South Christophershire,edwardbarton,2024-07-16 14:32:46,DELETE
+CRITICAL,10.16.250.123,East Glenn,lesliecox,2024-07-06 19:58:50,PUT

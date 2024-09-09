@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.240.69.0,Youngshire,tina02,2024-08-28 21:33:46
+NOTICE,172.28.88.79,Kaylahaven,jenniferlawrence,2024-07-03 08:01:11,DELETE

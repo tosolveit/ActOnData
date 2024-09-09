@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.222.162,Port Jacob,zpatel,2024-01-06 22:54:44,GET,Windows
+NOTICE,10.96.7.67,Heatherberg,ysanchez,2024-07-04 06:06:50,GET
+WARNING,172.29.254.97,Kimberlyside,michael36,2024-06-03 07:31:05,GET,Android

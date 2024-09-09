@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.113.182,Kathrynton
+SUCCESS,192.168.17.207,Lake Kimberly,scottwise,2024-07-07 15:26:27,PUT
+DEBUG,172.28.254.23,Ortegabury,danielgraham,2024-06-05 18:01:21,PUT,iOS
+ERROR,10.232.80.207,Mendozaburgh,rothmelissa,2024-08-13 14:50:07,DELETE
+NOTICE,192.168.89.46,North Matthew

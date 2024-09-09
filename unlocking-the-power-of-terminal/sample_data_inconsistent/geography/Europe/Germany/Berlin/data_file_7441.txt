@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.240.34,New Anthonyview,davidware,2024-04-18 18:21:36
+CRITICAL,192.168.192.28,Jaredmouth,mperry,2024-06-29 10:45:22,POST
+NOTICE,172.17.91.169,Jeffreyberg,jasmine30,2024-02-20 20:47:10,GET,iOS
+SUCCESS,192.168.236.87,New Donnaland,rodneyhartman,2024-08-16 08:05:22,PUT
+SUCCESS,192.168.63.249,West Michael,janet03,2024-06-27 20:02:48,POST

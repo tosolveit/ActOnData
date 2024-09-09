@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.26.129.87,North Robert
+FAILURE,172.25.62.164,Lake Donnaton,danielsjonathan,2024-08-17 09:48:21,DELETE,iOS
+INFO,172.20.76.165,East Christineberg,courtneypowell,2024-02-16 17:40:17,GET

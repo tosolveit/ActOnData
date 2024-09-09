@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.144.63,Martinezburgh,charles29,2024-02-27 18:22:49,POST
+DEBUG,10.37.62.76,Michaelton,vthompson,2024-09-09 01:51:30,DELETE,Android
+FAILURE,10.164.141.218,Christopherland,tatedonald,2024-02-04 19:55:38,GET,Android
+FAILURE,10.119.88.33,Staceyfurt,johnsonemily
+CRITICAL,10.33.140.44,West Kellyville

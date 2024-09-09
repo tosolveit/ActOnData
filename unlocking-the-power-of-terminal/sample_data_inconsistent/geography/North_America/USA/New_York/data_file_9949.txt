@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.62.49,Lake Nathaniel,lisa10,2024-04-24 13:10:15,PUT,macOS
+FAILURE,172.21.72.179,North Karen,richardrobles,2024-05-22 06:54:35
+INFO,172.21.214.160,Smithchester
+INFO,192.168.168.227,Lisamouth,stephanieberry,2024-02-09 14:17:10,DELETE

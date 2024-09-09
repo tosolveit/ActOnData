@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.168.6.133,New Selena,collinsaaron,2024-03-08 22:10:54
+INFO,10.73.194.241,Smithberg,lawrencetrevor,2024-04-21 03:53:51
+WARNING,10.22.151.82,Richardport,robert26,2024-08-17 22:45:01
+SUCCESS,10.36.99.134,Curtistown,charlesperez,2024-03-02 02:19:28
+NOTICE,192.168.48.134,Annetteborough,zdouglas

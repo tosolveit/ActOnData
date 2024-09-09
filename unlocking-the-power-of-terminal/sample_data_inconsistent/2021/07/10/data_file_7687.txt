@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.31.60.87,Nathanton,pierceerica
+ERROR,172.31.44.148,Lake Jonathan,barbaramata,2024-04-07 05:20:09
+DEBUG,10.6.59.249,South Sandra,jaime60,2024-08-01 10:39:39
+INFO,172.24.97.241,Port Maryhaven,xnewman,2024-05-07 08:12:31,POST

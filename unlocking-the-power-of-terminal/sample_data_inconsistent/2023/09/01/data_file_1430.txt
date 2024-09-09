@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.21.28.63,West Donaldport,paynejames,2024-07-01 19:26:53
+SUCCESS,10.185.158.9,Morrismouth,rebeccahubbard,2024-02-21 15:16:14,PUT
+CRITICAL,172.26.96.194,West Alexanderfort,cody34,2024-02-15 18:53:26,GET,Windows

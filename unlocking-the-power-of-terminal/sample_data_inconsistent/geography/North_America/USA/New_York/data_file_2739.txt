@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.234.18.228,Deborahberg
+FAILURE,10.108.196.200,Thomaschester
+INFO,172.26.221.117,Port Ashley,melissajenkins,2024-06-24 04:20:54,PUT,Linux

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.186.62.55,East Matthew
+SUCCESS,192.168.174.43,Port Rachelstad,iroberts

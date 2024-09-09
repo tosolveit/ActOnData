@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.27.100.196,Lisaland
+CRITICAL,10.252.65.244,Valdezland,gregory54
+ERROR,172.16.212.239,South Steven,fcamacho,2024-01-08 06:43:18

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.25.110.60,Petersonmouth,kfields,2024-03-02 21:40:01,POST
+FAILURE,192.168.213.69,Lake Ianside,karendougherty,2024-04-27 14:07:58,PUT

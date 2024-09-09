@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.25.41.4,Migueltown,mjohnson,2024-04-27 19:12:52,GET,iOS
+NOTICE,192.168.65.139,Jamesside,caldwellbrittany,2024-03-05 01:27:56
+WARNING,172.28.245.214,Joshuaview,bboyle,2024-02-24 08:12:53,DELETE,Linux
+ERROR,172.29.134.148,South Don,natalielee
+INFO,10.249.235.33,Adamtown,fmoody,2024-07-22 15:44:42,DELETE,iOS

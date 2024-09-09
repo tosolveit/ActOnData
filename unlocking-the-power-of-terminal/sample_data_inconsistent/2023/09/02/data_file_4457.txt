@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.30.152.16,Carterbury,alexandrachang,2024-06-02 12:14:19,GET,Windows
+ERROR,172.21.197.66,North Scottton,shannon67,2024-02-11 08:17:11,POST,Windows
+SUCCESS,172.21.144.81,Wandafurt

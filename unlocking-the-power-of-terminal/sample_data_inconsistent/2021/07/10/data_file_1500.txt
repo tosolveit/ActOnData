@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.204.52.85,Lisashire,brianna08,2024-02-22 00:39:34
+NOTICE,192.168.217.77,Port Katelynfurt
+WARNING,192.168.214.32,Hernandezville,kimberly84,2024-08-06 02:22:56,DELETE
+INFO,10.137.248.18,West Cameronstad,karen16,2024-04-07 23:50:22,POST

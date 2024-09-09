@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.120.81,North Daniel
+WARNING,192.168.198.66,New Cynthia,shieldsmonica,2024-04-14 20:39:30
+NOTICE,10.155.135.80,East Andre

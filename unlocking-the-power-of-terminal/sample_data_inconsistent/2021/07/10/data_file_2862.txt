@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.146.47.102,Rachelstad,nicoleolson,2024-03-28 11:53:37,POST
+CRITICAL,10.13.166.220,New Megan,hamiltonmichael,2024-08-21 16:07:14,GET
+INFO,192.168.116.208,Kellybury
+WARNING,192.168.214.57,West Elizabeth,ambersanchez,2024-03-18 09:21:09

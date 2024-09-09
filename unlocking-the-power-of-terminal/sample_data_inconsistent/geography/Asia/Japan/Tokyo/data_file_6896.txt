@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.209.198.118,Wallsport,vtran,2024-03-23 16:56:02,PUT
+INFO,172.20.69.7,North Melissa,brewerchristian,2024-06-04 10:53:34,POST
+CRITICAL,10.111.170.111,Thomasberg,jennifer61

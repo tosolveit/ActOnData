@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.26.83.25,East Robertton,marcusmurray,2024-03-19 21:07:02,GET
+FAILURE,172.18.185.208,Greenmouth,iruiz,2024-06-18 17:48:00,GET
+WARNING,10.6.90.21,Port Matthew,brent55,2024-03-06 12:08:56,POST

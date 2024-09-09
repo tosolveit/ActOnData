@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.56.1,West Micheal,daniel87,2024-05-03 17:08:36,DELETE
+ERROR,172.19.158.237,Combsborough,marymartinez,2024-07-13 09:05:54,POST,iOS
+ERROR,10.180.32.131,Johnsonstad
+INFO,192.168.226.243,West Gregorytown

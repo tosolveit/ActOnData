@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.27.124.209,Margaretshire,christine04,2024-04-10 03:36:59
+INFO,192.168.220.229,Lake Keithton,tmassey,2024-06-21 20:57:59,DELETE
+WARNING,10.247.0.49,New Samuelberg,jaygalloway
+INFO,172.28.150.146,Tanyaton,qtaylor,2024-01-19 16:04:39,DELETE
+FAILURE,192.168.128.138,West Makayla,davismelanie

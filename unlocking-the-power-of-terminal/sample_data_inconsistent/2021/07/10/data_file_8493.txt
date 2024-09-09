@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.155.162,South Tiffany
+WARNING,172.25.63.217,North Alicia
+CRITICAL,10.88.4.248,Samanthaview,tjimenez,2024-04-04 21:16:21,POST,macOS
+DEBUG,10.169.208.12,New Katherine,kellyalice,2024-05-05 05:13:48
+SUCCESS,10.179.113.90,New Peggychester,mbrown

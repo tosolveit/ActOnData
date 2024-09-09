@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.30.208.168,South Juliehaven,wadebetty
+DEBUG,192.168.99.202,Ryanstad,zmedina,2024-08-28 19:54:29
+SUCCESS,192.168.244.78,New Dylanside,xortiz,2024-08-24 11:07:02,PUT

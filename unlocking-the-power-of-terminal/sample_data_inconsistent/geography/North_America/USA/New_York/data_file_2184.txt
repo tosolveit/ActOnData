@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.236.144,Hallborough
+DEBUG,10.217.172.168,Mcculloughfurt,clarkcesar,2024-04-18 21:49:38
+CRITICAL,10.94.229.105,New Josephchester,nunezdennis,2024-03-04 03:07:49,POST
+INFO,10.171.97.78,Carolineville,sherrymurphy,2024-01-24 01:33:28
+DEBUG,172.31.156.113,Keithbury,macosta,2024-05-07 03:55:23,POST,Windows

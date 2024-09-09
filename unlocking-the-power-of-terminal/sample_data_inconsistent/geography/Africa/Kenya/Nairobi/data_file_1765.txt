@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.206.185.215,North Jennabury,nichole84,2024-02-01 00:33:24
+CRITICAL,10.220.118.106,Petertown,misty20

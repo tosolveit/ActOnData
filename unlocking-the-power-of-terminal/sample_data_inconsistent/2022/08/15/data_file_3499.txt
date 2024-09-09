@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.16.68.4,Bookerside,donaldrobinson,2024-03-05 10:44:22,DELETE
+DEBUG,10.199.46.198,Stevenschester
+NOTICE,10.81.218.204,Marissachester,browningryan,2024-05-19 01:22:59,PUT,Linux
+DEBUG,172.30.4.235,Jessicaland,martinhernandez,2024-04-24 14:46:46,DELETE,Windows
+NOTICE,192.168.20.224,Adamchester

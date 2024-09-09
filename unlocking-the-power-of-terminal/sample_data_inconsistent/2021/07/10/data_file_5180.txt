@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.235.102.160,North Gregory,boydjeffrey,2024-05-06 12:15:55,DELETE
+SUCCESS,192.168.95.206,North Sheilashire
+INFO,192.168.120.207,Wilkinsonmouth,lawrencecantu

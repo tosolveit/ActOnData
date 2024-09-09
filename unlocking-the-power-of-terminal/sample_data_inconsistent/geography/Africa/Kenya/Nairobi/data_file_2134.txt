@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.0.80,North James
+NOTICE,172.31.166.64,New Bryanchester
+SUCCESS,10.208.111.39,Silvaside,nancy84,2024-08-20 07:02:37,GET
+FAILURE,192.168.225.32,South Henry,nicholashoward,2024-02-19 13:18:35,POST

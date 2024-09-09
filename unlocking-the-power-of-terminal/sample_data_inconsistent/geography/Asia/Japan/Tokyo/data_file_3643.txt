@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.14.147,Barnesfort
+CRITICAL,172.22.92.244,Tracihaven

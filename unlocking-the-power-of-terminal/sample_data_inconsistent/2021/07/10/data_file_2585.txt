@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.27.169.65,Melissaside
+NOTICE,10.241.128.86,South Jacktown,tanya80,2024-05-10 06:07:57,DELETE
+FAILURE,172.25.208.230,Johnsonview,bking,2024-07-09 18:48:41
+FAILURE,192.168.116.210,Stanleyberg,johnsonpamela
+INFO,10.91.104.27,Calebfort

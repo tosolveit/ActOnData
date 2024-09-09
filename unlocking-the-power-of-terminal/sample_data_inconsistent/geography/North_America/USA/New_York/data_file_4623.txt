@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.65.99,West Marissa,andrew99,2024-04-19 21:11:46,POST,macOS
+WARNING,10.149.105.57,West Alice,markcarter,2024-04-11 02:20:48,GET,Windows
+ERROR,172.31.189.80,East Christopher,dhuff,2024-09-05 02:25:27,POST

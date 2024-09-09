@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.40.101.127,New Lance,bakerrodney
+DEBUG,10.213.198.17,Hamiltonberg
+WARNING,172.21.170.23,Rossside,chelsea32,2024-05-18 10:40:57

@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.29.28,South Katherine,thomasheather,2024-05-22 09:20:38,DELETE
+FAILURE,172.18.21.74,Perezfurt,lindsay25,2024-02-22 05:23:19

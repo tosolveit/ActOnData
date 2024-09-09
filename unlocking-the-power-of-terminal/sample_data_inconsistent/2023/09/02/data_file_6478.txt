@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.28.67.222,West Gregory,pmurphy,2024-02-21 17:39:03
+DEBUG,10.165.20.118,Lake Sharon,jason26,2024-04-22 13:12:01,PUT
+INFO,172.23.185.23,East Erikaside,oramirez,2024-07-14 05:54:22,PUT,macOS

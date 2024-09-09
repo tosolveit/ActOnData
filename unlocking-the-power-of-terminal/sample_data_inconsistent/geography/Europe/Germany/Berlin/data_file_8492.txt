@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.21.197,West Russellport,samuel02,2024-05-22 11:11:52
+NOTICE,10.179.213.191,Kurtside,ivargas,2024-09-06 02:16:59,POST

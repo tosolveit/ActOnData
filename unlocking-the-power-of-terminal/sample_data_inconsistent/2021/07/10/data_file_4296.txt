@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.162.246.117,Lake Shane,alyssadalton,2024-08-25 15:39:53,POST,Android
+CRITICAL,192.168.186.79,Olsonton,russell70
+INFO,192.168.24.200,Paulachester

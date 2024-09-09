@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.249.146.84,Port Larry,michael15,2024-07-28 07:29:42
+WARNING,192.168.232.233,Robertmouth,victoria10,2024-07-31 08:50:00,DELETE
+ERROR,10.248.184.248,North Franciscochester
+INFO,10.187.27.88,Victorland
+SUCCESS,192.168.243.186,Leonardberg,richard92,2024-06-12 05:54:42,PUT,Linux

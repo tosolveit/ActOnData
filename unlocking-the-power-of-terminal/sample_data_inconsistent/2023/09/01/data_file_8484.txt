@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.184.216,New Howard,rebecca11,2024-01-01 07:09:22,GET
+ERROR,172.17.70.26,Reevesland,patrickyork
+CRITICAL,10.139.80.8,New Kimville
+ERROR,10.223.32.212,Kevinton,webbaudrey,2024-07-28 02:06:46,PUT

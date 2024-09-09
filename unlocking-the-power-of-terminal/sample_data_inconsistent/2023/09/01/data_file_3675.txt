@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.3.56.113,West Lisa,powellgeorge,2024-06-12 02:57:25
+ERROR,172.28.139.126,Braunside,michaelaguilar
+DEBUG,192.168.97.236,North Lindatown,williamsmichele
+DEBUG,192.168.169.210,Port Anneton,sramirez,2024-04-08 02:29:12
+ERROR,172.16.199.176,West Damon,feliciadurham,2024-06-22 13:18:54

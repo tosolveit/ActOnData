@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.181.203.35,Lake Richard,qpark,2024-02-16 10:28:49
+SUCCESS,172.17.244.96,Davidton
+ERROR,192.168.241.213,Port Jenniferside,kfox,2024-08-09 22:17:25,POST,Linux

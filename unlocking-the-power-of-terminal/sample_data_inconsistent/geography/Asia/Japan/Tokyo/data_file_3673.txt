@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.202.242,North Kathy,gtaylor,2024-06-17 07:17:11
+CRITICAL,172.20.92.126,North Randy
+SUCCESS,192.168.232.168,West Glen,scott89,2024-07-12 23:01:38,PUT,Android

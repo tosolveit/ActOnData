@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.85.210.32,Thomasview,tyler53,2024-06-06 23:55:10
+CRITICAL,10.247.245.111,West Tiffany,scottpeters,2024-06-02 13:20:41
+ERROR,172.20.250.50,Kimton,andrea39

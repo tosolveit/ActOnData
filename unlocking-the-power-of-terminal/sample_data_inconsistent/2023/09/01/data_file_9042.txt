@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.27.246.186,New Anthony,hperez
+INFO,192.168.78.148,South Crystal
+ERROR,10.154.114.182,North Sheilamouth,adampowell,2024-07-31 11:10:04
+INFO,10.188.11.242,South Karabury
+NOTICE,172.27.74.243,West Joannemouth,whitenicholas,2024-05-04 04:28:58,DELETE,Android

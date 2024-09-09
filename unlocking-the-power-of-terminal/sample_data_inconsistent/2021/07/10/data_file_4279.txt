@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.26.176,Jamesfurt,brittany07,2024-08-02 17:00:26,PUT
+CRITICAL,10.208.246.110,Lake Cesarland
+INFO,10.238.71.245,Ayalachester,erinmartin

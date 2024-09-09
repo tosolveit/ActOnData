@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.56.60,Gutierrezbury,millercolton,2024-03-28 01:44:23,POST
+DEBUG,10.164.197.53,New Paulland
+DEBUG,192.168.212.211,Richardberg,hsmith,2024-02-11 01:47:30
+INFO,192.168.66.34,Masonport,michael67,2024-09-03 08:56:19,DELETE,Linux

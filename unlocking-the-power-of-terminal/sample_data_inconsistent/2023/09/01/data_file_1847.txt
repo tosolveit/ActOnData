@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.13.195.207,Gomezborough
+FAILURE,192.168.246.126,South Michaelport,wthomas
+ERROR,192.168.15.38,West Mariatown,cynthia48
+WARNING,172.31.65.89,Jamesborough,nicholasrodriguez,2024-04-18 21:04:37,GET,macOS
+DEBUG,192.168.59.159,West Steven,walkerjulie,2024-06-25 22:34:02,DELETE

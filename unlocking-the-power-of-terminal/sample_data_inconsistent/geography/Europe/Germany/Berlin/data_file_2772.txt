@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.95.255.186,South Aliceview,jennifer43,2024-07-22 12:04:40,GET
+FAILURE,10.238.94.212,Lake Alyssa,alan03,2024-02-03 07:29:09,PUT
+SUCCESS,192.168.114.53,Maryborough,simpsonbrandon,2024-05-13 02:01:41,POST,Linux
+WARNING,192.168.8.247,North Charlesfurt,johnmiller

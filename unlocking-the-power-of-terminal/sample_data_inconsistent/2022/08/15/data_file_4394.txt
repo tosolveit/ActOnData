@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.28.175.166,Mooneytown,calvin57,2024-06-21 16:02:49
+CRITICAL,192.168.255.154,Barryport,carlsondylan,2024-04-23 07:15:45,GET,Android
+NOTICE,10.95.164.98,North Jamesstad

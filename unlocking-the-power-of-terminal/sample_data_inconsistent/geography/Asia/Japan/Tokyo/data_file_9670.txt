@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.107.43.164,Shannonbury,andrewsmith,2024-04-19 16:54:59
+FAILURE,192.168.239.172,East Christineland,evansjeffrey,2024-04-01 22:36:58,DELETE
+DEBUG,10.248.173.5,South Cathyfurt,nelsoncolleen
+CRITICAL,10.107.88.51,South Marychester,vvelasquez,2024-05-06 17:27:31,POST,Linux

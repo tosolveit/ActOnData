@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.227.51.49,West Sharon,caseyshepherd,2024-04-05 01:38:24,DELETE
+INFO,10.97.19.68,Julieport,tnelson,2024-02-06 04:57:41,DELETE
+SUCCESS,10.60.49.146,East Antonioland,amyschmitt,2024-07-24 11:40:39,PUT
+DEBUG,10.183.64.232,Christianhaven
+ERROR,192.168.116.202,East Jamesport,christopherparsons,2024-08-17 00:20:46,DELETE

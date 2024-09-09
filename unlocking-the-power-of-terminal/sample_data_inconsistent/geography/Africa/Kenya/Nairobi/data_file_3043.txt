@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.100.43,Nicholasstad,sheliahardin,2024-02-22 01:13:18
+CRITICAL,172.22.95.100,North Antonioburgh,daniellebaxter,2024-04-16 17:43:52,POST,macOS
+FAILURE,192.168.243.234,Connermouth,robert76

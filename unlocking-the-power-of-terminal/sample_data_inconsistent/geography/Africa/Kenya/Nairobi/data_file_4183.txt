@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.28.6.39,New Christophershire,joseph29,2024-01-22 03:45:00
+WARNING,192.168.76.82,East Jason
+CRITICAL,192.168.30.252,South Victoria
+CRITICAL,10.195.23.238,West Katherine,raymond44,2024-06-12 23:05:28,PUT
+DEBUG,10.209.112.23,Irwinview

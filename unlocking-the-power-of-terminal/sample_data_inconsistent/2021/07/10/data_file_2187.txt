@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.52.225,South Alexandrastad,xli,2024-07-14 14:16:40,DELETE,Linux
+FAILURE,10.178.244.224,Kimberlyfurt
+ERROR,10.130.23.37,Gilbertville,ronald85,2024-07-26 06:50:06
+NOTICE,172.21.52.156,North Rhonda,odavis,2024-07-16 23:08:20,PUT

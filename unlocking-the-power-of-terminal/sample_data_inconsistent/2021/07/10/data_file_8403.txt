@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.87.42.25,Watsonmouth
+FAILURE,172.31.205.47,Lake Cindy,mosleytanya
+NOTICE,10.204.248.195,Lake Kimberly
+ERROR,192.168.192.202,Lake Deannabury,elizabethschroeder,2024-03-14 01:24:08
+INFO,10.107.143.181,Jamesbury,brandon65,2024-04-15 18:40:34,DELETE

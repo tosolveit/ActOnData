@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.31.152.0,East Laurenburgh,megan77,2024-03-24 23:37:20
+FAILURE,10.8.1.251,North Sarahbury,lcardenas,2024-07-15 16:04:13,DELETE,Windows
+CRITICAL,10.196.188.142,Matthewsbury,george58,2024-02-13 18:35:07,PUT
+CRITICAL,10.29.83.76,Richardsfort

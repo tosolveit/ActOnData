@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.23.203.162,Fowlertown,hhuang,2024-04-30 12:07:00
+CRITICAL,10.0.137.180,Nataliefurt
+SUCCESS,192.168.195.27,East Theodorechester,uschmidt
+SUCCESS,172.27.150.181,Salazarstad,kbowen,2024-03-19 07:22:41

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.30.229.21,New Stephenmouth,chall,2024-02-09 23:28:22
+ERROR,10.103.195.53,Davidview,dperez,2024-03-19 08:43:13,DELETE
+ERROR,172.19.7.247,Emilybury,veronica48,2024-01-30 07:23:37
+CRITICAL,172.28.117.198,Petersonstad,kevin39
+WARNING,10.216.149.234,Bryantstad,seankerr,2024-01-07 09:06:16

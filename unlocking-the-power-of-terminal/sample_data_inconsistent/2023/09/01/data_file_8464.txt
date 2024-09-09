@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.183.25.192,North Andrewton,victoriaherman,2024-07-06 09:11:19,GET,Linux
+INFO,10.19.0.93,Marksfort,zmack,2024-07-25 21:47:38
+DEBUG,10.139.223.224,Laurenfort,ndouglas,2024-05-23 19:46:31,PUT
+CRITICAL,192.168.87.0,New Johnburgh
+ERROR,172.23.153.5,Crawfordton,barbara95

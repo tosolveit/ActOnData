@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.29.105.66,Tammietown,alexandra65,2024-08-11 16:55:49,DELETE
+INFO,192.168.126.25,Port Jasonshire,evansnatasha
+FAILURE,192.168.197.231,East Jodi,kimberly21
+WARNING,172.26.18.73,Moorefurt,kpeters,2024-02-08 06:30:05

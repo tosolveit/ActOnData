@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.17.231.23,Acostafurt,cthornton,2024-07-06 12:42:07
+SUCCESS,10.199.179.38,Robertville
+ERROR,192.168.40.75,Travisview,ashleygonzalez,2024-04-13 05:24:41,PUT
+ERROR,172.31.41.210,West Caleb,pbuchanan,2024-01-24 03:48:18,DELETE

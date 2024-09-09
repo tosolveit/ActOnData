@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.183.179,New John,lauramatthews,2024-02-13 01:03:42,POST
+ERROR,10.110.42.207,Jefferyview,ewright
+DEBUG,172.22.182.177,Ashleyborough
+WARNING,10.193.81.91,North Jacob

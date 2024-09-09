@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.22.53.225,East Darryl,annalvarado,2024-02-10 02:08:24,GET
+INFO,10.33.68.110,East Roberto,gdavis,2024-05-19 11:20:56,POST
+CRITICAL,172.29.84.177,Jennifermouth,megan40,2024-02-29 18:12:20,GET
+ERROR,172.18.163.91,Juliemouth,hwade,2024-01-14 19:13:03

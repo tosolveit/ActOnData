@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.21.112.234,Riceland,vhuff,2024-04-03 21:13:09,GET
+WARNING,10.121.206.227,West Peter
+CRITICAL,172.17.31.217,Youngport,zstephenson
+CRITICAL,10.226.8.58,Charlesstad,martineztyrone

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.26.23.75,Moorefurt,christinawilliams
+SUCCESS,172.22.85.55,Lake Thomasbury,kchavez,2024-06-20 08:06:40,PUT,Android
+DEBUG,192.168.133.86,Port Carolyn,michaelmoran
+FAILURE,192.168.218.219,Morrisonfort
+NOTICE,172.25.71.112,Levyberg,darrenoconnor,2024-08-17 03:22:55

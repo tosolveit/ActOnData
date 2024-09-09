@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.197.243,Walshberg
+INFO,10.0.62.27,Oliverburgh,wmay,2024-09-08 07:50:51,PUT,Linux
+DEBUG,192.168.88.56,Josestad
+DEBUG,10.181.47.187,Port Monica,williamgarcia,2024-08-15 04:16:31

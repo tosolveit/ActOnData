@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.27.107.16,Davidborough,ywatson,2024-01-22 20:16:54
+SUCCESS,172.18.82.99,Martinezfurt,grantsarah,2024-06-01 05:07:53
+SUCCESS,192.168.234.241,East Steven,frederickgarrett
+NOTICE,10.143.148.3,Ryanberg,bishopgeorge
+CRITICAL,10.199.54.246,Conradberg,mariamoss,2024-01-07 01:44:53

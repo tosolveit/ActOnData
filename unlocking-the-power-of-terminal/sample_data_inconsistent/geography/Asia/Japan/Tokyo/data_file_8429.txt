@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.104.112,Port Sharonport,corey47,2024-03-12 22:51:50,GET,macOS
+INFO,10.131.129.233,New Brandi,calebnolan,2024-06-02 10:41:56
+ERROR,172.25.180.19,West Michael,pkirk,2024-06-20 02:46:05

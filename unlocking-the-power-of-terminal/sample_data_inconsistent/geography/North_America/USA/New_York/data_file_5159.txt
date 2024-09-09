@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.27.209,Danielside,stephengonzalez
+INFO,192.168.201.212,Tannerport
+INFO,172.25.105.204,Dixonfort,james24,2024-09-04 05:42:02,GET,Linux

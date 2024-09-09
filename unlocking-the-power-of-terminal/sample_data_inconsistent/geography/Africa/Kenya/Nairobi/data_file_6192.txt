@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.21.188.215,South Brianna,brentmoore,2024-03-16 11:20:08,POST
+DEBUG,192.168.36.218,Harperburgh
+FAILURE,192.168.31.231,Cantumouth,kimberlyhill,2024-09-03 04:41:40
+SUCCESS,192.168.62.146,North Tom,felicia09,2024-04-06 20:10:00

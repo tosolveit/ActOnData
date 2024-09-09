@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.195.154,South Roberthaven,paulherrera,2024-01-14 07:58:29
+SUCCESS,172.22.207.140,Port Gregoryfurt,charles98,2024-06-18 16:52:27
+ERROR,172.31.222.90,South Victor,hugheschristopher,2024-09-04 07:59:36,PUT
+INFO,172.29.118.4,Lindseystad
+FAILURE,172.16.64.106,Port Juanburgh,doylecrystal

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.23.24.3,Port Joseph
+CRITICAL,172.26.139.140,Lake Lawrence,jonesdamon,2024-04-26 03:50:25
+WARNING,172.22.44.10,West Brittanytown,jessicahanna,2024-05-01 01:31:54,PUT,Windows
+ERROR,172.24.38.222,Sheenaton,dustin52,2024-08-25 21:22:07,PUT,macOS
+DEBUG,172.28.21.106,Sotomouth,fbuchanan,2024-05-23 12:18:31

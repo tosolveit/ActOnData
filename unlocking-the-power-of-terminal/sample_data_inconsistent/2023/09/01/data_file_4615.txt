@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.250.7.11,South Laurenside,taylorkeith,2024-02-11 01:09:08
+ERROR,192.168.70.173,Bellton,olsonandrew,2024-01-25 04:40:18,POST,Linux
+NOTICE,172.21.119.146,East Laura
+NOTICE,10.22.54.52,Lake Amytown,michael18,2024-06-09 04:20:39,POST
+FAILURE,172.23.2.202,West Sara

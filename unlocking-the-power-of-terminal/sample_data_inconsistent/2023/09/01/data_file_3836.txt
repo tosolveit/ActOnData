@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.74.53,North Gina,anne47,2024-07-04 09:04:49,PUT
+WARNING,192.168.59.169,Michaeltown
+ERROR,172.17.153.51,Cookfurt

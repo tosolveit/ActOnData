@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.18.113.69,Rogersstad,johnsonpatricia
+ERROR,10.238.102.177,North David
+SUCCESS,172.25.98.212,North Savannah,qharris,2024-02-13 11:41:46
+WARNING,172.30.114.40,North Teresa,mossstacy,2024-03-03 08:13:30,DELETE,iOS
+NOTICE,172.21.226.69,North Rebecca,yholloway,2024-07-02 13:01:12,GET

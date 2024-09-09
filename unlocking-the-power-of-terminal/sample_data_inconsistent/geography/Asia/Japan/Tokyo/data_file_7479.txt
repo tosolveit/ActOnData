@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.246.25.22,New Brendastad,nthomas,2024-03-06 17:49:18,GET
+ERROR,172.25.101.121,South Theresafurt,morgan32,2024-09-04 02:45:27,PUT,iOS
+NOTICE,192.168.70.11,Russelltown,michaelperkins
+DEBUG,10.252.110.249,Cynthiaberg,harringtonmarc

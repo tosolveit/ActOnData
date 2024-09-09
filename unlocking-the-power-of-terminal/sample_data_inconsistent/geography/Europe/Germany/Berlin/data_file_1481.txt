@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.91.116,Brentfort,hlarson,2024-09-07 02:29:25,PUT,Linux
+SUCCESS,10.160.60.222,Wrightchester,thomas81,2024-09-02 01:24:58,PUT,Android
+SUCCESS,10.218.77.186,Brownberg,elizabethbeasley,2024-01-07 19:06:26

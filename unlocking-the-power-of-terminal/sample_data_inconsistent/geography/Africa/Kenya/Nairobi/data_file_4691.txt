@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,192.168.252.208,West Anthony,uortega,2024-07-22 02:09:07,DELETE
+INFO,192.168.191.218,Floresfurt,tyler54

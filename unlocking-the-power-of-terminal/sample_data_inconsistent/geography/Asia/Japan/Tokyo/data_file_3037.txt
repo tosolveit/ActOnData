@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.237.47.18,East Thomasborough
+SUCCESS,172.21.161.201,Anneville,lhall,2024-02-02 21:12:37,GET,Linux
+SUCCESS,172.25.212.241,New Alan,gibsontina,2024-01-04 14:47:02,PUT
+NOTICE,10.69.90.119,Cowanberg,joseph92,2024-08-06 03:23:04,GET,Windows
+INFO,192.168.107.179,Lake Candacebury,sbrock

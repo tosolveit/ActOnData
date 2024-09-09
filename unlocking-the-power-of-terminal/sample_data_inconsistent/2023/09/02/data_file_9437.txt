@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.103.201.224,New Zachary,kcarroll,2024-01-05 10:19:11,PUT,Android
+DEBUG,10.165.163.57,West Angelaville
+DEBUG,10.132.64.35,Lake Larryberg,christophermatthews,2024-03-25 12:43:51,DELETE,macOS
+FAILURE,172.26.116.163,Jeffersonhaven,susancarrillo,2024-03-20 17:12:29,GET,Windows
+WARNING,172.21.23.218,Calderonbury,kmiddleton,2024-09-06 16:04:19,DELETE,iOS

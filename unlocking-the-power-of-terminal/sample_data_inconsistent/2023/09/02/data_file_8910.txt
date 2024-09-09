@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.19.105.178,Lake Jordanfurt,hhernandez,2024-06-17 16:40:42
+CRITICAL,192.168.100.231,Port Holly,jessicahernandez,2024-06-30 10:10:18
+CRITICAL,192.168.37.188,Williestad,knoxshane,2024-05-20 14:51:55,POST,macOS

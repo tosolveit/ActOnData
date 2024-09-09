@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,192.168.171.199,Burnettburgh,daniel84,2024-02-28 13:34:06,PUT
+NOTICE,172.27.58.139,Gardnertown,donaldbeasley,2024-02-28 11:43:47,DELETE
+NOTICE,10.53.232.79,East Williamside,meganstone,2024-05-16 16:54:33,DELETE,Android

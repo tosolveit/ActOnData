@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.237.52,Lake Amberville,robert67
+ERROR,192.168.41.54,Lake Luis
+WARNING,172.22.85.200,Hallfort,xsnow
+SUCCESS,192.168.35.148,Jonestown
+FAILURE,172.20.52.40,Hawkinsland,rachelsmith,2024-02-12 13:34:00

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.148.163.228,Lake Jerryberg
+ERROR,10.66.215.173,Port Matthew,brooke51,2024-08-27 18:08:01,POST
+DEBUG,172.16.185.232,South Julian

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.134.146.211,Paulton,craig23,2024-07-29 19:29:06,DELETE
+FAILURE,192.168.199.57,Henryburgh,icarey
+DEBUG,192.168.233.17,East Elizabeth,lisaward,2024-05-02 05:39:03,PUT,macOS
+INFO,172.24.1.242,Courtneybury

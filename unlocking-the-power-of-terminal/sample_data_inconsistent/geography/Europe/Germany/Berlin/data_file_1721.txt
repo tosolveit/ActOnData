@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.19.140.152,Barkerchester
+WARNING,172.16.253.196,Rachelville,dfranco

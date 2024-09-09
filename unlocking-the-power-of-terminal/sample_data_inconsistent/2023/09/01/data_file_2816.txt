@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.27.7.206,Jacquelineberg,melissa11,2024-02-17 00:54:15,POST
+ERROR,192.168.78.50,Maryburgh,skinnermelissa,2024-02-17 13:43:15,PUT
+SUCCESS,172.31.144.169,West Nicole

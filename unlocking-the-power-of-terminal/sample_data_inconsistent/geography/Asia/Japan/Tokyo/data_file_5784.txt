@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.222.95.62,South Anthonychester,anthony54,2024-08-07 23:20:45,DELETE
+WARNING,172.22.92.25,Raymondmouth,scrawford,2024-02-13 09:10:18,POST
+NOTICE,10.155.43.159,East Misty,mstanley,2024-02-06 08:19:25
+NOTICE,172.24.107.14,North Brett

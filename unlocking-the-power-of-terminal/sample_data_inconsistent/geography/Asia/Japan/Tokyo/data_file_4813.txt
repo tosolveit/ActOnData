@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.118.169,West Lisachester
+NOTICE,172.18.120.185,West Bradland,nancysnyder,2024-07-28 12:28:57
+CRITICAL,172.30.121.205,Leestad,kevinsmith
+DEBUG,10.185.211.245,Hallberg,holly87,2024-06-29 21:42:23

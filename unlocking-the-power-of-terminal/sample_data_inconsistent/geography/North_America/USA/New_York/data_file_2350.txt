@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.19.156.64,North Kendra,jeffrey31
+FAILURE,172.27.92.191,Donaldmouth,cramirez,2024-08-01 01:05:22
+WARNING,10.180.15.221,South Matthew
+CRITICAL,172.25.175.63,Lake Matthew,cabrerajesse,2024-02-25 14:38:19,PUT

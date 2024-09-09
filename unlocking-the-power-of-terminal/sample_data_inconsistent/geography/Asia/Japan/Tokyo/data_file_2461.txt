@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.20.182.26,New Connie,jasonkline,2024-01-25 00:54:59
+DEBUG,192.168.14.191,Lake Elizabethside
+SUCCESS,10.233.174.31,Hullfort,harmonwilliam,2024-08-06 02:27:02,GET,Windows
+SUCCESS,172.28.85.19,Paulberg,joshua13,2024-02-04 18:04:35,DELETE
+INFO,10.115.207.37,Ericton,ortegaandrew,2024-02-20 16:01:42

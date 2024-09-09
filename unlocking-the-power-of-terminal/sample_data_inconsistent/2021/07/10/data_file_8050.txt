@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.135.170,Rachelstad
+DEBUG,192.168.41.215,Jamieberg,wolfann,2024-07-25 23:20:35
+WARNING,10.117.88.179,Austinside

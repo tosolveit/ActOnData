@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.161.167.188,Barberberg,sandra80,2024-02-06 02:24:17,POST
+SUCCESS,10.163.163.72,Rickville
+SUCCESS,192.168.252.121,South Stephanieberg,mcfarlandmichelle,2024-06-11 14:57:32,POST,Linux
+SUCCESS,10.139.70.160,East Melindaview,robertsmith,2024-09-08 02:17:13

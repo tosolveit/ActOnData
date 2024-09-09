@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.222.173,Payneborough,destiny11,2024-02-04 08:48:34,PUT,Android
+CRITICAL,172.22.199.133,Robinsonstad,justin54
+FAILURE,172.19.188.21,East Rita,greg86,2024-02-13 13:08:15,PUT

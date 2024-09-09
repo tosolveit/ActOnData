@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.31.100.247,Anthonyberg,timothynelson,2024-08-24 01:52:47,GET,Windows
+ERROR,10.122.2.225,Aaronville,nprice

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.27.158.185,New Dawnbury,nicholsmichael,2024-07-06 02:10:38,PUT,Android
+DEBUG,192.168.20.203,Angelafort,lesliebuchanan,2024-03-04 23:58:41,DELETE,Linux
+CRITICAL,172.17.18.143,Chaseshire,hgarcia,2024-05-15 22:24:02,POST,Android
+WARNING,172.16.40.37,Robertview,christophertyler,2024-09-04 14:31:43,GET

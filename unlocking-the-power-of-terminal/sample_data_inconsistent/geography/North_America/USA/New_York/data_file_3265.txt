@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.8.82,Lake Heatherport,chelsea60,2024-04-03 09:53:01,POST
+CRITICAL,10.85.69.7,North Theresa,mclaughlinsteven
+INFO,192.168.233.191,Brittanytown,qzavala,2024-03-15 02:45:00,GET,Windows

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,172.30.18.52,Benjaminmouth
+FAILURE,172.17.18.65,Obrienside,paulbryan,2024-03-19 09:10:10,POST,Android
+CRITICAL,172.20.88.182,New Amberstad,michael67
+ERROR,10.24.17.234,New Michaelburgh,martinjeffery,2024-04-13 21:31:20,PUT,iOS

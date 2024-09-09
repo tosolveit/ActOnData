@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.92.209.30,Lake Lisa
+INFO,10.120.201.166,Lake Melissa,skinnerallison
+INFO,10.197.229.124,Johnsonshire,tmedina,2024-05-09 16:54:28,DELETE

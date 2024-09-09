@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.243.1,North Robin,jeffrey17,2024-09-01 14:59:27,GET
+DEBUG,192.168.50.130,Sullivanmouth,zjames,2024-04-07 07:01:55,PUT,Android
+DEBUG,192.168.12.215,Ashleyburgh,alexisblackburn,2024-04-09 16:28:12,GET,macOS

@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.228.33,Evanston
+CRITICAL,10.148.39.185,Lake Mark,cervanteslevi,2024-01-01 20:37:21
+FAILURE,192.168.7.130,New Mary
+NOTICE,192.168.56.168,West Aaron,susanarnold,2024-03-09 20:04:08,PUT
+ERROR,172.17.164.102,New Leslieberg,williamsbonnie,2024-03-08 17:36:05,POST

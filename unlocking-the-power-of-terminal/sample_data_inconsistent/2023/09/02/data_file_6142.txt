@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.21.132.132,Fieldsstad,thomasromero
+CRITICAL,172.22.131.234,South Jeremy
+NOTICE,10.102.148.108,New Thomasmouth,shawnterry,2024-04-12 15:13:32
+CRITICAL,10.131.211.48,Hunterchester,krista98

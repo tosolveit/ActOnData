@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.168.213.131,Josephmouth,gatesmichael
+ERROR,172.31.7.39,Jamestown,ronaldellis,2024-01-06 21:46:32,GET,Windows
+WARNING,192.168.89.125,North Emilyton
+ERROR,10.47.37.1,Hannahshire,jennifer45,2024-02-07 20:38:24
+WARNING,192.168.150.178,Hillborough,marissajordan,2024-06-19 08:39:32,PUT

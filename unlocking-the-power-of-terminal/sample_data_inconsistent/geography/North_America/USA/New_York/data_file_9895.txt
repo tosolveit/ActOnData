@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.21.204.154,Port Thomasmouth,karen04,2024-08-08 05:02:31,DELETE,Windows
+WARNING,10.234.130.250,South Elizabeth,randyclark,2024-04-14 22:58:47
+DEBUG,172.25.167.56,New Derrickmouth,ocochran,2024-09-04 14:36:30,POST
+FAILURE,10.114.130.78,North Jesse
+WARNING,192.168.34.222,Lake Marthaville,tschultz

@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.21.3.79,Mccannside
+INFO,10.214.106.187,South Janetport,tbell,2024-07-31 10:13:43
+INFO,172.16.233.247,Nicholasmouth,migueljimenez,2024-01-17 17:55:37

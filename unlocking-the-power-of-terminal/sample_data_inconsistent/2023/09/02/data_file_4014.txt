@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,10.121.107.180,New Andres,brownalyssa,2024-01-22 13:27:19,POST,iOS
+ERROR,10.15.135.242,Johnsonport,courtneyodonnell,2024-03-20 07:24:33
+DEBUG,192.168.245.0,Lake Anthonybury,briannawalters,2024-05-10 22:36:35

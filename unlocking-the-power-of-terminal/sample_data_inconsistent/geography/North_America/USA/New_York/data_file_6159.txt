@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,10.136.22.232,Webershire
+NOTICE,10.151.178.253,Brownfurt,qmcdaniel,2024-06-16 12:25:37,DELETE
+DEBUG,192.168.42.217,Robertville,davidproctor,2024-03-21 03:46:50

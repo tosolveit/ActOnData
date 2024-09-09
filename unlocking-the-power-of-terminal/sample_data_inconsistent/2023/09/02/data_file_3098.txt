@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,172.30.149.60,Rochaland,meganmooney,2024-05-21 14:10:40,POST
+SUCCESS,10.172.180.15,West Peterville,buchanankristina,2024-05-27 06:14:30,POST,Android
+ERROR,192.168.222.24,East Lauren,mitchell21,2024-07-20 13:32:54
+DEBUG,172.18.141.218,Davisport,rhodescolleen,2024-04-04 11:04:09,DELETE

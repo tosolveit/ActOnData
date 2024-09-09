@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.207.99,New John,harry73,2024-03-10 13:55:22,GET,Linux
+FAILURE,10.176.177.206,Marystad,gabriela95,2024-03-23 17:01:03
+ERROR,10.123.95.83,North Melissachester,velazquezjustin

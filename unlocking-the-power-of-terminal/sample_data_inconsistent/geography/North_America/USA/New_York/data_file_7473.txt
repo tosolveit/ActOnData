@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,10.107.127.38,Turnerfort,lisarowland,2024-03-06 15:54:39
+FAILURE,10.151.14.91,New Paulaborough,frank46
+INFO,192.168.112.220,Port Alexander,porteranthony
+WARNING,192.168.77.25,West Amyfurt,nicole85,2024-08-05 22:20:35
+SUCCESS,172.19.163.135,Morrisbury,deborah31,2024-09-07 20:55:49,POST

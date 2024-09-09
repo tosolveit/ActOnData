@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.18.219.16,Mendozachester
+DEBUG,192.168.127.149,Hannahhaven,vkline,2024-07-08 04:11:26,GET,Linux
+ERROR,192.168.228.196,Port Loriland,cynthia68,2024-03-05 21:50:00,GET
+CRITICAL,172.30.181.142,East Michaelmouth,cbriggs,2024-03-15 17:21:50,DELETE,macOS
+INFO,192.168.83.248,West William,jflores,2024-06-09 13:16:07,GET

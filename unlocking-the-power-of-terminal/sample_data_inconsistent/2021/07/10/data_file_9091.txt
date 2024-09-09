@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,192.168.60.8,Natashastad,alvaradodavid,2024-08-26 11:13:55,DELETE
+SUCCESS,192.168.127.142,Christopherchester,jerrymcdonald
+SUCCESS,10.8.162.253,North Stacey,xmoore,2024-04-23 03:40:10

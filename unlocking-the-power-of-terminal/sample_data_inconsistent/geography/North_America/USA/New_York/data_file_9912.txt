@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.139.85,West Donnafort,tferguson,2024-04-07 18:29:57
+CRITICAL,10.134.207.22,Tylermouth,pmurillo,2024-01-23 15:18:43
+INFO,192.168.166.22,South Kelly,heather35
+FAILURE,192.168.148.102,Stephensberg,oconnellanne

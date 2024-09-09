@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,172.27.90.67,Sanchezborough,ebrown,2024-02-16 15:26:47,PUT
+CRITICAL,192.168.38.53,North Zoetown
+ERROR,172.24.224.164,South Patricia,russelljeffrey,2024-08-06 01:33:49,POST
+INFO,192.168.190.70,Bakerhaven,christopher60,2024-03-08 20:08:40,GET,Linux
+DEBUG,192.168.1.235,Lake Jason,robertparks,2024-06-26 13:36:22,POST

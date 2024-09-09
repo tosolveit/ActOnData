@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.1.21.238,Summerberg
+SUCCESS,172.16.50.60,Lake Kimberlytown,matthewgraham,2024-09-03 07:09:37,PUT,iOS
+CRITICAL,10.31.92.19,North Lisa,johnjones,2024-03-28 18:28:52

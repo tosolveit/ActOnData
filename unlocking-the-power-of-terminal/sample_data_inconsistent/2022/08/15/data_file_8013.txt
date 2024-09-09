@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.49.203.111,Zunigaport,anthony28,2024-09-08 20:08:16
+WARNING,192.168.12.109,New Jennifer
+CRITICAL,10.94.176.15,West Tashaview
+NOTICE,172.25.73.135,Richardshire,emarshall
+NOTICE,192.168.103.227,Vanessamouth,lauren65,2024-08-20 10:54:51,GET,iOS

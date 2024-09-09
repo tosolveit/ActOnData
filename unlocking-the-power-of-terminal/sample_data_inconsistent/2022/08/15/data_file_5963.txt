@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,172.29.87.41,West Ivanton,wnovak
+NOTICE,192.168.153.34,Lake Jenniferport,jessica51,2024-06-14 19:03:03
+CRITICAL,192.168.180.166,Christopherport
+NOTICE,10.16.101.118,Shawmouth,watkinsscott,2024-04-26 08:13:56,PUT,Windows
+CRITICAL,192.168.134.192,Stephaniebury,levans,2024-01-03 20:23:48,POST,Linux

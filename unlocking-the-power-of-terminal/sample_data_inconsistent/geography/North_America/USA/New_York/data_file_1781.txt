@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+SUCCESS,10.43.204.197,Smithton,kimberly73,2024-03-31 00:20:33,POST
+FAILURE,192.168.176.52,Johnshire,jessicastewart,2024-03-16 23:26:19
+INFO,10.233.191.230,Mariachester,andrew12,2024-01-12 19:15:19,DELETE
+FAILURE,192.168.28.176,East Davidberg,james06,2024-02-04 07:02:31,POST,Android

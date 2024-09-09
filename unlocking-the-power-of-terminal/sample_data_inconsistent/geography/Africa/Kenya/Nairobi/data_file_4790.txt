@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,10.115.116.255,Victoriaburgh,lisa23
+NOTICE,172.18.58.75,Ashleyfurt
+CRITICAL,192.168.91.183,Arnoldton,mhill,2024-02-06 09:48:17,DELETE

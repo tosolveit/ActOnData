@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,10.136.136.32,Woodport,monroejon,2024-04-01 08:00:24,POST
+CRITICAL,10.166.58.198,East Rebecca,jerryhouse
+FAILURE,10.255.191.4,South Williamburgh

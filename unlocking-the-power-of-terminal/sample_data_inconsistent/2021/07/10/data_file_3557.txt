@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.50.178,South Bethany,danieltaylor,2024-07-20 03:40:06
+ERROR,172.22.161.246,Thompsonborough,kimray,2024-03-26 11:51:28
+FAILURE,10.116.209.120,Juliaview,keith43,2024-05-25 01:41:35,POST,Android
+FAILURE,172.22.210.191,Mezabury,webercarrie,2024-01-15 18:03:30

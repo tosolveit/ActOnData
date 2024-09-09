@@ -1,0 +1,3 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.15.135,North Erin,carlos60,2024-07-29 00:04:57,PUT,Android
+DEBUG,172.20.17.134,Williamsview,johnsonduane,2024-02-27 16:28:37,DELETE,Linux

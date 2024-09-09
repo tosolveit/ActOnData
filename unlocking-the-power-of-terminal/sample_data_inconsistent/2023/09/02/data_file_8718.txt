@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,172.29.189.253,Andrewside
+FAILURE,172.23.26.53,North Jillfort,davidjohnson,2024-06-23 18:03:05,GET,Windows
+INFO,172.22.126.31,Timothyshire,ksmith,2024-08-27 07:05:14,DELETE,macOS
+FAILURE,172.31.239.70,New Sarah,ryanwhitney,2024-09-07 07:42:54,GET,Android

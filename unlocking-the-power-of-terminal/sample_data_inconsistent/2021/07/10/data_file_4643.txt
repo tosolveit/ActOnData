@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,172.22.37.58,New Dana,tyler97,2024-06-27 21:46:42,POST
+ERROR,192.168.91.90,Sarahchester,charles90,2024-02-12 16:08:00,POST
+WARNING,10.148.246.43,East Sharichester,susan57,2024-08-16 11:52:21
+WARNING,192.168.140.56,Amberbury,brandigardner,2024-07-02 14:38:13,PUT
+CRITICAL,10.89.150.109,Rachelhaven

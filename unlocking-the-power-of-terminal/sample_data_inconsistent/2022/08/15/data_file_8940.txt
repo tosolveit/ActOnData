@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,10.144.149.131,Lake Misty,mroy
+FAILURE,172.21.127.234,Graybury,melissa91
+SUCCESS,192.168.204.2,Johnstonport,bobbyfranco,2024-03-08 02:27:58
+INFO,192.168.223.227,New Rebekah
+NOTICE,10.110.83.67,Haleyside,robertbutler

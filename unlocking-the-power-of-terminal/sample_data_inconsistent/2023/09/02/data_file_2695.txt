@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.229.94,Amyburgh
+INFO,10.111.80.227,Lake Michaelborough
+CRITICAL,192.168.220.18,Jacobsonhaven,nhamilton,2024-05-03 18:57:31,POST,Linux
+CRITICAL,192.168.88.19,East Stacie

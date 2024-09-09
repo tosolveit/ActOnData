@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,10.78.70.130,Hansonville,jennifermontgomery,2024-07-09 02:23:01
+ERROR,172.24.127.175,Michaelhaven,markrose
+SUCCESS,10.171.132.125,Lake Marie
+ERROR,192.168.145.8,South Patricia,andrew78,2024-07-14 16:56:29,POST,macOS
+CRITICAL,10.198.126.211,East Samanthafort,samanthagates,2024-04-17 18:51:40,PUT,iOS

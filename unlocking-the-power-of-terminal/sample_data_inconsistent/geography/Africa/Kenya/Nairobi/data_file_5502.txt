@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.233.142,East Cassidystad,fwagner,2024-02-20 23:08:56
+DEBUG,10.193.92.192,South Kelseyport,harrisonjudy,2024-03-18 07:06:21,GET,macOS
+SUCCESS,10.247.245.248,South Jacob,kellybender,2024-02-28 22:16:43,PUT
+NOTICE,172.25.39.29,Port Kathyfurt,johnny22,2024-08-12 18:32:51
+WARNING,10.205.75.237,Port Ashley,stephanie28,2024-02-20 21:36:18,POST,Android

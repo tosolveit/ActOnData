@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+NOTICE,192.168.12.193,Markchester,fred56
+NOTICE,10.53.80.188,Port Alexaberg
+ERROR,192.168.80.97,Natalieburgh,rodriguezalicia,2024-02-06 03:15:46,DELETE,Linux
+ERROR,192.168.164.186,Lake Melissa
+ERROR,10.112.62.240,Stephanieborough,aprilhammond,2024-02-09 01:39:12,DELETE

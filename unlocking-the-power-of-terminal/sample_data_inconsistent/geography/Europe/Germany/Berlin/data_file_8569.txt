@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+WARNING,172.19.37.183,Mcdanielburgh,yspencer,2024-07-17 09:04:57,DELETE
+SUCCESS,192.168.161.81,Josephfurt,georgejoshua,2024-08-24 03:45:10
+SUCCESS,172.24.39.107,Lake Ashleyshire,jeffrey63,2024-03-20 13:35:39,GET
+WARNING,10.41.255.177,Andreafort,barbara68
+ERROR,172.30.229.112,Barbermouth,parker13,2024-07-23 16:51:11,DELETE,Android

@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+INFO,192.168.196.124,Griffinfurt,stacylawson,2024-01-01 23:41:05
+ERROR,172.18.94.29,Justinside,dcarrillo,2024-05-27 05:43:56
+CRITICAL,172.23.136.135,Jamesfurt,foxeric,2024-02-05 01:13:25
+NOTICE,192.168.78.204,West Jenniferside

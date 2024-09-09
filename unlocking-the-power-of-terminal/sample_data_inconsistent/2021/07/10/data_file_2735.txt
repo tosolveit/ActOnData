@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+DEBUG,192.168.7.178,Deckerton,daniel99,2024-07-31 20:46:44
+SUCCESS,192.168.50.12,Nelsonport,cainchristina,2024-07-30 14:23:13,GET,macOS
+INFO,192.168.99.180,Thompsonside,vstewart,2024-07-19 05:10:17,GET,iOS

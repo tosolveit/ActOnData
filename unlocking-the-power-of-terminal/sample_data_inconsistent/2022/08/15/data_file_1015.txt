@@ -1,0 +1,5 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+ERROR,172.29.230.56,Fletcherview,william61,2024-04-18 03:58:49,PUT,Windows
+WARNING,172.26.216.224,Mossmouth
+FAILURE,192.168.56.95,Moonland
+FAILURE,10.200.89.35,Lake Heather,marcus00,2024-05-10 22:47:06,DELETE

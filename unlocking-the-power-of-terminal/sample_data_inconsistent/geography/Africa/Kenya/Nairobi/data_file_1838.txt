@@ -1,0 +1,6 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+CRITICAL,192.168.53.170,Lake John,david70,2024-06-01 20:09:34,GET,Linux
+FAILURE,10.32.71.201,Bowersburgh
+FAILURE,172.16.192.181,East Leestad,ramirezmatthew
+SUCCESS,172.23.84.28,Thomasbury
+CRITICAL,172.31.89.112,Scotthaven,valentinemichael,2024-02-05 05:32:16,DELETE

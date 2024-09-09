@@ -1,0 +1,4 @@
+EVENT,IP_Address,Location,User_ID,Timestamp,HTTP_Method,Device
+FAILURE,192.168.185.196,Lake Sarahport,lwilson,2024-07-20 03:45:14,PUT
+FAILURE,172.22.15.73,Greeneport,gmyers
+SUCCESS,10.60.20.216,Kristibury,natasha67,2024-05-29 15:10:51,DELETE
